@@ -42,12 +42,12 @@
         "shellscape.shellscape-brackets",
         "redhat.vscode-yaml",
         "ryanluker.vscode-coverage-gutters",
+        "tamasfe.even-better-toml",
         "wmaurer.change-case"
     ],
     "rust": [
         "rust-lang.rust-analyzer",
-        "serayuzgur.crates",
-        "tamasfe.even-better-toml"
+        "serayuzgur.crates"
     ],
     "scala": [
         "lightbend.vscode-sbt-scala",
