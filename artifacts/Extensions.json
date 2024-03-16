@@ -27,6 +27,7 @@
         "akamud.vscode-theme-onedark",
         "bbenoist.nix",
         "britesnow.vscode-toggle-quotes",
+        "charliermarsh.ruff",
         "christian-kohler.path-intellisense",
         "codeium.codeium",
         "eamodio.gitlens",
