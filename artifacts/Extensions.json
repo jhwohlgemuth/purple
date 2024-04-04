@@ -22,6 +22,11 @@
         "ocamllabs.ocaml-platform",
         "xldenis.whycode"
     ],
+    "latex": [
+        "efoerster.texlab",
+        "tecosaur.latex-utilities",
+        "james-yu.latex-workshop"
+    ],
     "notebook": [
         "aaron-bond.better-comments",
         "akamud.vscode-theme-onedark",
