@@ -67,6 +67,7 @@
         "bierner.color-info",
         "chenglou92.rescript-vscode",
         "components.vscode-styled-components",
+        "denoland.vscode-deno",
         "sbrink.elm",
         "team-sapling.sapling",
         "wallabyjs.console-ninja",
