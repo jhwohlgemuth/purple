@@ -61,7 +61,9 @@
         "scala-lang.scala"
     ],
     "wasm": [
-        "gengjiawen.vscode-wasm"
+        "gengjiawen.vscode-wasm",
+        "grain-lang.vscode-grain",
+        "moonbit.moonbit-lang"
     ],
     "web": [
         "bierner.color-info",
