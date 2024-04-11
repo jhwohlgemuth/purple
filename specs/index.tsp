@@ -13,9 +13,15 @@ model Artifact {
   license: License;
   category: string;
   subcategory: string;
+
+  @uniqueItems
   keywords: string[];
+
   isAccessibleForFree: boolean;
+
+  @uniqueItems
   operatingSystem: OperatingSystem[];
+
   processorRequirements: string;
   runtimePlatform: string;
   sameAs: string;

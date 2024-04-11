@@ -28,7 +28,8 @@
             "type": "array",
             "items": {
                 "type": "string"
-            }
+            },
+            "uniqueItems": true
         },
         "isAccessibleForFree": {
             "type": "boolean"
@@ -37,7 +38,8 @@
             "type": "array",
             "items": {
                 "$ref": "OperatingSystem.json"
-            }
+            },
+            "uniqueItems": true
         },
         "processorRequirements": {
             "type": "string"
