@@ -1,0 +1,15 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "Status.json",
+    "type": "string",
+    "enum": [
+        "Concept",
+        "WIP",
+        "Active",
+        "Inactive",
+        "Suspended",
+        "Abandoned",
+        "Unsupported",
+        "Moved"
+    ]
+}

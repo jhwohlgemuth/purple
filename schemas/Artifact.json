@@ -1,0 +1,79 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "Artifact.json",
+    "type": "object",
+    "properties": {
+        "name": {
+            "type": "string"
+        },
+        "description": {
+            "type": "string"
+        },
+        "disambiguatingDescription": {
+            "type": "string"
+        },
+        "identifier": {
+            "type": "string"
+        },
+        "license": {
+            "$ref": "License.json"
+        },
+        "category": {
+            "type": "string"
+        },
+        "subcategory": {
+            "type": "string"
+        },
+        "keywords": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
+        "isAccessibleForFree": {
+            "type": "boolean"
+        },
+        "operatingSystem": {
+            "type": "array",
+            "items": {
+                "$ref": "OperatingSystem.json"
+            }
+        },
+        "processorRequirements": {
+            "type": "string"
+        },
+        "runtimePlatform": {
+            "type": "string"
+        },
+        "sameAs": {
+            "type": "string"
+        },
+        "url": {
+            "type": "string",
+            "format": "uri"
+        },
+        "developmentStatus": {
+            "$ref": "Status.json"
+        },
+        "version": {
+            "type": "string"
+        }
+    },
+    "required": [
+        "name",
+        "description",
+        "identifier",
+        "license",
+        "category",
+        "subcategory",
+        "keywords",
+        "isAccessibleForFree",
+        "operatingSystem",
+        "processorRequirements",
+        "runtimePlatform",
+        "sameAs",
+        "url",
+        "developmentStatus",
+        "version"
+    ]
+}
