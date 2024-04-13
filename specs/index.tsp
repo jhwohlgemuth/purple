@@ -1,44 +1,51 @@
 import "@typespec/json-schema";
+import "./common.tsp";
 
 using TypeSpec.JsonSchema;
+using Common;
 
 @jsonSchema
 namespace Metadata;
 
 model Artifact {
-  name: string;
+  @key
+  identifier: GUID | DOI;
+
+  @doc("Type of software application, e.g. 'Game, Multimedia'")
+  applicationCategory: string;
+
+  @doc("Subcategory of the application category, e.g. 'Adventure Game, Educational'")
+  applicationSubCategory?: string;
+
+  category?: string;
   description: string;
+  developmentStatus: DevelopmentStatus;
   disambiguatingDescription?: string;
-  identifier: string;
-  license: License;
-  category: string;
-  subcategory: string;
+  isAccessibleForFree: boolean;
 
   @uniqueItems
   keywords: string[];
 
-  isAccessibleForFree: boolean;
+  @doc("A license document that applies to this content, typically indicated by URL")
+  license?: License | url;
+
+  name: string;
 
   @uniqueItems
   operatingSystem: OperatingSystem[];
 
-  processorRequirements: string;
-  runtimePlatform: string;
-  sameAs: string;
-  url: url;
-  developmentStatus: Status;
-  version: string;
-}
+  @doc("Processor architecture required to run the application (e.g. IA64)")
+  processorRequirements?: string;
 
-enum License {
-  MIT: "MIT",
+  @doc("Runtime platform or script interpreter dependencies (e.g. Java v1, Python2.3, .Net Framework 3.0)")
+  runtimePlatform?: RuntimePlatform;
+
+  sameAs?: url;
+  targetProduct?: TargetProduct;
+  url?: url;
+  version?: SemanticVersion;
 }
-enum OperatingSystem {
-  Windows,
-  Mac,
-  Linux,
-}
-enum Status {
+enum DevelopmentStatus {
   @doc("Minimal or no implementation has been done yet, or the repository is only intended to be a limited example, demo, or proof-of-concept.")
   Concept,
 
@@ -62,4 +69,35 @@ enum Status {
 
   @doc("The project has been moved to a new location, and the version at that location should be considered authoritative.")
   Moved,
+}
+enum License {
+  MIT: "MIT",
+}
+enum OperatingSystem {
+  Linux,
+  Mac,
+  Nix,
+  Windows,
+}
+enum RuntimePlatform {
+  Java,
+  JavaScript,
+  Node,
+  Python,
+  WebAssembly,
+  dotnet,
+  shell,
+}
+@doc("Target product to which the code applies. Can be name of product or sc:SoftwareApplication.")
+enum TargetProduct {
+  chocolatey,
+  conda,
+  homebrew,
+  nix,
+  npm,
+  pip,
+  scoop,
+  spack,
+  vscode,
+  winget,
 }

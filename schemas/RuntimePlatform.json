@@ -1,0 +1,14 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "RuntimePlatform.json",
+    "type": "string",
+    "enum": [
+        "Java",
+        "JavaScript",
+        "Node",
+        "Python",
+        "WebAssembly",
+        "dotnet",
+        "shell"
+    ]
+}

@@ -14,6 +14,7 @@
     "scripts": {
         "install:extension": "tsp code install",
         "format": "tsp format ./specs/**/*.tsp",
+        "precompile": "npm run format",
         "compile": "tsp compile ./specs/index.tsp"
     }
 }

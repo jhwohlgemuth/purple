@@ -3,26 +3,38 @@
     "$id": "Artifact.json",
     "type": "object",
     "properties": {
-        "name": {
+        "identifier": {
+            "anyOf": [
+                {
+                    "$ref": "GUID.json"
+                },
+                {
+                    "$ref": "DOI.json"
+                }
+            ]
+        },
+        "applicationCategory": {
+            "type": "string",
+            "description": "Type of software application, e.g. 'Game, Multimedia'"
+        },
+        "applicationSubCategory": {
+            "type": "string",
+            "description": "Subcategory of the application category, e.g. 'Adventure Game, Educational'"
+        },
+        "category": {
             "type": "string"
         },
         "description": {
             "type": "string"
         },
+        "developmentStatus": {
+            "$ref": "DevelopmentStatus.json"
+        },
         "disambiguatingDescription": {
             "type": "string"
         },
-        "identifier": {
-            "type": "string"
-        },
-        "license": {
-            "$ref": "License.json"
-        },
-        "category": {
-            "type": "string"
-        },
-        "subcategory": {
-            "type": "string"
+        "isAccessibleForFree": {
+            "type": "boolean"
         },
         "keywords": {
             "type": "array",
@@ -31,8 +43,20 @@
             },
             "uniqueItems": true
         },
-        "isAccessibleForFree": {
-            "type": "boolean"
+        "license": {
+            "anyOf": [
+                {
+                    "$ref": "License.json"
+                },
+                {
+                    "type": "string",
+                    "format": "uri"
+                }
+            ],
+            "description": "A license document that applies to this content, typically indicated by URL"
+        },
+        "name": {
+            "type": "string"
         },
         "operatingSystem": {
             "type": "array",
@@ -42,40 +66,57 @@
             "uniqueItems": true
         },
         "processorRequirements": {
-            "type": "string"
+            "type": "string",
+            "description": "Processor architecture required to run the application (e.g. IA64)"
         },
         "runtimePlatform": {
-            "type": "string"
+            "$ref": "RuntimePlatform.json",
+            "description": "Runtime platform or script interpreter dependencies (e.g. Java v1, Python2.3, .Net Framework 3.0)"
         },
         "sameAs": {
-            "type": "string"
+            "type": "string",
+            "format": "uri"
+        },
+        "targetProduct": {
+            "$ref": "TargetProduct.json"
         },
         "url": {
             "type": "string",
             "format": "uri"
         },
-        "developmentStatus": {
-            "$ref": "Status.json"
-        },
         "version": {
-            "type": "string"
+            "$ref": "SemanticVersion.json"
         }
     },
     "required": [
-        "name",
-        "description",
         "identifier",
-        "license",
-        "category",
-        "subcategory",
-        "keywords",
-        "isAccessibleForFree",
-        "operatingSystem",
-        "processorRequirements",
-        "runtimePlatform",
-        "sameAs",
-        "url",
+        "applicationCategory",
+        "description",
         "developmentStatus",
-        "version"
-    ]
+        "isAccessibleForFree",
+        "keywords",
+        "name",
+        "operatingSystem"
+    ],
+    "$defs": {
+        "GUID": {
+            "type": "string",
+            "$schema": "https://json-schema.org/draft/2020-12/schema",
+            "$id": "GUID.json",
+            "pattern": "^\\d{8}-\\d{4}-\\d{4}-\\d{4}-\\d{12}$"
+        },
+        "DOI": {
+            "type": "string",
+            "$schema": "https://json-schema.org/draft/2020-12/schema",
+            "$id": "DOI.json",
+            "pattern": "^10.\\d{4,9}/[-._;()/:A-Z0-9]+$",
+            "description": "https://www.crossref.org/blog/dois-and-matching-regular-expressions/"
+        },
+        "SemanticVersion": {
+            "type": "string",
+            "$schema": "https://json-schema.org/draft/2020-12/schema",
+            "$id": "SemanticVersion.json",
+            "pattern": "^\\d{1,4}\\.\\d{1,4}\\.\\d{1,4}$"
+        }
+    }
 }
