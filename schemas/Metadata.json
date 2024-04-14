@@ -6,6 +6,15 @@
         "identifier": {
             "$ref": "GUID.json"
         },
+        "description": {
+            "type": "string"
+        },
+        "keywords": {
+            "type": "array",
+            "items": {
+                "type": "string"
+            }
+        },
         "items": {
             "type": "array",
             "items": {
@@ -15,6 +24,7 @@
     },
     "required": [
         "identifier",
+        "keywords",
         "items"
     ],
     "$defs": {

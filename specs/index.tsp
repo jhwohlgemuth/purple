@@ -9,6 +9,8 @@ namespace Metadata;
 
 model Metadata {
   identifier: GUID;
+  description?: string;
+  keywords: string[];
   items: Artifact[];
 }
 
