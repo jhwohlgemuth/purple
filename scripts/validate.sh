@@ -7,4 +7,4 @@ set -e
     -c ajv-formats \
     -s ./schemas/Artifact.json \
     -r "./schemas/{ApplicationCategory,DevelopmentStatus,License,OperatingSystem,RuntimePlatform,TargetProduct}.json" \
-    -d "artifacts/metadata.json" || true
+    -d "metadata.json" || true

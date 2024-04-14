@@ -13,7 +13,7 @@ $Parameters = @{
     'all-errors' = $true
     'spec' = 'draft2020'
     'c' = 'ajv-formats'
-    'd' = '"artifacts/metadata.json"'
+    'd' = '"metadata.json"'
     'r' = "`"./schemas/`{$($Referenced -join ',')`}.json`""
     's' = '"./schemas/metadata.json"'
 }
