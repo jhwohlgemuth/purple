@@ -49,6 +49,7 @@
         "shellscape.shellscape-brackets",
         "redhat.vscode-yaml",
         "ryanluker.vscode-coverage-gutters",
+        "skellock.just",
         "tamasfe.even-better-toml",
         "wmaurer.change-case"
     ],
