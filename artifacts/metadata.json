@@ -1,22 +1,15 @@
-[
-    {
-        "name": "",
-        "description": "",
-        "disambiguatingDescription": "",
-        "identifier": "",
-        "license": "",
-        "category": "",
-        "subcategory": "",
-        "codeRespository": "",
-        "keywords": [],
-        "isAccessibleForFree": true,
-        "operatingSystem": [],
-        "processorRequirements": "",
-        "runtimePlatform": "",
-        "sameAs": "",
-        "targetProduct": "",
-        "url": "",
-        "developmentStatus": "",
-        "version": ""
-    }
-]
+{
+    "identifier": "f966cab1-c8e1-4ba1-9db4-0b8a72257b76",
+    "items": [
+        {
+            "identifier": "b93a9b75-7b49-4cab-b5bf-ba83339ec609",
+            "applicationCategory": "",
+            "description": "",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "",
+            "operatingSystem": []
+        }
+    ]
+}

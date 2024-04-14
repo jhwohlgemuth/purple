@@ -1,6 +1,6 @@
 {
-    "name": "my-schema",
-    "version": "0.1.0",
+    "name": "purple",
+    "version": "0.0.1",
     "type": "module",
     "private": true,
     "dependencies": {
@@ -9,12 +9,16 @@
         "@typespec/json-schema": "^0.50.0",
         "@typespec/openapi": "^0.50.0",
         "@typespec/openapi3": "^0.50.0",
-        "@typespec/rest": "^0.50.0"
+        "@typespec/rest": "^0.50.0",
+        "ajv-cli": "*",
+        "ajv-formats": "^3.0.1",
+        "ajv-keywords": "*"
     },
     "scripts": {
         "install:extension": "tsp code install",
         "format": "tsp format ./specs/**/*.tsp",
         "precompile": "npm run format",
-        "compile": "tsp compile ./specs/index.tsp"
+        "compile": "tsp compile ./specs/index.tsp",
+        "validate": "pwsh ./scripts/validate.ps1"
     }
 }

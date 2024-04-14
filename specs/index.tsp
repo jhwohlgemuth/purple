@@ -7,6 +7,11 @@ using Common;
 @jsonSchema
 namespace Metadata;
 
+model Metadata {
+  identifier: GUID;
+  items: Artifact[];
+}
+
 model Artifact {
   @key
   identifier: GUID | DOI;

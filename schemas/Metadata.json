@@ -1,0 +1,28 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "Metadata.json",
+    "type": "object",
+    "properties": {
+        "identifier": {
+            "$ref": "GUID.json"
+        },
+        "items": {
+            "type": "array",
+            "items": {
+                "$ref": "Artifact.json"
+            }
+        }
+    },
+    "required": [
+        "identifier",
+        "items"
+    ],
+    "$defs": {
+        "GUID": {
+            "type": "string",
+            "$schema": "https://json-schema.org/draft/2020-12/schema",
+            "$id": "GUID.json",
+            "pattern": "^[a-z0-9]{8}-[a-z0-9]{4}-[a-z0-9]{4}-[a-z0-9]{4}-[a-z0-9]{12}$"
+        }
+    }
+}
