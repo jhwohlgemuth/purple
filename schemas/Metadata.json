@@ -4,7 +4,18 @@
     "type": "object",
     "properties": {
         "identifier": {
-            "$ref": "GUID.json"
+            "anyOf": [
+                {
+                    "type": "string",
+                    "format": "uri"
+                },
+                {
+                    "$ref": "GUID.json"
+                },
+                {
+                    "$ref": "DOI.json"
+                }
+            ]
         },
         "description": {
             "type": "string"
@@ -33,6 +44,13 @@
             "$schema": "https://json-schema.org/draft/2020-12/schema",
             "$id": "GUID.json",
             "pattern": "^[a-z0-9]{8}-[a-z0-9]{4}-[a-z0-9]{4}-[a-z0-9]{4}-[a-z0-9]{12}$"
+        },
+        "DOI": {
+            "type": "string",
+            "$schema": "https://json-schema.org/draft/2020-12/schema",
+            "$id": "DOI.json",
+            "pattern": "^10.\\d{4,9}/[-._;()/:A-Z0-9]+$",
+            "description": "https://www.crossref.org/blog/dois-and-matching-regular-expressions/"
         }
     }
 }

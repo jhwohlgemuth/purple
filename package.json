@@ -19,6 +19,7 @@
         "format": "tsp format ./specs/**/*.tsp",
         "precompile": "npm run format",
         "compile": "tsp compile ./specs/index.tsp",
+        "prevalidate": "npm run compile",
         "validate": "pwsh ./scripts/validate.ps1"
     }
 }

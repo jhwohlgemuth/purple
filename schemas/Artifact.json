@@ -24,6 +24,10 @@
         "category": {
             "type": "string"
         },
+        "codeRepository": {
+            "type": "string",
+            "format": "uri"
+        },
         "description": {
             "type": "string"
         },
@@ -90,8 +94,6 @@
     },
     "required": [
         "identifier",
-        "applicationCategory",
-        "description",
         "developmentStatus",
         "isAccessibleForFree",
         "keywords",

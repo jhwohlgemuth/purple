@@ -8,7 +8,7 @@ using Common;
 namespace Metadata;
 
 model Metadata {
-  identifier: GUID;
+  identifier: url | GUID | DOI;
   description?: string;
   keywords: string[];
   items: Artifact[];
@@ -19,13 +19,14 @@ model Artifact {
   identifier: GUID | DOI;
 
   @doc("Type of software application, e.g. 'Game, Multimedia'")
-  applicationCategory: string;
+  applicationCategory?: string;
 
   @doc("Subcategory of the application category, e.g. 'Adventure Game, Educational'")
   applicationSubCategory?: string;
 
   category?: string;
-  description: string;
+  codeRepository?: url;
+  description?: string;
   developmentStatus: DevelopmentStatus;
   disambiguatingDescription?: string;
   isAccessibleForFree: boolean;
@@ -78,20 +79,20 @@ enum DevelopmentStatus {
   Moved,
 }
 enum License {
-  MIT: "MIT",
+  mit: "MIT",
 }
 enum OperatingSystem {
-  Linux,
-  Mac,
-  Nix,
-  Windows,
+  linux,
+  mac,
+  nix,
+  windows,
 }
 enum RuntimePlatform {
-  Java,
-  JavaScript,
-  Node,
-  Python,
-  WebAssembly,
+  java,
+  javascript,
+  node,
+  python,
+  webassembly,
   dotnet,
   shell,
 }

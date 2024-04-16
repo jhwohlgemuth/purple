@@ -1,6 +1,5 @@
 {
     "Common": [
-        "7zip",
         "bat",
         "bottom",
         "btop",
@@ -104,7 +103,6 @@
             "teracopy-np": "teracopy"
         },
         "Homebrew": {
-            "7zip": "sevenzip",
             "altair": "altair-graphql-client",
             "brave": "brave-browser",
             "delta": "git-delta",
@@ -131,7 +129,6 @@
             "make": "gmake"
         },
         "Winget": {
-            "7zip": "7zip.7zip",
             "bottom": "Clement.bottom",
             "carnac": "code52.Carnac",
             "ccleaner": "Piriform.CCleaner",
@@ -189,7 +186,6 @@
             "espanso"
         ],
         "Nix": [
-            "7zip",
             "carnac",
             "ccleaner",
             "fig",

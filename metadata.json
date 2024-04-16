@@ -3,14 +3,66 @@
     "keywords": [],
     "items": [
         {
-            "identifier": "b93a9b75-7b49-4cab-b5bf-ba83339ec609",
-            "applicationCategory": "",
-            "description": "",
+            "identifier": "f058b59e-9873-4dea-b361-39edf50a1307",
+            "description": "A multi-format file archiver with high compression ratios",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
             "keywords": [],
-            "name": "",
-            "operatingSystem": []
+            "name": "7zip",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "f058b59e-9873-4dea-b361-39edf50a1307",
+            "description": "A multi-format file archiver with high compression ratios",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "7zip",
+            "operatingSystem": ["windows"],
+            "targetProduct": "chocolatey"
+        },
+        {
+            "identifier": "f058b59e-9873-4dea-b361-39edf50a1307",
+            "description": "A multi-format file archiver with high compression ratios",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "7zip.7zip",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "f058b59e-9873-4dea-b361-39edf50a1307",
+            "description": "A multi-format file archiver with high compression ratios",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "sevenzip",
+            "operatingSystem": ["mac", "linux"],
+            "targetProduct": "homebrew"
+        },
+        {
+            "identifier": "f058b59e-9873-4dea-b361-39edf50a1307",
+            "codeRepository": "https://github.com/p7zip-project/p7zip",
+            "description": "A new p7zip fork with additional codecs and improvements (forked from 7zip and p7zip)",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "p7zip",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "f058b59e-9873-4dea-b361-39edf50a1307",
+            "codeRepository": "https://github.com/p7zip-project/p7zip",
+            "description": "A new p7zip fork with additional codecs and improvements (forked from 7zip and p7zip)",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "p7zip",
+            "operatingSystem": ["linux"],
+            "targetProduct": "spack"
         }
     ]
 }

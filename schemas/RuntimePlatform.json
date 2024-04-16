@@ -3,11 +3,11 @@
     "$id": "RuntimePlatform.json",
     "type": "string",
     "enum": [
-        "Java",
-        "JavaScript",
-        "Node",
-        "Python",
-        "WebAssembly",
+        "java",
+        "javascript",
+        "node",
+        "python",
+        "webassembly",
         "dotnet",
         "shell"
     ]

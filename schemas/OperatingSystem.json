@@ -3,9 +3,9 @@
     "$id": "OperatingSystem.json",
     "type": "string",
     "enum": [
-        "Linux",
-        "Mac",
-        "Nix",
-        "Windows"
+        "linux",
+        "mac",
+        "nix",
+        "windows"
     ]
 }
