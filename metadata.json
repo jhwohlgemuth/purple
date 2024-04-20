@@ -63,6 +63,66 @@
             "name": "p7zip",
             "operatingSystem": ["linux"],
             "targetProduct": "spack"
+        },
+        {
+            "identifier": "6c13a058-ae66-4485-a56f-9c55830174ac",
+            "description": "A cat(1) clone with wings",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "bat",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "6c13a058-ae66-4485-a56f-9c55830174ac",
+            "description": "A cat(1) clone with wings",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "bat",
+            "operatingSystem": ["windows"],
+            "targetProduct": "chocolatey"
+        },
+        {
+            "identifier": "6c13a058-ae66-4485-a56f-9c55830174ac",
+            "description": "A cat(1) clone with wings",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "sharkdp.bat",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "6c13a058-ae66-4485-a56f-9c55830174ac",
+            "description": "A cat(1) clone with wings",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "bat",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "homebrew"
+        },
+        {
+            "identifier": "6c13a058-ae66-4485-a56f-9c55830174ac",
+            "description": "A cat(1) clone with wings",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "bat",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "6c13a058-ae66-4485-a56f-9c55830174ac",
+            "description": "A cat(1) clone with wings",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "bat",
+            "operatingSystem": ["linux"],
+            "targetProduct": "spack"
         }
     ]
 }
