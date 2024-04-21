@@ -39,7 +39,7 @@
             "isAccessibleForFree": true,
             "keywords": [],
             "name": "sevenzip",
-            "operatingSystem": ["mac", "linux"],
+            "operatingSystem": ["linux", "mac"],
             "targetProduct": "homebrew"
         },
         {
@@ -161,7 +161,7 @@
             "isAccessibleForFree": true,
             "keywords": [],
             "name": "bottom",
-            "operatingSystem": ["mac", "linux"],
+            "operatingSystem": ["linux", "mac"],
             "targetProduct": "homebrew"
         },
         {
@@ -171,6 +171,50 @@
             "isAccessibleForFree": true,
             "keywords": [],
             "name": "bottom",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "c4f64567-83d4-49a0-b35f-e8ca1c03ab94",
+            "description": "A monitor of resources",
+            "codeRepository": "https://github.com/aristocratos/btop",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "btop",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "c4f64567-83d4-49a0-b35f-e8ca1c03ab94",
+            "description": "A monitor of resources",
+            "codeRepository": "https://github.com/aristocratos/btop4win",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "aristocratos.btop4win",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "c4f64567-83d4-49a0-b35f-e8ca1c03ab94",
+            "description": "A monitor of resources",
+            "codeRepository": "https://github.com/aristocratos/btop",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "btop",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "homebrew"
+        },
+        {
+            "identifier": "c4f64567-83d4-49a0-b35f-e8ca1c03ab94",
+            "description": "A monitor of resources",
+            "codeRepository": "https://github.com/aristocratos/btop",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "btop",
             "operatingSystem": ["linux"],
             "targetProduct": "nix"
         }

@@ -1,6 +1,5 @@
 {
     "Common": [
-        "btop",
         "cpufetch",
         "delta",
         "dos2unix",
@@ -168,7 +167,6 @@
     "Broken": {
         "Chocolatey": [
             "broot",
-            "btop",
             "chafa",
             "espanso",
             "gsudo",
