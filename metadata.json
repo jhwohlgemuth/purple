@@ -217,6 +217,17 @@
             "name": "btop",
             "operatingSystem": ["linux"],
             "targetProduct": "nix"
+        },
+        {
+            "identifier": "c4f64567-83d4-49a0-b35f-e8ca1c03ab94",
+            "description": "A monitor of resources",
+            "codeRepository": "https://github.com/aristocratos/btop",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "btop",
+            "operatingSystem": ["linux"],
+            "targetProduct": "spack"
         }
     ]
 }
