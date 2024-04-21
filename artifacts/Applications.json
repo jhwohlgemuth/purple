@@ -1,6 +1,5 @@
 {
     "Common": [
-        "bottom",
         "btop",
         "cpufetch",
         "delta",
@@ -128,7 +127,6 @@
             "make": "gmake"
         },
         "Winget": {
-            "bottom": "Clement.bottom",
             "carnac": "code52.Carnac",
             "ccleaner": "Piriform.CCleaner",
             "chafa": "hpjansson.Chafa",
@@ -203,7 +201,6 @@
         "Spack": [
             "altair",
             "anki",
-            "bottom",
             "brave",
             "broot",
             "chafa",

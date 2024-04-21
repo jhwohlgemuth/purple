@@ -123,6 +123,56 @@
             "name": "bat",
             "operatingSystem": ["linux"],
             "targetProduct": "spack"
+        },
+        {
+            "identifier": "34e7a11f-9109-46ab-9cca-0971ca2a9e3d",
+            "description": "Yet another cross-platform graphical process/system monitor",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "bottom",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "34e7a11f-9109-46ab-9cca-0971ca2a9e3d",
+            "description": "Yet another cross-platform graphical process/system monitor",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "bottom",
+            "operatingSystem": ["windows"],
+            "targetProduct": "chocolatey"
+        },
+        {
+            "identifier": "34e7a11f-9109-46ab-9cca-0971ca2a9e3d",
+            "description": "Yet another cross-platform graphical process/system monitor",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "Clement.bottom",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "34e7a11f-9109-46ab-9cca-0971ca2a9e3d",
+            "description": "Yet another cross-platform graphical process/system monitor",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "bottom",
+            "operatingSystem": ["mac", "linux"],
+            "targetProduct": "homebrew"
+        },
+        {
+            "identifier": "34e7a11f-9109-46ab-9cca-0971ca2a9e3d",
+            "description": "Yet another cross-platform graphical process/system monitor",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "bottom",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
         }
     ]
 }
