@@ -228,6 +228,39 @@
             "name": "btop",
             "operatingSystem": ["linux"],
             "targetProduct": "spack"
+        },
+        {
+            "identifier": "5a802195-1bad-47f9-ade2-25f9cbf1b08a",
+            "description": "Make JSON greppable",
+            "codeRepository": "https://github.com/tomnomnom/gron",
+            "developmentStatus": "Inactive",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "gron",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "5a802195-1bad-47f9-ade2-25f9cbf1b08a",
+            "description": "Make JSON greppable",
+            "codeRepository": "https://github.com/tomnomnom/gron",
+            "developmentStatus": "Inactive",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "TomHudson.gron",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "5a802195-1bad-47f9-ade2-25f9cbf1b08a",
+            "description": "Make JSON greppable",
+            "codeRepository": "https://github.com/tomnomnom/gron",
+            "developmentStatus": "Inactive",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "gron",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }
