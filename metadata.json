@@ -261,6 +261,105 @@
             "name": "gron",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "ba22b9eb-90b2-4ed7-89e0-04ab31a0dbd8",
+            "description": "A syntax-highlighting pager for git, diff, grep, and blame output",
+            "codeRepository": "https://github.com/dandavison/delta",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["git", "rust", "syntax-highlighting"],
+            "name": "delta",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "ba22b9eb-90b2-4ed7-89e0-04ab31a0dbd8",
+            "description": "A syntax-highlighting pager for git, diff, grep, and blame output",
+            "codeRepository": "https://github.com/dandavison/delta",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["git", "rust", "syntax-highlighting"],
+            "name": "delta",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "ba22b9eb-90b2-4ed7-89e0-04ab31a0dbd8",
+            "description": "A syntax-highlighting pager for git, diff, grep, and blame output",
+            "codeRepository": "https://github.com/dandavison/delta",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["git", "rust", "syntax-highlighting"],
+            "name": "delta",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "ba22b9eb-90b2-4ed7-89e0-04ab31a0dbd8",
+            "description": "A syntax-highlighting pager for git, diff, grep, and blame output",
+            "codeRepository": "https://github.com/dandavison/delta",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["git", "rust", "syntax-highlighting"],
+            "name": "delta",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "ba22b9eb-90b2-4ed7-89e0-04ab31a0dbd8",
+            "description": "A syntax-highlighting pager for git, diff, grep, and blame output",
+            "codeRepository": "https://github.com/dandavison/delta",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["git", "rust", "syntax-highlighting"],
+            "name": "git-delta",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
+        },
+        {
+            "identifier": "1f174ffb-4d54-4416-8f52-e17911ca9034",
+            "description": "A tool for glamorous shell scripts",
+            "codeRepository": "https://github.com/charmbracelet/gum",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["shell", "bash"],
+            "name": "charm-gum",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "1f174ffb-4d54-4416-8f52-e17911ca9034",
+            "description": "A tool for glamorous shell scripts",
+            "codeRepository": "https://github.com/charmbracelet/gum",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["shell", "bash"],
+            "name": "charmbracelet.gum",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "1f174ffb-4d54-4416-8f52-e17911ca9034",
+            "description": "A tool for glamorous shell scripts",
+            "codeRepository": "https://github.com/charmbracelet/gum",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["shell", "bash"],
+            "name": "gum",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "1f174ffb-4d54-4416-8f52-e17911ca9034",
+            "description": "A tool for glamorous shell scripts",
+            "codeRepository": "https://github.com/charmbracelet/gum",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["shell", "bash"],
+            "name": "gum",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }

@@ -1,7 +1,6 @@
 {
     "Common": [
         "cpufetch",
-        "delta",
         "dos2unix",
         "duf",
         "dust",
@@ -15,7 +14,6 @@
         "gping",
         "grep",
         "grex",
-        "gum",
         "hadolint",
         "hexyl",
         "htmlq",
@@ -102,7 +100,6 @@
         "Homebrew": {
             "altair": "altair-graphql-client",
             "brave": "brave-browser",
-            "delta": "git-delta",
             "miniconda3": "miniconda",
             "pwsh": "powershell",
             "vscode": "visual-studio-code"
@@ -116,9 +113,6 @@
             "pwsh": "powershell",
             "tor-browser": "tor-browser-bundle-bin",
             "yq": "yq-go"
-        },
-        "Scoop": {
-            "gum": "charm-gum"
         },
         "Spack": {
             "dotnet-sdk": "dotnet-core-sdk",
@@ -138,7 +132,6 @@
             "gource": "acaudwell.Gource",
             "grep": "GnuWin32.Grep",
             "gsudo": "gerardog.gsudo",
-            "gum": "charmbracelet.gum",
             "hexyl": "sharkdp.hexyl",
             "httpie": "HTTPie.HTTPie",
             "hyperfine": "sharkdp.hyperfine",
@@ -170,7 +163,6 @@
             "chafa",
             "espanso",
             "gsudo",
-            "gum",
             "hadolint",
             "htmlq",
             "lychee",
@@ -205,14 +197,12 @@
             "ccleaner",
             "cpufetch",
             "duf",
-            "delta",
             "docker",
             "fastfetch",
             "firefox",
             "glow",
             "gping",
             "grex",
-            "gum",
             "hadolint",
             "hexyl",
             "htmlq",
@@ -234,7 +224,6 @@
             "zoxide"
         ],
         "Winget": [
-            "delta",
             "dos2unix",
             "duf",
             "dust",
