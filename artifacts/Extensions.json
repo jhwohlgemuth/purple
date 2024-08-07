@@ -55,8 +55,8 @@
         "wmaurer.change-case"
     ],
     "rust": [
-        "rust-lang.rust-analyzer",
-        "serayuzgur.crates"
+        "fill-labs.dependi",
+        "rust-lang.rust-analyzer"
     ],
     "scala": [
         "lightbend.vscode-sbt-scala",
