@@ -69,7 +69,7 @@
             "description": "A cat(1) clone with wings",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["shell", "syntax-highlighting"],
             "name": "bat",
             "operatingSystem": ["windows"],
             "targetProduct": "scoop"
@@ -79,7 +79,7 @@
             "description": "A cat(1) clone with wings",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["shell", "syntax-highlighting"],
             "name": "bat",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -89,7 +89,7 @@
             "description": "A cat(1) clone with wings",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["shell", "syntax-highlighting"],
             "name": "sharkdp.bat",
             "operatingSystem": ["windows"],
             "targetProduct": "winget"
@@ -99,7 +99,7 @@
             "description": "A cat(1) clone with wings",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["shell", "syntax-highlighting"],
             "name": "bat",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "homebrew"
@@ -109,7 +109,7 @@
             "description": "A cat(1) clone with wings",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["shell", "syntax-highlighting"],
             "name": "bat",
             "operatingSystem": ["linux"],
             "targetProduct": "nix"
@@ -119,7 +119,7 @@
             "description": "A cat(1) clone with wings",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["shell", "syntax-highlighting"],
             "name": "bat",
             "operatingSystem": ["linux"],
             "targetProduct": "spack"
@@ -358,6 +358,61 @@
             "isAccessibleForFree": true,
             "keywords": ["shell", "bash"],
             "name": "gum",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
+        },
+        {
+            "identifier": "5f804140-5ed7-4456-9c9a-b8877a6a9fb0",
+            "description": "Simple yet fancy CPU architecture fetching tool",
+            "codeRepository": "https://github.com/Dr-Noob/cpufetch",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["cpu", "architecture"],
+            "name": "cpufetch",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "5f804140-5ed7-4456-9c9a-b8877a6a9fb0",
+            "description": "Simple yet fancy CPU architecture fetching tool",
+            "codeRepository": "https://github.com/Dr-Noob/cpufetch",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["cpu", "architecture"],
+            "name": "cpu-z",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "5f804140-5ed7-4456-9c9a-b8877a6a9fb0",
+            "description": "Simple yet fancy CPU architecture fetching tool",
+            "codeRepository": "https://github.com/Dr-Noob/cpufetch",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["cpu", "architecture"],
+            "name": "Dr-Noob.cpufetch",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "5f804140-5ed7-4456-9c9a-b8877a6a9fb0",
+            "description": "Simple yet fancy CPU architecture fetching tool",
+            "codeRepository": "https://github.com/Dr-Noob/cpufetch",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["cpu", "architecture"],
+            "name": "cpufetch",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "5f804140-5ed7-4456-9c9a-b8877a6a9fb0",
+            "description": "Simple yet fancy CPU architecture fetching tool",
+            "codeRepository": "https://github.com/Dr-Noob/cpufetch",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["cpu", "architecture"],
+            "name": "cpufetch",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
         }

@@ -1,6 +1,5 @@
 {
     "Common": [
-        "cpufetch",
         "dos2unix",
         "duf",
         "dust",
@@ -86,7 +85,6 @@
         "Chocolatey": {
             "altair": "altair-graphql",
             "Cascadia-Code": "cascadiafonts",
-            "cpufetch": "cpu-z",
             "fastfetch": "winfetch",
             "FiraCode-NF": "firacodenf",
             "go": "golang",
@@ -123,7 +121,6 @@
             "carnac": "code52.Carnac",
             "ccleaner": "Piriform.CCleaner",
             "chafa": "hpjansson.Chafa",
-            "cpufetch": "Dr-Noob.cpufetch",
             "espanso": "Espanso.Espanso",
             "fastfetch": "nepnep.neofetch-win",
             "gh": "GitHub.cli",
@@ -195,7 +192,6 @@
             "broot",
             "chafa",
             "ccleaner",
-            "cpufetch",
             "duf",
             "docker",
             "fastfetch",
