@@ -1,6 +1,5 @@
 {
     "Common": [
-        "htmlq",
         "httpie",
         "hyperfine",
         "jq",
@@ -136,7 +135,6 @@
             "chafa",
             "espanso",
             "gsudo",
-            "htmlq",
             "lychee",
             "pastel",
             "tokei"
@@ -169,7 +167,6 @@
             "ccleaner",
             "docker",
             "firefox",
-            "htmlq",
             "insomnia",
             "just",
             "mockoon",

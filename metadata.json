@@ -1306,6 +1306,39 @@
             "name": "hexyl",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "4ca3f19e-885b-4beb-b4e2-7556231bc472",
+            "description": "Like jq, but for HTML",
+            "codeRepository": "https://github.com/mgdm/htmlq",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "htmlq",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "4ca3f19e-885b-4beb-b4e2-7556231bc472",
+            "description": "Like jq, but for HTML",
+            "codeRepository": "https://github.com/mgdm/htmlq",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "htmlq",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "4ca3f19e-885b-4beb-b4e2-7556231bc472",
+            "description": "Like jq, but for HTML",
+            "codeRepository": "https://github.com/mgdm/htmlq",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "htmlq",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }
