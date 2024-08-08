@@ -1097,6 +1097,72 @@
             "name": "gping",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "c367385d-99c8-4b2b-83aa-e5b85aeffdaf",
+            "description": "Searches one or more input files for lines containing a match to a specified pattern",
+            "codeRepository": "https://savannah.gnu.org/git/?group=grep",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "grep",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "c367385d-99c8-4b2b-83aa-e5b85aeffdaf",
+            "description": "Searches one or more input files for lines containing a match to a specified pattern",
+            "codeRepository": "https://savannah.gnu.org/git/?group=grep",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "grep",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "c367385d-99c8-4b2b-83aa-e5b85aeffdaf",
+            "description": "Searches one or more input files for lines containing a match to a specified pattern",
+            "codeRepository": "https://savannah.gnu.org/git/?group=grep",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "GnuWin32.Grep",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "c367385d-99c8-4b2b-83aa-e5b85aeffdaf",
+            "description": "Searches one or more input files for lines containing a match to a specified pattern",
+            "codeRepository": "https://savannah.gnu.org/git/?group=grep",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "gnugrep",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "c367385d-99c8-4b2b-83aa-e5b85aeffdaf",
+            "description": "Searches one or more input files for lines containing a match to a specified pattern",
+            "codeRepository": "https://savannah.gnu.org/git/?group=grep",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "grep",
+            "operatingSystem": ["linux"],
+            "targetProduct": "spack"
+        },
+        {
+            "identifier": "c367385d-99c8-4b2b-83aa-e5b85aeffdaf",
+            "description": "Searches one or more input files for lines containing a match to a specified pattern",
+            "codeRepository": "https://savannah.gnu.org/git/?group=grep",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "grep",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }

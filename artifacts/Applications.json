@@ -1,6 +1,5 @@
 {
     "Common": [
-        "grep",
         "grex",
         "hadolint",
         "hexyl",
@@ -92,7 +91,6 @@
         },
         "Nix": {
             "dotnet-sdk": "dotnet-sdk_8",
-            "grep": "gnugrep",
             "make": "gnumake",
             "miniconda3": "micromamba",
             "pwsh": "powershell",
@@ -110,7 +108,6 @@
             "chafa": "hpjansson.Chafa",
             "espanso": "Espanso.Espanso",
             "gource": "acaudwell.Gource",
-            "grep": "GnuWin32.Grep",
             "gsudo": "gerardog.gsudo",
             "hexyl": "sharkdp.hexyl",
             "httpie": "HTTPie.HTTPie",
