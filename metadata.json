@@ -987,6 +987,72 @@
             "name": "git-lfs",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "782e110b-9fe4-40e0-93da-08e7f7bb1abd",
+            "description": "Render markdown on the CLI, with pizzazz",
+            "codeRepository": "https://github.com/charmbracelet/glow",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["shell", "markdown", "syntax-highlighting"],
+            "name": "glow",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "782e110b-9fe4-40e0-93da-08e7f7bb1abd",
+            "description": "Render markdown on the CLI, with pizzazz",
+            "codeRepository": "https://github.com/charmbracelet/glow",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["shell", "markdown", "syntax-highlighting"],
+            "name": "glow",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "782e110b-9fe4-40e0-93da-08e7f7bb1abd",
+            "description": "Render markdown on the CLI, with pizzazz",
+            "codeRepository": "https://github.com/charmbracelet/glow",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["shell", "markdown", "syntax-highlighting"],
+            "name": "charmbracelet.glow",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "782e110b-9fe4-40e0-93da-08e7f7bb1abd",
+            "description": "Render markdown on the CLI, with pizzazz",
+            "codeRepository": "https://github.com/charmbracelet/glow",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["shell", "markdown", "syntax-highlighting"],
+            "name": "glow",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "782e110b-9fe4-40e0-93da-08e7f7bb1abd",
+            "description": "Render markdown on the CLI, with pizzazz",
+            "codeRepository": "https://github.com/charmbracelet/glow",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["shell", "markdown", "syntax-highlighting"],
+            "name": "glow",
+            "operatingSystem": ["linux"],
+            "targetProduct": "spack"
+        },
+        {
+            "identifier": "782e110b-9fe4-40e0-93da-08e7f7bb1abd",
+            "description": "Render markdown on the CLI, with pizzazz",
+            "codeRepository": "https://github.com/charmbracelet/glow",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["shell", "markdown", "syntax-highlighting"],
+            "name": "glow",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }
