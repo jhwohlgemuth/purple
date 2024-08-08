@@ -481,6 +481,61 @@
             "name": "dos2unix",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "b9d0fd36-c473-4f54-84a0-06dfc72203f1",
+            "description": "Disk Usage/Free Utility - a better 'df' alternative",
+            "codeRepository": "https://github.com/muesli/duf",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "duf",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "b9d0fd36-c473-4f54-84a0-06dfc72203f1",
+            "description": "Disk Usage/Free Utility - a better 'df' alternative",
+            "codeRepository": "https://github.com/muesli/duf",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "duf",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "b9d0fd36-c473-4f54-84a0-06dfc72203f1",
+            "description": "Disk Usage/Free Utility - a better 'df' alternative",
+            "codeRepository": "https://github.com/muesli/duf",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "muesli.duf",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "b9d0fd36-c473-4f54-84a0-06dfc72203f1",
+            "description": "Disk Usage/Free Utility - a better 'df' alternative",
+            "codeRepository": "https://github.com/muesli/duf",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "duf",
+            "operatingSystem": ["windows"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "b9d0fd36-c473-4f54-84a0-06dfc72203f1",
+            "description": "Disk Usage/Free Utility - a better 'df' alternative",
+            "codeRepository": "https://github.com/muesli/duf",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "duf",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }
