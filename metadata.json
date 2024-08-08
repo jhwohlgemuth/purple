@@ -1053,6 +1053,50 @@
             "name": "glow",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "7f882b53-36f9-46b9-903f-d5195f30182d",
+            "description": "Ping, but with a graph",
+            "codeRepository": "https://github.com/orf/gping",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "gping",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "7f882b53-36f9-46b9-903f-d5195f30182d",
+            "description": "Ping, but with a graph",
+            "codeRepository": "https://github.com/orf/gping",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "gping",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "7f882b53-36f9-46b9-903f-d5195f30182d",
+            "description": "Ping, but with a graph",
+            "codeRepository": "https://github.com/orf/gping",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "gping",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "7f882b53-36f9-46b9-903f-d5195f30182d",
+            "description": "Ping, but with a graph",
+            "codeRepository": "https://github.com/orf/gping",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "gping",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }
