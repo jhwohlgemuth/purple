@@ -1460,6 +1460,72 @@
             "name": "hyperfine",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "19af409e-5dbe-4dc2-97de-78ff1f0d7174",
+            "description": "Command-line JSON processor",
+            "codeRepository": "https://github.com/jqlang/jq",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "jq",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "19af409e-5dbe-4dc2-97de-78ff1f0d7174",
+            "description": "Command-line JSON processor",
+            "codeRepository": "https://github.com/jqlang/jq",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "jq",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "19af409e-5dbe-4dc2-97de-78ff1f0d7174",
+            "description": "Command-line JSON processor",
+            "codeRepository": "https://github.com/jqlang/jq",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "jqlang.jq",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "19af409e-5dbe-4dc2-97de-78ff1f0d7174",
+            "description": "Command-line JSON processor",
+            "codeRepository": "https://github.com/jqlang/jq",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "jq",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "19af409e-5dbe-4dc2-97de-78ff1f0d7174",
+            "description": "Command-line JSON processor",
+            "codeRepository": "https://github.com/jqlang/jq",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "jq",
+            "operatingSystem": ["linux"],
+            "targetProduct": "spack"
+        },
+        {
+            "identifier": "19af409e-5dbe-4dc2-97de-78ff1f0d7174",
+            "description": "Command-line JSON processor",
+            "codeRepository": "https://github.com/jqlang/jq",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "jq",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }

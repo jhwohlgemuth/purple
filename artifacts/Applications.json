@@ -1,6 +1,5 @@
 {
     "Common": [
-        "jq",
         "just",
         "less",
         "lychee",
@@ -182,7 +181,6 @@
         "Winget": [
             "dvc",
             "gifcam",
-            "jq",
             "less",
             "ngrok",
             "osquery",
