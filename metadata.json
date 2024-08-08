@@ -1526,6 +1526,61 @@
             "name": "jq",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "7b9c73c7-ce13-42ee-a9c2-32dee758e2bc",
+            "description": "Handy way to save and run project-specific commands",
+            "codeRepository": "https://github.com/casey/just",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "just",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "7b9c73c7-ce13-42ee-a9c2-32dee758e2bc",
+            "description": "Handy way to save and run project-specific commands",
+            "codeRepository": "https://github.com/casey/just",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "just",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "7b9c73c7-ce13-42ee-a9c2-32dee758e2bc",
+            "description": "Handy way to save and run project-specific commands",
+            "codeRepository": "https://github.com/casey/just",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "Casey.Just",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "7b9c73c7-ce13-42ee-a9c2-32dee758e2bc",
+            "description": "Handy way to save and run project-specific commands",
+            "codeRepository": "https://github.com/casey/just",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "just",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "7b9c73c7-ce13-42ee-a9c2-32dee758e2bc",
+            "description": "Handy way to save and run project-specific commands",
+            "codeRepository": "https://github.com/casey/just",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "just",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }

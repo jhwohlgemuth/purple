@@ -1,6 +1,5 @@
 {
     "Common": [
-        "just",
         "less",
         "lychee",
         "make",
@@ -103,7 +102,6 @@
             "gource": "acaudwell.Gource",
             "gsudo": "gerardog.gsudo",
             "julia": "Julialang.Julia",
-            "just": "Casey.Just",
             "lockhunter": "CrystalRich.LockHunter",
             "lychee": "lycheeverse.lychee",
             "make": "GnuWin32.Make",
@@ -162,7 +160,6 @@
             "docker",
             "firefox",
             "insomnia",
-            "just",
             "mockoon",
             "lychee",
             "ngrok",
