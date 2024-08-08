@@ -1104,7 +1104,7 @@
             "codeRepository": "https://savannah.gnu.org/git/?group=grep",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["shell"],
             "name": "grep",
             "operatingSystem": ["windows"],
             "targetProduct": "scoop"
@@ -1115,7 +1115,7 @@
             "codeRepository": "https://savannah.gnu.org/git/?group=grep",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["shell"],
             "name": "grep",
             "operatingSystem": ["windows"],
             "targetProduct": "choco"
@@ -1126,7 +1126,7 @@
             "codeRepository": "https://savannah.gnu.org/git/?group=grep",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["shell"],
             "name": "GnuWin32.Grep",
             "operatingSystem": ["windows"],
             "targetProduct": "winget"
@@ -1137,7 +1137,7 @@
             "codeRepository": "https://savannah.gnu.org/git/?group=grep",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["shell"],
             "name": "gnugrep",
             "operatingSystem": ["linux"],
             "targetProduct": "nix"
@@ -1148,7 +1148,7 @@
             "codeRepository": "https://savannah.gnu.org/git/?group=grep",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["shell"],
             "name": "grep",
             "operatingSystem": ["linux"],
             "targetProduct": "spack"
@@ -1159,8 +1159,52 @@
             "codeRepository": "https://savannah.gnu.org/git/?group=grep",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["shell"],
             "name": "grep",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
+        },
+        {
+            "identifier": "4b4d8bc3-d841-47bb-bf50-3d179a110690",
+            "description": "Command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases",
+            "codeRepository": "https://github.com/pemistahl/grex",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["shell"],
+            "name": "grex",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "4b4d8bc3-d841-47bb-bf50-3d179a110690",
+            "description": "Command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases",
+            "codeRepository": "https://github.com/pemistahl/grex",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["shell"],
+            "name": "grex",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "4b4d8bc3-d841-47bb-bf50-3d179a110690",
+            "description": "Command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases",
+            "codeRepository": "https://github.com/pemistahl/grex",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["shell"],
+            "name": "grex",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "4b4d8bc3-d841-47bb-bf50-3d179a110690",
+            "description": "Command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases",
+            "codeRepository": "https://github.com/pemistahl/grex",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["shell"],
+            "name": "grex",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
         }

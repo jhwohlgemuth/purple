@@ -1,6 +1,5 @@
 {
     "Common": [
-        "grex",
         "hadolint",
         "hexyl",
         "htmlq",
@@ -174,7 +173,6 @@
             "ccleaner",
             "docker",
             "firefox",
-            "grex",
             "hadolint",
             "hexyl",
             "htmlq",
@@ -198,7 +196,6 @@
         "Winget": [
             "dvc",
             "gifcam",
-            "grex",
             "jq",
             "less",
             "ngrok",
