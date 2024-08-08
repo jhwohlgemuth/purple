@@ -1,6 +1,5 @@
 {
     "Common": [
-        "duf",
         "dust",
         "fastfetch",
         "fd",
@@ -103,7 +102,6 @@
         },
         "Nix": {
             "dotnet-sdk": "dotnet-sdk_8",
-            "dust": "du-dust",
             "grep": "gnugrep",
             "make": "gnumake",
             "miniconda3": "micromamba",
@@ -191,7 +189,6 @@
             "broot",
             "chafa",
             "ccleaner",
-            "duf",
             "docker",
             "fastfetch",
             "firefox",
@@ -219,7 +216,6 @@
             "zoxide"
         ],
         "Winget": [
-            "duf",
             "dust",
             "dvc",
             "fd",

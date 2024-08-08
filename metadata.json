@@ -488,7 +488,7 @@
             "codeRepository": "https://github.com/muesli/duf",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["shell"],
             "name": "duf",
             "operatingSystem": ["windows"],
             "targetProduct": "scoop"
@@ -499,7 +499,7 @@
             "codeRepository": "https://github.com/muesli/duf",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["shell"],
             "name": "duf",
             "operatingSystem": ["windows"],
             "targetProduct": "choco"
@@ -510,7 +510,7 @@
             "codeRepository": "https://github.com/muesli/duf",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["shell"],
             "name": "muesli.duf",
             "operatingSystem": ["windows"],
             "targetProduct": "choco"
@@ -521,7 +521,7 @@
             "codeRepository": "https://github.com/muesli/duf",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["shell"],
             "name": "duf",
             "operatingSystem": ["windows"],
             "targetProduct": "nix"
@@ -532,8 +532,74 @@
             "codeRepository": "https://github.com/muesli/duf",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["shell"],
             "name": "duf",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
+        },
+        {
+            "identifier": "70655cb0-8ad1-41fb-b51f-9ccb23b26937",
+            "description": "A more intuitive version of du in rust",
+            "codeRepository": "https://github.com/bootandy/dust",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["rust", "shell"],
+            "name": "dust",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "70655cb0-8ad1-41fb-b51f-9ccb23b26937",
+            "description": "A more intuitive version of du in rust",
+            "codeRepository": "https://github.com/bootandy/dust",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["rust", "shell"],
+            "name": "dust",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "70655cb0-8ad1-41fb-b51f-9ccb23b26937",
+            "description": "A more intuitive version of du in rust",
+            "codeRepository": "https://github.com/bootandy/dust",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["rust", "shell"],
+            "name": "bootandy.dust",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "70655cb0-8ad1-41fb-b51f-9ccb23b26937",
+            "description": "A more intuitive version of du in rust",
+            "codeRepository": "https://github.com/bootandy/dust",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["rust", "shell"],
+            "name": "dust",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "70655cb0-8ad1-41fb-b51f-9ccb23b26937",
+            "description": "A more intuitive version of du in rust",
+            "codeRepository": "https://github.com/bootandy/dust",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["rust", "shell"],
+            "name": "dust",
+            "operatingSystem": ["linux"],
+            "targetProduct": "spack"
+        },
+        {
+            "identifier": "70655cb0-8ad1-41fb-b51f-9ccb23b26937",
+            "description": "A more intuitive version of du in rust",
+            "codeRepository": "https://github.com/bootandy/dust",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["rust", "shell"],
+            "name": "dust",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
         }
