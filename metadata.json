@@ -415,6 +415,72 @@
             "name": "cpufetch",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "49887f8e-0c00-4d78-99ca-3a7d731d6b7f",
+            "description": "Convert text files with DOS or Mac line breaks to Unix line breaks",
+            "codeRepository": "https://sourceforge.net/p/dos2unix/dos2unix/ci/master/tree/",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "dos2unix",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "49887f8e-0c00-4d78-99ca-3a7d731d6b7f",
+            "description": "Convert text files with DOS or Mac line breaks to Unix line breaks",
+            "codeRepository": "https://sourceforge.net/p/dos2unix/dos2unix/ci/master/tree/",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "dos2unix",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "49887f8e-0c00-4d78-99ca-3a7d731d6b7f",
+            "description": "Convert text files with DOS or Mac line breaks to Unix line breaks",
+            "codeRepository": "https://sourceforge.net/p/dos2unix/dos2unix/ci/master/tree/",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "waterlan.dos2unix",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "49887f8e-0c00-4d78-99ca-3a7d731d6b7f",
+            "description": "Convert text files with DOS or Mac line breaks to Unix line breaks",
+            "codeRepository": "https://sourceforge.net/p/dos2unix/dos2unix/ci/master/tree/",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "dos2unix",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "49887f8e-0c00-4d78-99ca-3a7d731d6b7f",
+            "description": "Convert text files with DOS or Mac line breaks to Unix line breaks",
+            "codeRepository": "https://sourceforge.net/p/dos2unix/dos2unix/ci/master/tree/",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "dos2unix",
+            "operatingSystem": ["linux"],
+            "targetProduct": "spack"
+        },
+        {
+            "identifier": "49887f8e-0c00-4d78-99ca-3a7d731d6b7f",
+            "description": "Convert text files with DOS or Mac line breaks to Unix line breaks",
+            "codeRepository": "https://sourceforge.net/p/dos2unix/dos2unix/ci/master/tree/",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "dos2unix",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }

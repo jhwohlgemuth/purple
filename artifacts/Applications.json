@@ -1,6 +1,5 @@
 {
     "Common": [
-        "dos2unix",
         "duf",
         "dust",
         "fastfetch",
@@ -220,7 +219,6 @@
             "zoxide"
         ],
         "Winget": [
-            "dos2unix",
             "duf",
             "dust",
             "dvc",
