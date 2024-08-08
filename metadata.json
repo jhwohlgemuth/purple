@@ -723,6 +723,72 @@
             "name": "fd",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "7d641d95-69a5-4392-8f54-3d31c9cfe80e",
+            "description": "A command-line fuzzy finder written in Go",
+            "codeRepository": "https://github.com/junegunn/fzf",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "fzf",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "7d641d95-69a5-4392-8f54-3d31c9cfe80e",
+            "description": "A command-line fuzzy finder written in Go",
+            "codeRepository": "https://github.com/junegunn/fzf",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "fzf",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "7d641d95-69a5-4392-8f54-3d31c9cfe80e",
+            "description": "A command-line fuzzy finder written in Go",
+            "codeRepository": "https://github.com/junegunn/fzf",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "junegunn.fzf",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "7d641d95-69a5-4392-8f54-3d31c9cfe80e",
+            "description": "A command-line fuzzy finder written in Go",
+            "codeRepository": "https://github.com/junegunn/fzf",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "fzf",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "7d641d95-69a5-4392-8f54-3d31c9cfe80e",
+            "description": "A command-line fuzzy finder written in Go",
+            "codeRepository": "https://github.com/junegunn/fzf",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "fzf",
+            "operatingSystem": ["linux"],
+            "targetProduct": "spack"
+        },
+        {
+            "identifier": "7d641d95-69a5-4392-8f54-3d31c9cfe80e",
+            "description": "A command-line fuzzy finder written in Go",
+            "codeRepository": "https://github.com/junegunn/fzf",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "fzf",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }

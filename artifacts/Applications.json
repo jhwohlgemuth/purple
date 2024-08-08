@@ -1,6 +1,5 @@
 {
     "Common": [
-        "fzf",
         "gh",
         "git",
         "git-lfs",
@@ -211,7 +210,6 @@
         ],
         "Winget": [
             "dvc",
-            "fzf",
             "gifcam",
             "glow",
             "gping",
