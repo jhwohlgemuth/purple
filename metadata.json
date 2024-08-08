@@ -602,6 +602,61 @@
             "name": "dust",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "f4721223-35bc-46bb-86fb-9057d547254a",
+            "description": "Feature-rich and performance oriented, neofetch like system information tool",
+            "codeRepository": "https://github.com/fastfetch-cli/fastfetch",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["architecture", "shell"],
+            "name": "fastfetch",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "f4721223-35bc-46bb-86fb-9057d547254a",
+            "description": "Feature-rich and performance oriented, neofetch like system information tool",
+            "codeRepository": "https://github.com/fastfetch-cli/fastfetch",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["architecture", "shell"],
+            "name": "fastfetch",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "f4721223-35bc-46bb-86fb-9057d547254a",
+            "description": "Feature-rich and performance oriented, neofetch like system information tool",
+            "codeRepository": "https://github.com/fastfetch-cli/fastfetch",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["architecture", "shell"],
+            "name": "Fastfetch-cli.Fastfetch",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "f4721223-35bc-46bb-86fb-9057d547254a",
+            "description": "Feature-rich and performance oriented, neofetch like system information tool",
+            "codeRepository": "https://github.com/fastfetch-cli/fastfetch",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["architecture", "shell"],
+            "name": "fastfetch",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "f4721223-35bc-46bb-86fb-9057d547254a",
+            "description": "Feature-rich and performance oriented, neofetch like system information tool",
+            "codeRepository": "https://github.com/fastfetch-cli/fastfetch",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["architecture", "shell"],
+            "name": "fastfetch",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }

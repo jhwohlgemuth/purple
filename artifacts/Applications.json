@@ -1,7 +1,5 @@
 {
-    "Common": [
-        "dust",
-        "fastfetch",
+    "Common": [f
         "fd",
         "fzf",
         "gh",
@@ -83,7 +81,6 @@
         "Chocolatey": {
             "altair": "altair-graphql",
             "Cascadia-Code": "cascadiafonts",
-            "fastfetch": "winfetch",
             "FiraCode-NF": "firacodenf",
             "go": "golang",
             "insomnia": "insomnia-rest-api-client",
@@ -119,7 +116,6 @@
             "ccleaner": "Piriform.CCleaner",
             "chafa": "hpjansson.Chafa",
             "espanso": "Espanso.Espanso",
-            "fastfetch": "nepnep.neofetch-win",
             "gh": "GitHub.cli",
             "git": "Git.Git",
             "git-lfs": "GitHub.GitLFS",
@@ -190,7 +186,6 @@
             "chafa",
             "ccleaner",
             "docker",
-            "fastfetch",
             "firefox",
             "glow",
             "gping",
@@ -216,7 +211,6 @@
             "zoxide"
         ],
         "Winget": [
-            "dust",
             "dvc",
             "fd",
             "fzf",
