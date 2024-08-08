@@ -1394,6 +1394,72 @@
             "name": "httpie",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "6f3e2a01-fa7c-43f9-b742-e210389377d3",
+            "description": "A command-line benchmarking tool",
+            "codeRepository": "https://github.com/sharkdp/hyperfine",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "hyperfine",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "6f3e2a01-fa7c-43f9-b742-e210389377d3",
+            "description": "A command-line benchmarking tool",
+            "codeRepository": "https://github.com/sharkdp/hyperfine",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "hyperfine",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "6f3e2a01-fa7c-43f9-b742-e210389377d3",
+            "description": "A command-line benchmarking tool",
+            "codeRepository": "https://github.com/sharkdp/hyperfine",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "sharkdp.hyperfine",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "6f3e2a01-fa7c-43f9-b742-e210389377d3",
+            "description": "A command-line benchmarking tool",
+            "codeRepository": "https://github.com/sharkdp/hyperfine",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "hyperfine",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "6f3e2a01-fa7c-43f9-b742-e210389377d3",
+            "description": "A command-line benchmarking tool",
+            "codeRepository": "https://github.com/sharkdp/hyperfine",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "hyperfine",
+            "operatingSystem": ["linux"],
+            "targetProduct": "spack"
+        },
+        {
+            "identifier": "6f3e2a01-fa7c-43f9-b742-e210389377d3",
+            "description": "A command-line benchmarking tool",
+            "codeRepository": "https://github.com/sharkdp/hyperfine",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "hyperfine",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }

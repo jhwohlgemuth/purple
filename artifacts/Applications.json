@@ -1,6 +1,5 @@
 {
     "Common": [
-        "hyperfine",
         "jq",
         "just",
         "less",
@@ -104,7 +103,6 @@
             "espanso": "Espanso.Espanso",
             "gource": "acaudwell.Gource",
             "gsudo": "gerardog.gsudo",
-            "hyperfine": "sharkdp.hyperfine",
             "julia": "Julialang.Julia",
             "just": "Casey.Just",
             "lockhunter": "CrystalRich.LockHunter",
