@@ -657,6 +657,72 @@
             "name": "fastfetch",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "5703fb4d-9b57-4913-8cd2-40040fd77d59",
+            "description": "A simple, fast and user-friendly alternative to 'find'",
+            "codeRepository": "https://github.com/sharkdp/fd",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "fd",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "5703fb4d-9b57-4913-8cd2-40040fd77d59",
+            "description": "A simple, fast and user-friendly alternative to 'find'",
+            "codeRepository": "https://github.com/sharkdp/fd",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "fd",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "5703fb4d-9b57-4913-8cd2-40040fd77d59",
+            "description": "A simple, fast and user-friendly alternative to 'find'",
+            "codeRepository": "https://github.com/sharkdp/fd",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "sharkdp.fd",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "5703fb4d-9b57-4913-8cd2-40040fd77d59",
+            "description": "A simple, fast and user-friendly alternative to 'find'",
+            "codeRepository": "https://github.com/sharkdp/fd",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "fd",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "5703fb4d-9b57-4913-8cd2-40040fd77d59",
+            "description": "A simple, fast and user-friendly alternative to 'find'",
+            "codeRepository": "https://github.com/sharkdp/fd",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "fd",
+            "operatingSystem": ["linux"],
+            "targetProduct": "spack"
+        },
+        {
+            "identifier": "5703fb4d-9b57-4913-8cd2-40040fd77d59",
+            "description": "A simple, fast and user-friendly alternative to 'find'",
+            "codeRepository": "https://github.com/sharkdp/fd",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "fd",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }

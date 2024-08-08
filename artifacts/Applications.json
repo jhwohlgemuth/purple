@@ -1,6 +1,5 @@
 {
-    "Common": [f
-        "fd",
+    "Common": [
         "fzf",
         "gh",
         "git",
@@ -212,7 +211,6 @@
         ],
         "Winget": [
             "dvc",
-            "fd",
             "fzf",
             "gifcam",
             "glow",
