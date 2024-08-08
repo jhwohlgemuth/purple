@@ -1,6 +1,5 @@
 {
     "Common": [
-        "hadolint",
         "hexyl",
         "htmlq",
         "httpie",
@@ -139,7 +138,6 @@
             "chafa",
             "espanso",
             "gsudo",
-            "hadolint",
             "htmlq",
             "lychee",
             "pastel",
@@ -173,7 +171,6 @@
             "ccleaner",
             "docker",
             "firefox",
-            "hadolint",
             "hexyl",
             "htmlq",
             "insomnia",

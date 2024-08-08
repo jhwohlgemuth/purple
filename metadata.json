@@ -1207,6 +1207,50 @@
             "name": "grex",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "d104b582-ed63-49ae-b5bd-b21de6208fc3",
+            "description": "Dockerfile linter, validate inline bash, written in Haskell",
+            "codeRepository": "https://github.com/hadolint/hadolint",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["static-analysis"],
+            "name": "hadolint",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "d104b582-ed63-49ae-b5bd-b21de6208fc3",
+            "description": "Dockerfile linter, validate inline bash, written in Haskell",
+            "codeRepository": "https://github.com/hadolint/hadolint",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["static-analysis"],
+            "name": "hadolint.hadolint",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "d104b582-ed63-49ae-b5bd-b21de6208fc3",
+            "description": "Dockerfile linter, validate inline bash, written in Haskell",
+            "codeRepository": "https://github.com/hadolint/hadolint",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["static-analysis"],
+            "name": "hadolint",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "d104b582-ed63-49ae-b5bd-b21de6208fc3",
+            "description": "Dockerfile linter, validate inline bash, written in Haskell",
+            "codeRepository": "https://github.com/hadolint/hadolint",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["static-analysis"],
+            "name": "hadolint",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }
