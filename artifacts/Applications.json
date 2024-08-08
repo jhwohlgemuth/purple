@@ -1,6 +1,5 @@
 {
     "Common": [
-        "hexyl",
         "htmlq",
         "httpie",
         "hyperfine",
@@ -107,7 +106,6 @@
             "espanso": "Espanso.Espanso",
             "gource": "acaudwell.Gource",
             "gsudo": "gerardog.gsudo",
-            "hexyl": "sharkdp.hexyl",
             "httpie": "HTTPie.HTTPie",
             "hyperfine": "sharkdp.hyperfine",
             "julia": "Julialang.Julia",
@@ -171,7 +169,6 @@
             "ccleaner",
             "docker",
             "firefox",
-            "hexyl",
             "htmlq",
             "insomnia",
             "just",

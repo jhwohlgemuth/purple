@@ -1251,6 +1251,61 @@
             "name": "hadolint",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "7d1f7c5b-1fd3-4b00-9192-a3eb1dfff046",
+            "description": "A command-line hex viewer",
+            "codeRepository": "https://github.com/sharkdp/hexyl",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "hexyl",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "7d1f7c5b-1fd3-4b00-9192-a3eb1dfff046",
+            "description": "A command-line hex viewer",
+            "codeRepository": "https://github.com/sharkdp/hexyl",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "hexyl",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "7d1f7c5b-1fd3-4b00-9192-a3eb1dfff046",
+            "description": "A command-line hex viewer",
+            "codeRepository": "https://github.com/sharkdp/hexyl",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "sharkdp.hexyl",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "7d1f7c5b-1fd3-4b00-9192-a3eb1dfff046",
+            "description": "A command-line hex viewer",
+            "codeRepository": "https://github.com/sharkdp/hexyl",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "hexyl",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "7d1f7c5b-1fd3-4b00-9192-a3eb1dfff046",
+            "description": "A command-line hex viewer",
+            "codeRepository": "https://github.com/sharkdp/hexyl",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["syntax-highlighting"],
+            "name": "hexyl",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }
