@@ -789,6 +789,204 @@
             "name": "fzf",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "22864a60-5134-4561-b5da-6db3c68a8ee6",
+            "description": "GitHub's official command line tool",
+            "codeRepository": "https://github.com/cli/cli",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "gh",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "22864a60-5134-4561-b5da-6db3c68a8ee6",
+            "description": "GitHub's official command line tool",
+            "codeRepository": "https://github.com/cli/cli",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "gh",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "22864a60-5134-4561-b5da-6db3c68a8ee6",
+            "description": "GitHub's official command line tool",
+            "codeRepository": "https://github.com/cli/cli",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "GitHub.cli",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "22864a60-5134-4561-b5da-6db3c68a8ee6",
+            "description": "GitHub's official command line tool",
+            "codeRepository": "https://github.com/cli/cli",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "gh",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "22864a60-5134-4561-b5da-6db3c68a8ee6",
+            "description": "GitHub's official command line tool",
+            "codeRepository": "https://github.com/cli/cli",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "gh",
+            "operatingSystem": ["linux"],
+            "targetProduct": "spack"
+        },
+        {
+            "identifier": "22864a60-5134-4561-b5da-6db3c68a8ee6",
+            "description": "GitHub's official command line tool",
+            "codeRepository": "https://github.com/cli/cli",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "gh",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
+        },
+        {
+            "identifier": "b1ee5240-5f63-44d8-83c3-e15683f0355c",
+            "description": "Distributed version control system",
+            "codeRepository": "https://github.com/git-for-windows/git",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "git",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "b1ee5240-5f63-44d8-83c3-e15683f0355c",
+            "description": "Distributed version control system",
+            "codeRepository": "https://github.com/git-for-windows/git",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "git",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "b1ee5240-5f63-44d8-83c3-e15683f0355c",
+            "description": "Distributed version control system",
+            "codeRepository": "https://github.com/git-for-windows/git",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "Git.Git",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "b1ee5240-5f63-44d8-83c3-e15683f0355c",
+            "description": "Distributed version control system",
+            "codeRepository": "https://github.com/git/git",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "git",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "b1ee5240-5f63-44d8-83c3-e15683f0355c",
+            "description": "Distributed version control system",
+            "codeRepository": "https://github.com/git/git",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "git",
+            "operatingSystem": ["linux"],
+            "targetProduct": "spack"
+        },
+        {
+            "identifier": "b1ee5240-5f63-44d8-83c3-e15683f0355c",
+            "description": "Distributed version control system",
+            "codeRepository": "https://github.com/git/git",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "git",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
+        },
+        {
+            "identifier": "fe27d6b8-0640-4d8c-81df-5fc01fb71f5b",
+            "description": "Git extension to handle large files",
+            "codeRepository": "https://github.com/git-lfs/git-lfs",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "git-lfs",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "fe27d6b8-0640-4d8c-81df-5fc01fb71f5b",
+            "description": "Git extension to handle large files",
+            "codeRepository": "https://github.com/git-lfs/git-lfs",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "git-lfs",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "fe27d6b8-0640-4d8c-81df-5fc01fb71f5b",
+            "description": "Git extension to handle large files",
+            "codeRepository": "https://github.com/git-lfs/git-lfs",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "GitHub.GitLFS",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "fe27d6b8-0640-4d8c-81df-5fc01fb71f5b",
+            "description": "Git extension to handle large files",
+            "codeRepository": "https://github.com/git-lfs/git-lfs",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "git-lfs",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "fe27d6b8-0640-4d8c-81df-5fc01fb71f5b",
+            "description": "Git extension to handle large files",
+            "codeRepository": "https://github.com/git-lfs/git-lfs",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "git-lfs",
+            "operatingSystem": ["linux"],
+            "targetProduct": "spack"
+        },
+        {
+            "identifier": "fe27d6b8-0640-4d8c-81df-5fc01fb71f5b",
+            "description": "Git extension to handle large files",
+            "codeRepository": "https://github.com/git-lfs/git-lfs",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "git-lfs",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }
