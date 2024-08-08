@@ -1,6 +1,5 @@
 {
     "Common": [
-        "httpie",
         "hyperfine",
         "jq",
         "just",
@@ -105,7 +104,6 @@
             "espanso": "Espanso.Espanso",
             "gource": "acaudwell.Gource",
             "gsudo": "gerardog.gsudo",
-            "httpie": "HTTPie.HTTPie",
             "hyperfine": "sharkdp.hyperfine",
             "julia": "Julialang.Julia",
             "just": "Casey.Just",
@@ -154,7 +152,6 @@
             "espanso",
             "fciv",
             "gsudo",
-            "httpie",
             "openssl",
             "zoxide"
         ],

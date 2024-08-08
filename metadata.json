@@ -1339,6 +1339,61 @@
             "name": "htmlq",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "0156d4d3-1a0f-4442-b8c3-584a5e3594d9",
+            "description": "Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.",
+            "codeRepository": "https://github.com/httpie/cli",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["syntax-highlighting"],
+            "name": "httpie",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "0156d4d3-1a0f-4442-b8c3-584a5e3594d9",
+            "description": "Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.",
+            "codeRepository": "https://github.com/httpie/cli",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["syntax-highlighting"],
+            "name": "HTTPie.HTTPie",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "0156d4d3-1a0f-4442-b8c3-584a5e3594d9",
+            "description": "Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.",
+            "codeRepository": "https://github.com/httpie/cli",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["syntax-highlighting"],
+            "name": "httpie",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "0156d4d3-1a0f-4442-b8c3-584a5e3594d9",
+            "description": "Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.",
+            "codeRepository": "https://github.com/httpie/cli",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["syntax-highlighting"],
+            "name": "httpie",
+            "operatingSystem": ["linux"],
+            "targetProduct": "spack"
+        },
+        {
+            "identifier": "0156d4d3-1a0f-4442-b8c3-584a5e3594d9",
+            "description": "Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.",
+            "codeRepository": "https://github.com/httpie/cli",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["syntax-highlighting"],
+            "name": "httpie",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }
