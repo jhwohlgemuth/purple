@@ -1581,6 +1581,72 @@
             "name": "just",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "a2e4ff3e-8593-4718-b454-f759097995ca",
+            "description": "A more advanced file pager than 'more'",
+            "codeRepository": "https://github.com/jftuga/less-Windows",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "less",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "a2e4ff3e-8593-4718-b454-f759097995ca",
+            "description": "A more advanced file pager than 'more'",
+            "codeRepository": "https://github.com/jftuga/less-Windows",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "less",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "a2e4ff3e-8593-4718-b454-f759097995ca",
+            "description": "A more advanced file pager than 'more'",
+            "codeRepository": "https://github.com/jftuga/less-Windows",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "jftuga.less",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "a2e4ff3e-8593-4718-b454-f759097995ca",
+            "description": "A more advanced file pager than 'more'",
+            "codeRepository": "https://github.com/gwsw/less",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "less",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "a2e4ff3e-8593-4718-b454-f759097995ca",
+            "description": "A more advanced file pager than 'more'",
+            "codeRepository": "https://github.com/gwsw/less",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "less",
+            "operatingSystem": ["linux"],
+            "targetProduct": "spack"
+        },
+        {
+            "identifier": "a2e4ff3e-8593-4718-b454-f759097995ca",
+            "description": "A more advanced file pager than 'more'",
+            "codeRepository": "https://github.com/gwsw/less",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "less",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }

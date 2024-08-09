@@ -1,6 +1,5 @@
 {
     "Common": [
-        "less",
         "lychee",
         "make",
         "miniconda3",
@@ -178,7 +177,6 @@
         "Winget": [
             "dvc",
             "gifcam",
-            "less",
             "ngrok",
             "osquery",
             "ripgrep",
