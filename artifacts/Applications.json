@@ -1,6 +1,5 @@
 {
     "Common": [
-        "lychee",
         "make",
         "miniconda3",
         "neovim",
@@ -102,7 +101,6 @@
             "gsudo": "gerardog.gsudo",
             "julia": "Julialang.Julia",
             "lockhunter": "CrystalRich.LockHunter",
-            "lychee": "lycheeverse.lychee",
             "make": "GnuWin32.Make",
             "miniconda3": "Anaconda.Miniconda3",
             "neovim": "Neovim.Neovim",
@@ -127,7 +125,6 @@
             "chafa",
             "espanso",
             "gsudo",
-            "lychee",
             "pastel",
             "tokei"
         ],
@@ -160,7 +157,6 @@
             "firefox",
             "insomnia",
             "mockoon",
-            "lychee",
             "ngrok",
             "obsidian",
             "osquery",
