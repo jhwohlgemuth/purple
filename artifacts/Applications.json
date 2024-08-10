@@ -20,8 +20,7 @@
         "Windows": [
             "gifcam",
             "gsudo",
-            "screentogif",
-            "speccy"
+            "screentogif"
         ]
     },
     "Alias": {
@@ -46,7 +45,6 @@
             "pandoc": "JohnMacFarlane.Pandoc",
             "podman": "RedHat.Podman",
             "screentogif": "NickeManarin.ScreenToGif",
-            "speccy": "Piriform.Speccy",
             "teracopy": "CodeSector.TeraCopy",
             "zotero": "DigitalScholar.Zotero"
         }
@@ -56,8 +54,7 @@
             "gsudo"
         ],
         "Nix": [
-            "ccleaner",
-            "speccy"
+            "ccleaner"
         ],
         "Scoop": [
             "fciv",
