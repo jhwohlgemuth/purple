@@ -3063,6 +3063,72 @@
             "name": "pandoc",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "d7312120-6aaa-4e2a-84a1-3cbaced595a2",
+            "description": "Scalable TeX distribution - Modern C/C++ implementation of TeX & Friends",
+            "codeRepository": "https://github.com/MiKTeX/miktex",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "miktex",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "d7312120-6aaa-4e2a-84a1-3cbaced595a2",
+            "description": "Scalable TeX distribution - Modern C/C++ implementation of TeX & Friends",
+            "codeRepository": "https://github.com/MiKTeX/miktex",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "miktex",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "d7312120-6aaa-4e2a-84a1-3cbaced595a2",
+            "description": "Scalable TeX distribution - Modern C/C++ implementation of TeX & Friends",
+            "codeRepository": "https://github.com/MiKTeX/miktex",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "MiKTeX.MiKTeX",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "d7312120-6aaa-4e2a-84a1-3cbaced595a2",
+            "description": "Comprehensive TeX system that includes all the major TeX-related programs, macro packages, and fonts that are free software",
+            "codeRepository": "https://github.com/TeX-Live/texlive-source",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "texliveFull",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "d7312120-6aaa-4e2a-84a1-3cbaced595a2",
+            "description": "Comprehensive TeX system that includes all the major TeX-related programs, macro packages, and fonts that are free software",
+            "codeRepository": "https://github.com/TeX-Live/texlive-source",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "texlive",
+            "operatingSystem": ["linux"],
+            "targetProduct": "spack"
+        },
+        {
+            "identifier": "d7312120-6aaa-4e2a-84a1-3cbaced595a2",
+            "description": "Comprehensive TeX system that includes all the major TeX-related programs, macro packages, and fonts that are free software",
+            "codeRepository": "https://github.com/TeX-Live/texlive-source",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "texlive",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }

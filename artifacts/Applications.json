@@ -23,7 +23,6 @@
         "Chocolatey": {
             "Cascadia-Code": "cascadiafonts",
             "FiraCode-NF": "firacodenf",
-            "latex": "miktex",
             "openssl": "openssl.light",
             "speedtest-cli": "speedtest",
             "teracopy-np": "teracopy"
