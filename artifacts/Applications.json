@@ -2,7 +2,6 @@
     "Common": [],
     "Extra": {
         "Common": [
-            "altair",
             "anki",
             "brave",
             "broot",
@@ -46,7 +45,6 @@
     },
     "Alias": {
         "Chocolatey": {
-            "altair": "altair-graphql",
             "Cascadia-Code": "cascadiafonts",
             "FiraCode-NF": "firacodenf",
             "go": "golang",
@@ -57,7 +55,6 @@
             "teracopy-np": "teracopy"
         },
         "Homebrew": {
-            "altair": "altair-graphql-client",
             "brave": "brave-browser",
             "vscode": "visual-studio-code"
         },
@@ -108,7 +105,6 @@
             "openssl"
         ],
         "Spack": [
-            "altair",
             "anki",
             "brave",
             "broot",
@@ -146,7 +142,6 @@
             ],
             "Options": {
                 "Cask": [
-                    "altair-graphql-client",
                     "anki",
                     "brave-browser",
                     "ccleaner",
