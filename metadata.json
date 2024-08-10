@@ -2997,6 +2997,72 @@
             "name": "obsidian",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "6a9aa1cc-6cf8-45ed-bdce-5d4d3adf972b",
+            "description": "Swiss-army knife of markup format conversion",
+            "codeRepository": "https://github.com/jgm/pandoc",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "pandoc",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "6a9aa1cc-6cf8-45ed-bdce-5d4d3adf972b",
+            "description": "Swiss-army knife of markup format conversion",
+            "codeRepository": "https://github.com/jgm/pandoc",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "pandoc",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },,
+        {
+            "identifier": "6a9aa1cc-6cf8-45ed-bdce-5d4d3adf972b",
+            "description": "Swiss-army knife of markup format conversion",
+            "codeRepository": "https://github.com/jgm/pandoc",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "JohnMacFarlane.Pandoc",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "6a9aa1cc-6cf8-45ed-bdce-5d4d3adf972b",
+            "description": "Swiss-army knife of markup format conversion",
+            "codeRepository": "https://github.com/jgm/pandoc",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "pandoc",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "6a9aa1cc-6cf8-45ed-bdce-5d4d3adf972b",
+            "description": "Swiss-army knife of markup format conversion",
+            "codeRepository": "https://github.com/jgm/pandoc",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "pandoc",
+            "operatingSystem": ["linux"],
+            "targetProduct": "spack"
+        },
+        {
+            "identifier": "6a9aa1cc-6cf8-45ed-bdce-5d4d3adf972b",
+            "description": "Swiss-army knife of markup format conversion",
+            "codeRepository": "https://github.com/jgm/pandoc",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "pandoc",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }

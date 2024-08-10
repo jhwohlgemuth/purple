@@ -3,7 +3,6 @@
     "Extra": {
         "Common": [
             "ccleaner",
-            "pandoc",
             "podman",
             "zotero"
         ],
@@ -37,7 +36,6 @@
         },
         "Winget": {
             "ccleaner": "Piriform.CCleaner",
-            "pandoc": "JohnMacFarlane.Pandoc",
             "podman": "RedHat.Podman",
             "screentogif": "NickeManarin.ScreenToGif",
             "teracopy": "CodeSector.TeraCopy",
