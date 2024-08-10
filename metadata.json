@@ -1988,6 +1988,127 @@
             "name": "pastel",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "d01d2595-ead8-4baa-b57f-5ec9d8fd6866",
+            "description": "Cross-platform automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models. It includes a command-line shell, an associated scripting language, and a framework for processing cmdlets.",
+            "codeRepository": "https://github.com/PowerShell/PowerShell",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "pwsh",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "d01d2595-ead8-4baa-b57f-5ec9d8fd6866",
+            "description": "Cross-platform automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models. It includes a command-line shell, an associated scripting language, and a framework for processing cmdlets.",
+            "codeRepository": "https://github.com/PowerShell/PowerShell",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "pwsh",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "d01d2595-ead8-4baa-b57f-5ec9d8fd6866",
+            "description": "Cross-platform automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models. It includes a command-line shell, an associated scripting language, and a framework for processing cmdlets.",
+            "codeRepository": "https://github.com/PowerShell/PowerShell",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "Microsoft.PowerShell",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "d01d2595-ead8-4baa-b57f-5ec9d8fd6866",
+            "description": "Cross-platform automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models. It includes a command-line shell, an associated scripting language, and a framework for processing cmdlets.",
+            "codeRepository": "https://github.com/PowerShell/PowerShell",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "powershell",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "d01d2595-ead8-4baa-b57f-5ec9d8fd6866",
+            "description": "Cross-platform automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models. It includes a command-line shell, an associated scripting language, and a framework for processing cmdlets.",
+            "codeRepository": "https://github.com/PowerShell/PowerShell",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["cask"],
+            "name": "powershell",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
+        },
+        {
+            "identifier": "9ea9a757-c3e8-4221-aca8-84a4f3180592",
+            "description": "Tool that recursively searches directories for a regex pattern while respecting your gitignore",
+            "codeRepository": "https://github.com/BurntSushi/ripgrep",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "ripgrep",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "9ea9a757-c3e8-4221-aca8-84a4f3180592",
+            "description": "Tool that recursively searches directories for a regex pattern while respecting your gitignore",
+            "codeRepository": "https://github.com/BurntSushi/ripgrep",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "ripgrep",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "9ea9a757-c3e8-4221-aca8-84a4f3180592",
+            "description": "Tool that recursively searches directories for a regex pattern while respecting your gitignore",
+            "codeRepository": "https://github.com/BurntSushi/ripgrep",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "BurntSushi.ripgrep.GNU",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "9ea9a757-c3e8-4221-aca8-84a4f3180592",
+            "description": "Tool that recursively searches directories for a regex pattern while respecting your gitignore",
+            "codeRepository": "https://github.com/BurntSushi/ripgrep",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "ripgrep",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "9ea9a757-c3e8-4221-aca8-84a4f3180592",
+            "description": "Tool that recursively searches directories for a regex pattern while respecting your gitignore",
+            "codeRepository": "https://github.com/BurntSushi/ripgrep",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "ripgrep",
+            "operatingSystem": ["linux"],
+            "targetProduct": "spack"
+        },
+        {
+            "identifier": "9ea9a757-c3e8-4221-aca8-84a4f3180592",
+            "description": "Tool that recursively searches directories for a regex pattern while respecting your gitignore",
+            "codeRepository": "https://github.com/BurntSushi/ripgrep",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "ripgrep",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }

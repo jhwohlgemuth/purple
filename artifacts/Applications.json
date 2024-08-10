@@ -1,7 +1,5 @@
 {
     "Common": [
-        "pwsh",
-        "ripgrep",
         "shellcheck",
         "tldr",
         "tokei",
@@ -63,19 +61,16 @@
             "insomnia": "insomnia-rest-api-client",
             "latex": "miktex",
             "openssl": "openssl.light",
-            "rga": "ripgrep-all",
             "speedtest-cli": "speedtest",
             "teracopy-np": "teracopy"
         },
         "Homebrew": {
             "altair": "altair-graphql-client",
             "brave": "brave-browser",
-            "pwsh": "powershell",
             "vscode": "visual-studio-code"
         },
         "Nix": {
             "dotnet-sdk": "dotnet-sdk_8",
-            "pwsh": "powershell",
             "tor-browser": "tor-browser-bundle-bin",
             "yq": "yq-go"
         },
@@ -95,7 +90,6 @@
             "obsidian": "Obsidian.Obsidian",
             "pandoc": "JohnMacFarlane.Pandoc",
             "podman": "RedHat.Podman",
-            "pwsh": "Microsoft.PowerShell",
             "screentogif": "NickeManarin.ScreenToGif",
             "speccy": "Piriform.Speccy",
             "teracopy": "CodeSector.TeraCopy",
@@ -145,7 +139,6 @@
             "mockoon",
             "obsidian",
             "osquery",
-            "pwsh",
             "thefuck",
             "tldr",
             "tokei",
@@ -158,7 +151,6 @@
             "dvc",
             "gifcam",
             "osquery",
-            "ripgrep",
             "shellcheck",
             "tldr",
             "tokei",
@@ -192,6 +184,7 @@
                     "firefox",
                     "mockoon",
                     "obsidian",
+                    "powershell",
                     "tor-browser",
                     "visual-studio-code",
                     "warp",
