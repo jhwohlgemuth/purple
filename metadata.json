@@ -2527,6 +2527,61 @@
             "name": "espanso",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "65c0a789-f9be-41ba-bd3d-890616210cec",
+            "description": "Spaced repetition program",
+            "codeRepository": "https://github.com/ankitects/anki",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "anki",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "65c0a789-f9be-41ba-bd3d-890616210cec",
+            "description": "Spaced repetition program",
+            "codeRepository": "https://github.com/ankitects/anki",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "anki",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "65c0a789-f9be-41ba-bd3d-890616210cec",
+            "description": "Spaced repetition program",
+            "codeRepository": "https://github.com/ankitects/anki",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "Anki.Anki",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "65c0a789-f9be-41ba-bd3d-890616210cec",
+            "description": "Spaced repetition program",
+            "codeRepository": "https://github.com/ankitects/anki",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "anki",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "65c0a789-f9be-41ba-bd3d-890616210cec",
+            "description": "Spaced repetition program",
+            "codeRepository": "https://github.com/ankitects/anki",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["cask"],
+            "name": "anki",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }
