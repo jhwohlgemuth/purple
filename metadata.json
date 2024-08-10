@@ -2947,6 +2947,56 @@
             "name": "fciv",
             "operatingSystem": ["windows"],
             "targetProduct": "scoop"
+        },
+        {
+            "identifier": "3e49c72c-6820-4d0d-ac65-5ce01aff0134",
+            "description": "Knowledge base that works on top of a local folder of plain text Markdown files",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "obsidian",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "3e49c72c-6820-4d0d-ac65-5ce01aff0134",
+            "description": "Knowledge base that works on top of a local folder of plain text Markdown files",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "obsidian",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "3e49c72c-6820-4d0d-ac65-5ce01aff0134",
+            "description": "Knowledge base that works on top of a local folder of plain text Markdown files",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "Obsidian.Obsidian",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "3e49c72c-6820-4d0d-ac65-5ce01aff0134",
+            "description": "Knowledge base that works on top of a local folder of plain text Markdown files",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "obsidian",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "3e49c72c-6820-4d0d-ac65-5ce01aff0134",
+            "description": "Knowledge base that works on top of a local folder of plain text Markdown files",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["cask"],
+            "name": "obsidian",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }

@@ -3,7 +3,6 @@
     "Extra": {
         "Common": [
             "ccleaner",
-            "obsidian",
             "pandoc",
             "podman",
             "zotero"
@@ -38,7 +37,6 @@
         },
         "Winget": {
             "ccleaner": "Piriform.CCleaner",
-            "obsidian": "Obsidian.Obsidian",
             "pandoc": "JohnMacFarlane.Pandoc",
             "podman": "RedHat.Podman",
             "screentogif": "NickeManarin.ScreenToGif",
@@ -56,7 +54,6 @@
         "Spack": [
             "ccleaner",
             "docker",
-            "obsidian",
             "zotero"
         ],
         "Winget": [
@@ -81,8 +78,6 @@
                     "ccleaner",
                     "docker",
                     "dotnet-sdk",
-                    "obsidian",
-                    "visual-studio-code",
                     "zotero"
                 ]
             }
