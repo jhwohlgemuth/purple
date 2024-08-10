@@ -3,7 +3,6 @@
     "Extra": {
         "Common": [
             "ccleaner",
-            "mockoon",
             "obsidian",
             "pandoc",
             "podman",
@@ -58,7 +57,6 @@
         ],
         "Nix": [
             "ccleaner",
-            "mockoon",
             "speccy"
         ],
         "Scoop": [
@@ -69,7 +67,6 @@
         "Spack": [
             "ccleaner",
             "docker",
-            "mockoon",
             "obsidian",
             "thefuck",
             "zotero"
@@ -96,7 +93,6 @@
                     "ccleaner",
                     "docker",
                     "dotnet-sdk",
-                    "mockoon",
                     "obsidian",
                     "visual-studio-code",
                     "zotero"
