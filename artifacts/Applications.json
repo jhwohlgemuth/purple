@@ -6,8 +6,6 @@
             "chafa",
             "ccleaner",
             "dia",
-            "dvc",
-            "firefox",
             "gource",
             "insomnia",
             "mockoon",
@@ -15,7 +13,6 @@
             "osquery",
             "pandoc",
             "podman",
-            "tor-browser",
             "vscode",
             "zotero"
         ],
@@ -45,7 +42,6 @@
         "Chocolatey": {
             "Cascadia-Code": "cascadiafonts",
             "FiraCode-NF": "firacodenf",
-            "go": "golang",
             "insomnia": "insomnia-rest-api-client",
             "latex": "miktex",
             "openssl": "openssl.light",
@@ -56,12 +52,10 @@
             "vscode": "visual-studio-code"
         },
         "Nix": {
-            "dotnet-sdk": "dotnet-sdk_8",
-            "tor-browser": "tor-browser-bundle-bin"
+            "dotnet-sdk": "dotnet-sdk_8"
         },
         "Spack": {
-            "dotnet-sdk": "dotnet-core-sdk",
-            "dvc": "py-dvc"
+            "dotnet-sdk": "dotnet-core-sdk"
         },
         "Winget": {
             "carnac": "code52.Carnac",
@@ -69,7 +63,6 @@
             "chafa": "hpjansson.Chafa",
             "gource": "acaudwell.Gource",
             "gsudo": "gerardog.gsudo",
-            "julia": "Julialang.Julia",
             "lockhunter": "CrystalRich.LockHunter",
             "obsidian": "Obsidian.Obsidian",
             "pandoc": "JohnMacFarlane.Pandoc",
@@ -77,7 +70,6 @@
             "screentogif": "NickeManarin.ScreenToGif",
             "speccy": "Piriform.Speccy",
             "teracopy": "CodeSector.TeraCopy",
-            "tor-browser": "TorProject.TorBrowser",
             "vscode": "Microsoft.VisualStudioCode",
             "windirstat": "WinDirStat.WinDirStat",
             "zotero": "DigitalScholar.Zotero"
@@ -106,18 +98,15 @@
             "chafa",
             "ccleaner",
             "docker",
-            "firefox",
             "insomnia",
             "mockoon",
             "obsidian",
             "osquery",
             "thefuck",
-            "tor-browser",
             "vscode",
             "zotero"
         ],
         "Winget": [
-            "dvc",
             "gifcam",
             "osquery"
         ]
@@ -141,10 +130,8 @@
                     "dia",
                     "docker",
                     "dotnet-sdk",
-                    "firefox",
                     "mockoon",
                     "obsidian",
-                    "tor-browser",
                     "visual-studio-code",
                     "warp",
                     "zotero"
