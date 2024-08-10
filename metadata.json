@@ -2915,6 +2915,28 @@
             "name": "gerardog.gsudo",
             "operatingSystem": ["windows"],
             "targetProduct": "winget"
+        },
+        {
+            "identifier": "b8a9e1ef-67fe-453d-8774-5af9c5cf3a71",
+            "description": "Magnificent app which corrects your previous console command",
+            "codeRepository": "https://github.com/nvbn/thefuck",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "thefuck",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "b8a9e1ef-67fe-453d-8774-5af9c5cf3a71",
+            "description": "Magnificent app which corrects your previous console command",
+            "codeRepository": "https://github.com/nvbn/thefuck",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "thefuck",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }

@@ -13,8 +13,7 @@
             "diffoscope",
             "docker",
             "dotnet-sdk",
-            "ncdu",
-            "thefuck"
+            "ncdu"
         ],
         "Spack": [],
         "Windows": [
@@ -59,7 +58,6 @@
             "ccleaner",
             "docker",
             "obsidian",
-            "thefuck",
             "zotero"
         ],
         "Winget": [
