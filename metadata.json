@@ -2461,6 +2461,72 @@
             "name": "zoxide",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "650391d0-a8ff-4650-a6f3-b1b098537bdd",
+            "description": "Cross-platform Text Expander written in Rust",
+            "codeRepository": "https://github.com/espanso/espanso",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "espanso",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "650391d0-a8ff-4650-a6f3-b1b098537bdd",
+            "description": "Cross-platform Text Expander written in Rust",
+            "codeRepository": "https://github.com/espanso/espanso",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "espanso",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "650391d0-a8ff-4650-a6f3-b1b098537bdd",
+            "description": "Cross-platform Text Expander written in Rust",
+            "codeRepository": "https://github.com/espanso/espanso",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "Espanso.Espanso",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "650391d0-a8ff-4650-a6f3-b1b098537bdd",
+            "description": "Cross-platform Text Expander written in Rust",
+            "codeRepository": "https://github.com/espanso/espanso",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "espanso",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "650391d0-a8ff-4650-a6f3-b1b098537bdd",
+            "description": "Cross-platform Text Expander written in Rust",
+            "codeRepository": "https://github.com/espanso/espanso",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "espanso",
+            "operatingSystem": ["linux"],
+            "targetProduct": "spack"
+        },
+        {
+            "identifier": "650391d0-a8ff-4650-a6f3-b1b098537bdd",
+            "description": "Cross-platform Text Expander written in Rust",
+            "codeRepository": "https://github.com/espanso/espanso",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["cask"],
+            "name": "espanso",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }

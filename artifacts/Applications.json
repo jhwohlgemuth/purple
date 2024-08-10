@@ -10,7 +10,6 @@
             "ccleaner",
             "dia",
             "dvc",
-            "espanso",
             "firefox",
             "gource",
             "insomnia",
@@ -74,7 +73,6 @@
             "carnac": "code52.Carnac",
             "ccleaner": "Piriform.CCleaner",
             "chafa": "hpjansson.Chafa",
-            "espanso": "Espanso.Espanso",
             "gource": "acaudwell.Gource",
             "gsudo": "gerardog.gsudo",
             "julia": "Julialang.Julia",
@@ -95,11 +93,7 @@
         "Chocolatey": [
             "broot",
             "chafa",
-            "espanso",
             "gsudo"
-        ],
-        "Homebrew": [
-            "espanso"
         ],
         "Nix": [
             "carnac",
@@ -109,7 +103,6 @@
             "speccy"
         ],
         "Scoop": [
-            "espanso",
             "fciv",
             "gsudo",
             "openssl"
@@ -160,11 +153,9 @@
                     "dia",
                     "docker",
                     "dotnet-sdk",
-                    "espanso",
                     "firefox",
                     "mockoon",
                     "obsidian",
-                    "powershell",
                     "tor-browser",
                     "visual-studio-code",
                     "warp",
