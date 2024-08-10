@@ -3,7 +3,6 @@
     "Extra": {
         "Common": [
             "broot",
-            "chafa",
             "ccleaner",
             "dia",
             "gource",
@@ -59,7 +58,6 @@
         "Winget": {
             "carnac": "code52.Carnac",
             "ccleaner": "Piriform.CCleaner",
-            "chafa": "hpjansson.Chafa",
             "gource": "acaudwell.Gource",
             "gsudo": "gerardog.gsudo",
             "lockhunter": "CrystalRich.LockHunter",
@@ -76,7 +74,6 @@
     "Broken": {
         "Chocolatey": [
             "broot",
-            "chafa",
             "gsudo"
         ],
         "Nix": [
@@ -93,7 +90,6 @@
         ],
         "Spack": [
             "broot",
-            "chafa",
             "ccleaner",
             "docker",
             "insomnia",

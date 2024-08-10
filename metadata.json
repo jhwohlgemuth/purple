@@ -2615,6 +2615,50 @@
             "name": "WinDirStat.WinDirStat",
             "operatingSystem": ["windows"],
             "targetProduct": "winget"
+        },
+        {
+            "identifier": "389481d9-c69a-4ada-9c72-0add8017f087",
+            "description": "Command-line utility that converts image data, including animated GIFs, into graphics formats or ANSI/Unicode character art suitable for display in a terminal",
+            "codeRepository": "https://github.com/hpjansson/chafa",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["shell"],
+            "name": "chafa",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "389481d9-c69a-4ada-9c72-0add8017f087",
+            "description": "Command-line utility that converts image data, including animated GIFs, into graphics formats or ANSI/Unicode character art suitable for display in a terminal",
+            "codeRepository": "https://github.com/hpjansson/chafa",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["shell"],
+            "name": "hpjansson.Chafa",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "389481d9-c69a-4ada-9c72-0add8017f087",
+            "description": "Command-line utility that converts image data, including animated GIFs, into graphics formats or ANSI/Unicode character art suitable for display in a terminal",
+            "codeRepository": "https://github.com/hpjansson/chafa",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["shell"],
+            "name": "chafa",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "389481d9-c69a-4ada-9c72-0add8017f087",
+            "description": "Command-line utility that converts image data, including animated GIFs, into graphics formats or ANSI/Unicode character art suitable for display in a terminal",
+            "codeRepository": "https://github.com/hpjansson/chafa",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["shell"],
+            "name": "chafa",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }
