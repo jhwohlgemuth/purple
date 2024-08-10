@@ -65,7 +65,7 @@
         },
         "Nix": {
             "dotnet-sdk": "dotnet-sdk_8",
-            "tor-browser": "tor-browser-bundle-bin",
+            "tor-browser": "tor-browser-bundle-bin"
         },
         "Spack": {
             "dotnet-sdk": "dotnet-core-sdk",
