@@ -3,10 +3,8 @@
     "Extra": {
         "Common": [
             "ccleaner",
-            "insomnia",
             "mockoon",
             "obsidian",
-            "osquery",
             "pandoc",
             "podman",
             "zotero"
@@ -31,7 +29,6 @@
         "Chocolatey": {
             "Cascadia-Code": "cascadiafonts",
             "FiraCode-NF": "firacodenf",
-            "insomnia": "insomnia-rest-api-client",
             "latex": "miktex",
             "openssl": "openssl.light",
             "speedtest-cli": "speedtest",
@@ -62,7 +59,6 @@
         "Nix": [
             "ccleaner",
             "mockoon",
-            "osquery",
             "speccy"
         ],
         "Scoop": [
@@ -73,16 +69,13 @@
         "Spack": [
             "ccleaner",
             "docker",
-            "insomnia",
             "mockoon",
             "obsidian",
-            "osquery",
             "thefuck",
             "zotero"
         ],
         "Winget": [
-            "gifcam",
-            "osquery"
+            "gifcam"
         ]
     },
     "Metadata": {
