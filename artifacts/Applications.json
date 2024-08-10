@@ -34,8 +34,7 @@
             "gsudo",
             "lockhunter",
             "screentogif",
-            "speccy",
-            "windirstat"
+            "speccy"
         ]
     },
     "Alias": {
@@ -71,7 +70,6 @@
             "speccy": "Piriform.Speccy",
             "teracopy": "CodeSector.TeraCopy",
             "vscode": "Microsoft.VisualStudioCode",
-            "windirstat": "WinDirStat.WinDirStat",
             "zotero": "DigitalScholar.Zotero"
         }
     },

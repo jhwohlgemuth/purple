@@ -2582,6 +2582,39 @@
             "name": "anki",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "39fbb943-64ed-4199-b2d8-0508f8e6609b",
+            "description": "Disk usage statistics viewer and cleanup tool",
+            "codeRepository": "https://sourceforge.net/projects/windirstat/",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "windirstat",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "39fbb943-64ed-4199-b2d8-0508f8e6609b",
+            "description": "Disk usage statistics viewer and cleanup tool",
+            "codeRepository": "https://sourceforge.net/projects/windirstat/",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "windirstat",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "39fbb943-64ed-4199-b2d8-0508f8e6609b",
+            "description": "Disk usage statistics viewer and cleanup tool",
+            "codeRepository": "https://sourceforge.net/projects/windirstat/",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "WinDirStat.WinDirStat",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
         }
     ]
 }
