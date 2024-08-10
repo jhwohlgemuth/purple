@@ -1944,6 +1944,50 @@
             "name": "ngrok",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "69957d15-a96a-42f7-81bd-3a81991cab40",
+            "description": "Command-line tool to generate, analyze, convert and manipulate colors",
+            "codeRepository": "https://github.com/sharkdp/pastel",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "pastel",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "69957d15-a96a-42f7-81bd-3a81991cab40",
+            "description": "Command-line tool to generate, analyze, convert and manipulate colors",
+            "codeRepository": "https://github.com/sharkdp/pastel",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "sharkdp.pastel",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "69957d15-a96a-42f7-81bd-3a81991cab40",
+            "description": "Command-line tool to generate, analyze, convert and manipulate colors",
+            "codeRepository": "https://github.com/sharkdp/pastel",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "pastel",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "69957d15-a96a-42f7-81bd-3a81991cab40",
+            "description": "Command-line tool to generate, analyze, convert and manipulate colors",
+            "codeRepository": "https://github.com/sharkdp/pastel",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "pastel",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }

@@ -1,6 +1,5 @@
 {
     "Common": [
-        "pastel",
         "pwsh",
         "ripgrep",
         "shellcheck",
@@ -95,7 +94,6 @@
             "lockhunter": "CrystalRich.LockHunter",
             "obsidian": "Obsidian.Obsidian",
             "pandoc": "JohnMacFarlane.Pandoc",
-            "pastel": "sharkdp.pastel",
             "podman": "RedHat.Podman",
             "pwsh": "Microsoft.PowerShell",
             "screentogif": "NickeManarin.ScreenToGif",
@@ -114,7 +112,6 @@
             "chafa",
             "espanso",
             "gsudo",
-            "pastel",
             "tokei"
         ],
         "Homebrew": [
@@ -148,7 +145,6 @@
             "mockoon",
             "obsidian",
             "osquery",
-            "pastel",
             "pwsh",
             "thefuck",
             "tldr",
