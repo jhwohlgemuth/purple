@@ -1,6 +1,5 @@
 {
     "Common": [
-        "ngrok",
         "pastel",
         "pwsh",
         "ripgrep",
@@ -147,7 +146,6 @@
             "firefox",
             "insomnia",
             "mockoon",
-            "ngrok",
             "obsidian",
             "osquery",
             "pastel",
@@ -163,7 +161,6 @@
         "Winget": [
             "dvc",
             "gifcam",
-            "ngrok",
             "osquery",
             "ripgrep",
             "shellcheck",
@@ -198,7 +195,6 @@
                     "fig",
                     "firefox",
                     "mockoon",
-                    "ngrok",
                     "obsidian",
                     "tor-browser",
                     "visual-studio-code",

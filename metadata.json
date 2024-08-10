@@ -1889,6 +1889,61 @@
             "name": "neovim",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "0edeafb3-844f-4be6-80c1-5b602bbc4111",
+            "description": "Reverse proxy, secure introspectable tunnels to localhost",
+            "codeRepository": "",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "ngrok",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "0edeafb3-844f-4be6-80c1-5b602bbc4111",
+            "description": "Reverse proxy, secure introspectable tunnels to localhost",
+            "codeRepository": "https://github.com/ngrok/choco-ngrok",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "ngrok",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "0edeafb3-844f-4be6-80c1-5b602bbc4111",
+            "description": "Reverse proxy, secure introspectable tunnels to localhost",
+            "codeRepository": "",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "Ngrok.Ngrok",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "0edeafb3-844f-4be6-80c1-5b602bbc4111",
+            "description": "Reverse proxy, secure introspectable tunnels to localhost",
+            "codeRepository": "https://github.com/ngrok/ngrok-nix",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "ngrok",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "0edeafb3-844f-4be6-80c1-5b602bbc4111",
+            "description": "Reverse proxy, secure introspectable tunnels to localhost",
+            "codeRepository": "https://github.com/ngrok/ngrok-nix",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["cask"],
+            "name": "ngrok",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }
