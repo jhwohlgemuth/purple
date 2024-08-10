@@ -2,7 +2,6 @@
     "Common": [],
     "Extra": {
         "Common": [
-            "broot",
             "ccleaner",
             "gource",
             "insomnia",
@@ -65,7 +64,6 @@
     },
     "Broken": {
         "Chocolatey": [
-            "broot",
             "gsudo"
         ],
         "Nix": [
@@ -80,7 +78,6 @@
             "openssl"
         ],
         "Spack": [
-            "broot",
             "ccleaner",
             "docker",
             "insomnia",
