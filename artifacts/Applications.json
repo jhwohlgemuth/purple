@@ -14,9 +14,6 @@
             "vscode",
             "zotero"
         ],
-        "Homebrew": [
-            "warp"
-        ],
         "Linux": [
             "aspell",
             "diffoscope",
@@ -120,7 +117,6 @@
                     "mockoon",
                     "obsidian",
                     "visual-studio-code",
-                    "warp",
                     "zotero"
                 ]
             }
