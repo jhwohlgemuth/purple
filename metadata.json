@@ -1893,7 +1893,6 @@
         {
             "identifier": "0edeafb3-844f-4be6-80c1-5b602bbc4111",
             "description": "Reverse proxy, secure introspectable tunnels to localhost",
-            "codeRepository": "",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
             "keywords": [],
@@ -1915,7 +1914,6 @@
         {
             "identifier": "0edeafb3-844f-4be6-80c1-5b602bbc4111",
             "description": "Reverse proxy, secure introspectable tunnels to localhost",
-            "codeRepository": "",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
             "keywords": [],
@@ -2659,6 +2657,36 @@
             "name": "chafa",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "a8db0ca8-7d16-4f96-8aaf-627740ead85f",
+            "description": "Tool to delete files blocked by something you do not know",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "lockhunter",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "a8db0ca8-7d16-4f96-8aaf-627740ead85f",
+            "description": "Tool to delete files blocked by something you do not know",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "lockhunter",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "a8db0ca8-7d16-4f96-8aaf-627740ead85f",
+            "description": "Tool to delete files blocked by something you do not know",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "CrystalRich.LockHunter",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
         }
     ]
 }
