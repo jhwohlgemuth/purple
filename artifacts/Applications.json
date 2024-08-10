@@ -27,7 +27,6 @@
         ],
         "Spack": [],
         "Windows": [
-            "carnac",
             "gifcam",
             "gsudo",
             "screentogif",
@@ -54,7 +53,6 @@
             "dotnet-sdk": "dotnet-core-sdk"
         },
         "Winget": {
-            "carnac": "code52.Carnac",
             "ccleaner": "Piriform.CCleaner",
             "gource": "acaudwell.Gource",
             "gsudo": "gerardog.gsudo",
@@ -74,7 +72,6 @@
             "gsudo"
         ],
         "Nix": [
-            "carnac",
             "ccleaner",
             "mockoon",
             "osquery",

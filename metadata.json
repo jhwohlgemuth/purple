@@ -2687,6 +2687,36 @@
             "name": "CrystalRich.LockHunter",
             "operatingSystem": ["windows"],
             "targetProduct": "winget"
+        },
+        {
+            "identifier": "0e980800-fe81-4f29-837c-045bd6485e5d",
+            "description": "Keyboard utility for all your Windows presentation needs",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "carnac",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "0e980800-fe81-4f29-837c-045bd6485e5d",
+            "description": "Keyboard utility for all your Windows presentation needs",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "carnac",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "0e980800-fe81-4f29-837c-045bd6485e5d",
+            "description": "Keyboard utility for all your Windows presentation needs",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "code52.Carnac",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
         }
     ]
 }
