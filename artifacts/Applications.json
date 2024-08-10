@@ -51,7 +51,6 @@
             "ccleaner"
         ],
         "Scoop": [
-            "fciv",
             "openssl"
         ],
         "Spack": [

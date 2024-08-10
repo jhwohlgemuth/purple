@@ -2937,6 +2937,16 @@
             "name": "thefuck",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "19a83b75-b05c-446a-9be0-599ba4614902",
+            "description": "Utility that computes and verifies cryptographic hash values of files (File Checksum Integrity Verifier)",
+            "developmentStatus": "Unsupported",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "fciv",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
         }
     ]
 }
