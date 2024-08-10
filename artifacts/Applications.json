@@ -1,7 +1,5 @@
 {
     "Common": [
-        "make",
-        "miniconda3",
         "neovim",
         "ngrok",
         "pastel",
@@ -75,22 +73,18 @@
         "Homebrew": {
             "altair": "altair-graphql-client",
             "brave": "brave-browser",
-            "miniconda3": "miniconda",
             "pwsh": "powershell",
             "vscode": "visual-studio-code"
         },
         "Nix": {
             "dotnet-sdk": "dotnet-sdk_8",
-            "make": "gnumake",
-            "miniconda3": "micromamba",
             "pwsh": "powershell",
             "tor-browser": "tor-browser-bundle-bin",
             "yq": "yq-go"
         },
         "Spack": {
             "dotnet-sdk": "dotnet-core-sdk",
-            "dvc": "py-dvc",
-            "make": "gmake"
+            "dvc": "py-dvc"
         },
         "Winget": {
             "carnac": "code52.Carnac",
@@ -101,8 +95,6 @@
             "gsudo": "gerardog.gsudo",
             "julia": "Julialang.Julia",
             "lockhunter": "CrystalRich.LockHunter",
-            "make": "GnuWin32.Make",
-            "miniconda3": "Anaconda.Miniconda3",
             "neovim": "Neovim.Neovim",
             "obsidian": "Obsidian.Obsidian",
             "pandoc": "JohnMacFarlane.Pandoc",
@@ -207,7 +199,6 @@
                     "espanso",
                     "fig",
                     "firefox",
-                    "miniconda",
                     "mockoon",
                     "ngrok",
                     "obsidian",

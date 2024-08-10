@@ -1650,7 +1650,7 @@
         },
         {
             "identifier": "960dcd00-3b41-4db8-b8d8-1ce259cd5707",
-            "description": " Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!",
+            "description": "Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!",
             "codeRepository": "https://github.com/lycheeverse/lychee",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
@@ -1661,7 +1661,7 @@
         },
         {
             "identifier": "960dcd00-3b41-4db8-b8d8-1ce259cd5707",
-            "description": " Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!",
+            "description": "Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!",
             "codeRepository": "https://github.com/lycheeverse/lychee",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
@@ -1672,7 +1672,7 @@
         },
         {
             "identifier": "960dcd00-3b41-4db8-b8d8-1ce259cd5707",
-            "description": " Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!",
+            "description": "Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!",
             "codeRepository": "https://github.com/lycheeverse/lychee",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
@@ -1683,7 +1683,7 @@
         },
         {
             "identifier": "960dcd00-3b41-4db8-b8d8-1ce259cd5707",
-            "description": " Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!",
+            "description": "Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!",
             "codeRepository": "https://github.com/lycheeverse/lychee",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
@@ -1694,12 +1694,133 @@
         },
         {
             "identifier": "960dcd00-3b41-4db8-b8d8-1ce259cd5707",
-            "description": " Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!",
+            "description": "Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!",
             "codeRepository": "https://github.com/lycheeverse/lychee",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
             "keywords": [],
             "name": "lychee",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
+        },
+        {
+            "identifier": "07916eeb-4257-42a8-b67a-4f8b39a494df",
+            "description": "Tool which controls the generation of executables and other non-source files of a program from the program's source files",
+            "codeRepository": "https://savannah.gnu.org/git/?group=make",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "make",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "07916eeb-4257-42a8-b67a-4f8b39a494df",
+            "description": "Tool which controls the generation of executables and other non-source files of a program from the program's source files",
+            "codeRepository": "https://savannah.gnu.org/git/?group=make",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "make",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "07916eeb-4257-42a8-b67a-4f8b39a494df",
+            "description": "Tool which controls the generation of executables and other non-source files of a program from the program's source files",
+            "codeRepository": "https://savannah.gnu.org/git/?group=make",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "gnumake",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "07916eeb-4257-42a8-b67a-4f8b39a494df",
+            "description": "Tool which controls the generation of executables and other non-source files of a program from the program's source files",
+            "codeRepository": "https://savannah.gnu.org/git/?group=make",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "gmake",
+            "operatingSystem": ["linux"],
+            "targetProduct": "spack"
+        },
+        {
+            "identifier": "07916eeb-4257-42a8-b67a-4f8b39a494df",
+            "description": "Tool which controls the generation of executables and other non-source files of a program from the program's source files",
+            "codeRepository": "https://savannah.gnu.org/git/?group=make",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "make",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
+        },
+        {
+            "identifier": "61712b85-83fd-4433-8f0d-d7fd7ce28eaf",
+            "description": "Conda and mamba pre-configured to conda-forge (only)",
+            "codeRepository": "https://github.com/conda-forge/miniforge",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "mambaforge",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "61712b85-83fd-4433-8f0d-d7fd7ce28eaf",
+            "description": "Conda and mamba pre-configured to conda-forge (only)",
+            "codeRepository": "https://github.com/conda-forge/miniforge",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "mambaforge",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "61712b85-83fd-4433-8f0d-d7fd7ce28eaf",
+            "description": "Fast Cross-Platform Package Manager",
+            "codeRepository": "https://github.com/mamba-org/mamba",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "Mamba.Micromamba",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "61712b85-83fd-4433-8f0d-d7fd7ce28eaf",
+            "description": "Fast Cross-Platform Package Manager",
+            "codeRepository": "https://github.com/mamba-org/mamba",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "micromamba",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "61712b85-83fd-4433-8f0d-d7fd7ce28eaf",
+            "description": "Fast Cross-Platform Package Manager",
+            "codeRepository": "https://github.com/mamba-org/mamba",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "micromamba",
+            "operatingSystem": ["linux"],
+            "targetProduct": "spack"
+        },
+        {
+            "identifier": "61712b85-83fd-4433-8f0d-d7fd7ce28eaf",
+            "description": "Fast Cross-Platform Package Manager",
+            "codeRepository": "https://github.com/mamba-org/mamba",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "micromamba",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
         }
