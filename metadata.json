@@ -279,7 +279,7 @@
             "codeRepository": "https://github.com/tomnomnom/gron",
             "developmentStatus": "Inactive",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["search"],
             "name": "gron",
             "operatingSystem": ["windows"],
             "targetProduct": "scoop"
@@ -290,7 +290,7 @@
             "codeRepository": "https://github.com/tomnomnom/gron",
             "developmentStatus": "Inactive",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["search"],
             "name": "TomHudson.gron",
             "operatingSystem": ["windows"],
             "targetProduct": "winget"
@@ -301,7 +301,7 @@
             "codeRepository": "https://github.com/tomnomnom/gron",
             "developmentStatus": "Inactive",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["search"],
             "name": "gron",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
@@ -312,7 +312,7 @@
             "codeRepository": "https://github.com/dandavison/delta",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["git", "rust", "syntax-highlighting"],
+            "keywords": ["git", "syntax-highlighting"],
             "name": "delta",
             "operatingSystem": ["windows"],
             "targetProduct": "scoop"
@@ -323,7 +323,7 @@
             "codeRepository": "https://github.com/dandavison/delta",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["git", "rust", "syntax-highlighting"],
+            "keywords": ["git", "syntax-highlighting"],
             "name": "delta",
             "operatingSystem": ["windows"],
             "targetProduct": "choco"
@@ -334,7 +334,7 @@
             "codeRepository": "https://github.com/dandavison/delta",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["git", "rust", "syntax-highlighting"],
+            "keywords": ["git", "syntax-highlighting"],
             "name": "delta",
             "operatingSystem": ["windows"],
             "targetProduct": "winget"
@@ -345,7 +345,7 @@
             "codeRepository": "https://github.com/dandavison/delta",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["git", "rust", "syntax-highlighting"],
+            "keywords": ["git", "syntax-highlighting"],
             "name": "delta",
             "operatingSystem": ["linux"],
             "targetProduct": "nix"
@@ -356,7 +356,7 @@
             "codeRepository": "https://github.com/dandavison/delta",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["git", "rust", "syntax-highlighting"],
+            "keywords": ["git", "syntax-highlighting"],
             "name": "git-delta",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
@@ -1148,7 +1148,7 @@
             "codeRepository": "https://savannah.gnu.org/git/?group=grep",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["search"],
             "name": "grep",
             "operatingSystem": ["windows"],
             "targetProduct": "scoop"
@@ -1159,7 +1159,7 @@
             "codeRepository": "https://savannah.gnu.org/git/?group=grep",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["search"],
             "name": "grep",
             "operatingSystem": ["windows"],
             "targetProduct": "choco"
@@ -1170,7 +1170,7 @@
             "codeRepository": "https://savannah.gnu.org/git/?group=grep",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["search"],
             "name": "GnuWin32.Grep",
             "operatingSystem": ["windows"],
             "targetProduct": "winget"
@@ -1181,7 +1181,7 @@
             "codeRepository": "https://savannah.gnu.org/git/?group=grep",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["search"],
             "name": "gnugrep",
             "operatingSystem": ["linux"],
             "targetProduct": "nix"
@@ -1192,7 +1192,7 @@
             "codeRepository": "https://savannah.gnu.org/git/?group=grep",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["search"],
             "name": "grep",
             "operatingSystem": ["linux"],
             "targetProduct": "spack"
@@ -1203,7 +1203,7 @@
             "codeRepository": "https://savannah.gnu.org/git/?group=grep",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["search"],
             "name": "grep",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
@@ -1874,7 +1874,7 @@
             "codeRepository": "https://github.com/neovim/neovim",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["editor"],
             "name": "neovim",
             "operatingSystem": ["windows"],
             "targetProduct": "scoop"
@@ -1885,7 +1885,7 @@
             "codeRepository": "https://github.com/neovim/neovim",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["editor"],
             "name": "neovim",
             "operatingSystem": ["windows"],
             "targetProduct": "choco"
@@ -1896,7 +1896,7 @@
             "codeRepository": "https://github.com/neovim/neovim",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["editor"],
             "name": "Neovim.Neovim",
             "operatingSystem": ["windows"],
             "targetProduct": "winget"
@@ -1907,7 +1907,7 @@
             "codeRepository": "https://github.com/neovim/neovim",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["editor"],
             "name": "neovim",
             "operatingSystem": ["linux"],
             "targetProduct": "nix"
@@ -1918,7 +1918,7 @@
             "codeRepository": "https://github.com/neovim/neovim",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["editor"],
             "name": "neovim",
             "operatingSystem": ["linux"],
             "targetProduct": "spack"
@@ -1929,7 +1929,7 @@
             "codeRepository": "https://github.com/neovim/neovim",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["editor"],
             "name": "neovim",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
@@ -2444,7 +2444,7 @@
             "codeRepository": "https://github.com/ajeetdsouza/zoxide",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["navigation"],
             "name": "zoxide",
             "operatingSystem": ["windows"],
             "targetProduct": "scoop"
@@ -2455,7 +2455,7 @@
             "codeRepository": "https://github.com/ajeetdsouza/zoxide",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["navigation"],
             "name": "zoxide",
             "operatingSystem": ["windows"],
             "targetProduct": "choco"
@@ -2466,7 +2466,7 @@
             "codeRepository": "https://github.com/ajeetdsouza/zoxide",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["navigation"],
             "name": "ajeetdsouza.zoxide",
             "operatingSystem": ["windows"],
             "targetProduct": "winget"
@@ -2477,7 +2477,7 @@
             "codeRepository": "https://github.com/ajeetdsouza/zoxide",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["navigation"],
             "name": "zoxide",
             "operatingSystem": ["linux"],
             "targetProduct": "nix"
@@ -2488,7 +2488,7 @@
             "codeRepository": "https://github.com/ajeetdsouza/zoxide",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["navigation"],
             "name": "zoxide",
             "operatingSystem": ["linux"],
             "targetProduct": "spack"
@@ -2499,7 +2499,7 @@
             "codeRepository": "https://github.com/ajeetdsouza/zoxide",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["navigation"],
             "name": "zoxide",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"

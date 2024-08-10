@@ -3,7 +3,6 @@
     "Extra": {
         "Common": [
             "ccleaner",
-            "gource",
             "insomnia",
             "mockoon",
             "obsidian",
@@ -50,7 +49,6 @@
         },
         "Winget": {
             "ccleaner": "Piriform.CCleaner",
-            "gource": "acaudwell.Gource",
             "gsudo": "gerardog.gsudo",
             "obsidian": "Obsidian.Obsidian",
             "pandoc": "JohnMacFarlane.Pandoc",
