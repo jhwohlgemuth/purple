@@ -3129,6 +3129,72 @@
             "name": "texlive",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "76f98147-9de6-4670-88ec-f2e329228af7",
+            "description": "Nerd Fonts patched 'Victor Mono' Font family",
+            "codeRepository": "https://github.com/ryanoasis/nerd-fonts",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["font", "bucket::nerd-fonts"],
+            "name": "VictorMono-NF",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "76f98147-9de6-4670-88ec-f2e329228af7",
+            "description": "Nerd Fonts patched 'Victor Mono' Font family",
+            "codeRepository": "https://github.com/ryanoasis/nerd-fonts",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["font"],
+            "name": "nerd-fonts-victormono",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "76f98147-9de6-4670-88ec-f2e329228af7",
+            "description": "Nerd Fonts patched 'Victor Mono' Font family",
+            "codeRepository": "https://github.com/ryanoasis/nerd-fonts",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["cask", "font"],
+            "name": "font-victor-mono-nerd-font",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
+        },
+        {
+            "identifier": "12612fef-2162-4530-b61b-d866d9736afb",
+            "description": "Nerd Fonts patched 'JetBrains Mono' Font family",
+            "codeRepository": "https://github.com/ryanoasis/nerd-fonts",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["font", "bucket::nerd-fonts"],
+            "name": "JetBrainsMono-NF",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "12612fef-2162-4530-b61b-d866d9736afb",
+            "description": "Nerd Fonts patched 'JetBrains Mono' Font family",
+            "codeRepository": "https://github.com/ryanoasis/nerd-fonts",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["font", "bucket::nerd-fonts"],
+            "name": "DEVCOM.JetBrainsMonoNerdFont",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "12612fef-2162-4530-b61b-d866d9736afb",
+            "description": "Nerd Fonts patched 'JetBrains Mono' Font family",
+            "codeRepository": "https://github.com/ryanoasis/nerd-fonts",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["cask", "font"],
+            "name": "font-jetbrains-mono-nerd-font",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }

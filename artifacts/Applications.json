@@ -21,11 +21,7 @@
     },
     "Alias": {
         "Chocolatey": {
-            "Cascadia-Code": "cascadiafonts",
-            "FiraCode-NF": "firacodenf",
-            "openssl": "openssl.light",
-            "speedtest-cli": "speedtest",
-            "teracopy-np": "teracopy"
+            "openssl": "openssl.light"
         },
         "Nix": {
             "dotnet-sdk": "dotnet-sdk_8"
@@ -37,7 +33,6 @@
             "ccleaner": "Piriform.CCleaner",
             "podman": "RedHat.Podman",
             "screentogif": "NickeManarin.ScreenToGif",
-            "teracopy": "CodeSector.TeraCopy",
             "zotero": "DigitalScholar.Zotero"
         }
     },
@@ -58,12 +53,6 @@
         ]
     },
     "Metadata": {
-        "Chocolatey": {
-            "Command": "choco install",
-            "Supports": [
-                "Windows"
-            ]
-        },
         "Homebrew": {
             "Command": "brew install",
             "Supports": [
@@ -78,32 +67,6 @@
                     "zotero"
                 ]
             }
-        },
-        "Nix": {
-            "Command": "nix-env -iA",
-            "Supports": [
-                "Darwin",
-                "Linux"
-            ]
-        },
-        "Scoop": {
-            "Command": "scoop install",
-            "Supports": [
-                "Windows"
-            ]
-        },
-        "Spack": {
-            "Command": "spack install",
-            "Supports": [
-                "Darwin",
-                "Linux"
-            ]
-        },
-        "Winget": {
-            "Command": "winget install",
-            "Supports": [
-                "Windows"
-            ]
         }
     }
 }
