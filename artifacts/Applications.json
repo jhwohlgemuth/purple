@@ -19,7 +19,6 @@
         "Spack": [],
         "Windows": [
             "gifcam",
-            "gsudo",
             "screentogif"
         ]
     },
@@ -40,7 +39,6 @@
         },
         "Winget": {
             "ccleaner": "Piriform.CCleaner",
-            "gsudo": "gerardog.gsudo",
             "obsidian": "Obsidian.Obsidian",
             "pandoc": "JohnMacFarlane.Pandoc",
             "podman": "RedHat.Podman",
@@ -50,15 +48,11 @@
         }
     },
     "Broken": {
-        "Chocolatey": [
-            "gsudo"
-        ],
         "Nix": [
             "ccleaner"
         ],
         "Scoop": [
             "fciv",
-            "gsudo",
             "openssl"
         ],
         "Spack": [

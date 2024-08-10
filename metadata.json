@@ -2882,6 +2882,39 @@
             "name": "osquery",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "a739f58d-961d-4925-bbe0-7bae437e60bf",
+            "description": "Sudo for Windows",
+            "codeRepository": "https://github.com/gerardog/gsudo",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "gsudo",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "a739f58d-961d-4925-bbe0-7bae437e60bf",
+            "description": "Sudo for Windows",
+            "codeRepository": "https://github.com/gerardog/gsudo",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "gsudo",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "a739f58d-961d-4925-bbe0-7bae437e60bf",
+            "description": "Sudo for Windows",
+            "codeRepository": "https://github.com/gerardog/gsudo",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "gerardog.gsudo",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
         }
     ]
 }
