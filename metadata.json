@@ -2761,6 +2761,72 @@
             "name": "code52.Carnac",
             "operatingSystem": ["windows"],
             "targetProduct": "winget"
+        },
+        {
+            "identifier": "98b067f8-905f-448e-af6a-dcd88c2c568f",
+            "description": "Visual Studio Code",
+            "codeRepository": "https://github.com/microsoft/vscode",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["editor"],
+            "name": "vscode",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "98b067f8-905f-448e-af6a-dcd88c2c568f",
+            "description": "Visual Studio Code",
+            "codeRepository": "https://github.com/microsoft/vscode",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["editor"],
+            "name": "vscode",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "98b067f8-905f-448e-af6a-dcd88c2c568f",
+            "description": "Visual Studio Code",
+            "codeRepository": "https://github.com/microsoft/vscode",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["editor"],
+            "name": "Microsoft.VisualStudioCode",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "98b067f8-905f-448e-af6a-dcd88c2c568f",
+            "description": "Visual Studio Code",
+            "codeRepository": "https://github.com/microsoft/vscode",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["editor"],
+            "name": "vscode",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "98b067f8-905f-448e-af6a-dcd88c2c568f",
+            "description": "VS Code in the browser",
+            "codeRepository": "https://github.com/coder/code-server",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["editor"],
+            "name": "code-server",
+            "operatingSystem": ["linux"],
+            "targetProduct": "spack"
+        },
+        {
+            "identifier": "98b067f8-905f-448e-af6a-dcd88c2c568f",
+            "description": "Visual Studio Code",
+            "codeRepository": "https://github.com/microsoft/vscode",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["cask", "editor"],
+            "name": "visual-studio-code",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }

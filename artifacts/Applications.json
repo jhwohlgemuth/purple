@@ -9,7 +9,6 @@
             "osquery",
             "pandoc",
             "podman",
-            "vscode",
             "zotero"
         ],
         "Linux": [
@@ -38,9 +37,6 @@
             "speedtest-cli": "speedtest",
             "teracopy-np": "teracopy"
         },
-        "Homebrew": {
-            "vscode": "visual-studio-code"
-        },
         "Nix": {
             "dotnet-sdk": "dotnet-sdk_8"
         },
@@ -56,7 +52,6 @@
             "screentogif": "NickeManarin.ScreenToGif",
             "speccy": "Piriform.Speccy",
             "teracopy": "CodeSector.TeraCopy",
-            "vscode": "Microsoft.VisualStudioCode",
             "zotero": "DigitalScholar.Zotero"
         }
     },
@@ -83,7 +78,6 @@
             "obsidian",
             "osquery",
             "thefuck",
-            "vscode",
             "zotero"
         ],
         "Winget": [
