@@ -1823,6 +1823,72 @@
             "name": "micromamba",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "74bc3858-4fe0-4c47-8dd6-771ba07f1312",
+            "description": "Vim-fork focused on extensibility and usability",
+            "codeRepository": "https://github.com/neovim/neovim",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "neovim",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "74bc3858-4fe0-4c47-8dd6-771ba07f1312",
+            "description": "Vim-fork focused on extensibility and usability",
+            "codeRepository": "https://github.com/neovim/neovim",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "neovim",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "74bc3858-4fe0-4c47-8dd6-771ba07f1312",
+            "description": "Vim-fork focused on extensibility and usability",
+            "codeRepository": "https://github.com/neovim/neovim",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "Neovim.Neovim",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "74bc3858-4fe0-4c47-8dd6-771ba07f1312",
+            "description": "Vim-fork focused on extensibility and usability",
+            "codeRepository": "https://github.com/neovim/neovim",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "neovim",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "74bc3858-4fe0-4c47-8dd6-771ba07f1312",
+            "description": "Vim-fork focused on extensibility and usability",
+            "codeRepository": "https://github.com/neovim/neovim",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "neovim",
+            "operatingSystem": ["linux"],
+            "targetProduct": "spack"
+        },
+        {
+            "identifier": "74bc3858-4fe0-4c47-8dd6-771ba07f1312",
+            "description": "Vim-fork focused on extensibility and usability",
+            "codeRepository": "https://github.com/neovim/neovim",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "neovim",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }

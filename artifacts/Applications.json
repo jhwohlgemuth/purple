@@ -1,6 +1,5 @@
 {
     "Common": [
-        "neovim",
         "ngrok",
         "pastel",
         "pwsh",
@@ -95,7 +94,6 @@
             "gsudo": "gerardog.gsudo",
             "julia": "Julialang.Julia",
             "lockhunter": "CrystalRich.LockHunter",
-            "neovim": "Neovim.Neovim",
             "obsidian": "Obsidian.Obsidian",
             "pandoc": "JohnMacFarlane.Pandoc",
             "pastel": "sharkdp.pastel",
