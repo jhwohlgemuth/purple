@@ -24,7 +24,6 @@
             "zotero"
         ],
         "Homebrew": [
-            "fig",
             "warp"
         ],
         "Linux": [
@@ -105,7 +104,6 @@
         "Nix": [
             "carnac",
             "ccleaner",
-            "fig",
             "mockoon",
             "osquery",
             "speccy"
@@ -163,7 +161,6 @@
                     "docker",
                     "dotnet-sdk",
                     "espanso",
-                    "fig",
                     "firefox",
                     "mockoon",
                     "obsidian",
