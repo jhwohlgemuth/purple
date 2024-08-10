@@ -543,7 +543,7 @@
             "codeRepository": "https://github.com/bootandy/dust",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["rust", "shell"],
+            "keywords": ["shell"],
             "name": "dust",
             "operatingSystem": ["windows"],
             "targetProduct": "scoop"
@@ -554,7 +554,7 @@
             "codeRepository": "https://github.com/bootandy/dust",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["rust", "shell"],
+            "keywords": ["shell"],
             "name": "dust",
             "operatingSystem": ["windows"],
             "targetProduct": "choco"
@@ -565,7 +565,7 @@
             "codeRepository": "https://github.com/bootandy/dust",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["rust", "shell"],
+            "keywords": ["shell"],
             "name": "bootandy.dust",
             "operatingSystem": ["windows"],
             "targetProduct": "winget"
@@ -576,7 +576,7 @@
             "codeRepository": "https://github.com/bootandy/dust",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["rust", "shell"],
+            "keywords": ["shell"],
             "name": "dust",
             "operatingSystem": ["linux"],
             "targetProduct": "nix"
@@ -587,7 +587,7 @@
             "codeRepository": "https://github.com/bootandy/dust",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["rust", "shell"],
+            "keywords": ["shell"],
             "name": "dust",
             "operatingSystem": ["linux"],
             "targetProduct": "spack"
@@ -598,7 +598,7 @@
             "codeRepository": "https://github.com/bootandy/dust",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["rust", "shell"],
+            "keywords": ["shell"],
             "name": "dust",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
@@ -664,7 +664,7 @@
             "codeRepository": "https://github.com/sharkdp/fd",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["search"],
             "name": "fd",
             "operatingSystem": ["windows"],
             "targetProduct": "scoop"
@@ -675,7 +675,7 @@
             "codeRepository": "https://github.com/sharkdp/fd",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["search"],
             "name": "fd",
             "operatingSystem": ["windows"],
             "targetProduct": "choco"
@@ -686,7 +686,7 @@
             "codeRepository": "https://github.com/sharkdp/fd",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["search"],
             "name": "sharkdp.fd",
             "operatingSystem": ["windows"],
             "targetProduct": "winget"
@@ -697,7 +697,7 @@
             "codeRepository": "https://github.com/sharkdp/fd",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["search"],
             "name": "fd",
             "operatingSystem": ["linux"],
             "targetProduct": "nix"
@@ -708,7 +708,7 @@
             "codeRepository": "https://github.com/sharkdp/fd",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["search"],
             "name": "fd",
             "operatingSystem": ["linux"],
             "targetProduct": "spack"
@@ -719,7 +719,7 @@
             "codeRepository": "https://github.com/sharkdp/fd",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["search"],
             "name": "fd",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
@@ -730,7 +730,7 @@
             "codeRepository": "https://github.com/junegunn/fzf",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["search"],
             "name": "fzf",
             "operatingSystem": ["windows"],
             "targetProduct": "scoop"
@@ -741,7 +741,7 @@
             "codeRepository": "https://github.com/junegunn/fzf",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["search"],
             "name": "fzf",
             "operatingSystem": ["windows"],
             "targetProduct": "choco"
@@ -752,7 +752,7 @@
             "codeRepository": "https://github.com/junegunn/fzf",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["search"],
             "name": "junegunn.fzf",
             "operatingSystem": ["windows"],
             "targetProduct": "winget"
@@ -763,7 +763,7 @@
             "codeRepository": "https://github.com/junegunn/fzf",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["search"],
             "name": "fzf",
             "operatingSystem": ["linux"],
             "targetProduct": "nix"
@@ -774,7 +774,7 @@
             "codeRepository": "https://github.com/junegunn/fzf",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["search"],
             "name": "fzf",
             "operatingSystem": ["linux"],
             "targetProduct": "spack"
@@ -785,7 +785,7 @@
             "codeRepository": "https://github.com/junegunn/fzf",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["search"],
             "name": "fzf",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
@@ -2050,7 +2050,7 @@
             "codeRepository": "https://github.com/BurntSushi/ripgrep",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["search"],
             "name": "ripgrep",
             "operatingSystem": ["windows"],
             "targetProduct": "scoop"
@@ -2061,7 +2061,7 @@
             "codeRepository": "https://github.com/BurntSushi/ripgrep",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["search"],
             "name": "ripgrep",
             "operatingSystem": ["windows"],
             "targetProduct": "choco"
@@ -2072,7 +2072,7 @@
             "codeRepository": "https://github.com/BurntSushi/ripgrep",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["search"],
             "name": "BurntSushi.ripgrep.GNU",
             "operatingSystem": ["windows"],
             "targetProduct": "winget"
@@ -2083,7 +2083,7 @@
             "codeRepository": "https://github.com/BurntSushi/ripgrep",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["search"],
             "name": "ripgrep",
             "operatingSystem": ["linux"],
             "targetProduct": "nix"
@@ -2094,7 +2094,7 @@
             "codeRepository": "https://github.com/BurntSushi/ripgrep",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["search"],
             "name": "ripgrep",
             "operatingSystem": ["linux"],
             "targetProduct": "spack"
@@ -2105,8 +2105,52 @@
             "codeRepository": "https://github.com/BurntSushi/ripgrep",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["search"],
             "name": "ripgrep",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
+        },
+        {
+            "identifier": "7ba8ad1e-a175-4f47-8e3a-8531dc8852fd",
+            "description": "ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.",
+            "codeRepository": "https://github.com/phiresky/ripgrep-all",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["search"],
+            "name": "rga",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "7ba8ad1e-a175-4f47-8e3a-8531dc8852fd",
+            "description": "ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.",
+            "codeRepository": "https://github.com/phiresky/ripgrep-all",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["search"],
+            "name": "ripgrep-all",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "7ba8ad1e-a175-4f47-8e3a-8531dc8852fd",
+            "description": "ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.",
+            "codeRepository": "https://github.com/phiresky/ripgrep-all",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["search"],
+            "name": "ripgrep-all",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "7ba8ad1e-a175-4f47-8e3a-8531dc8852fd",
+            "description": "ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.",
+            "codeRepository": "https://github.com/phiresky/ripgrep-all",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["search"],
+            "name": "ripgrep-all",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
         }
