@@ -2153,6 +2153,72 @@
             "name": "ripgrep-all",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "a392cb58-63cf-47c3-b845-4a3414d80829",
+            "description": "Static analysis tool for shell scripts",
+            "codeRepository": "https://github.com/koalaman/shellcheck",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["static-analysis"],
+            "name": "shellcheck",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "a392cb58-63cf-47c3-b845-4a3414d80829",
+            "description": "Static analysis tool for shell scripts",
+            "codeRepository": "https://github.com/koalaman/shellcheck",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["static-analysis"],
+            "name": "shellcheck",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "a392cb58-63cf-47c3-b845-4a3414d80829",
+            "description": "Static analysis tool for shell scripts",
+            "codeRepository": "https://github.com/koalaman/shellcheck",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["static-analysis"],
+            "name": "koalaman.shellcheck",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "a392cb58-63cf-47c3-b845-4a3414d80829",
+            "description": "Static analysis tool for shell scripts",
+            "codeRepository": "https://github.com/koalaman/shellcheck",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["static-analysis"],
+            "name": "shellcheck",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "a392cb58-63cf-47c3-b845-4a3414d80829",
+            "description": "Static analysis tool for shell scripts",
+            "codeRepository": "https://github.com/koalaman/shellcheck",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["static-analysis"],
+            "name": "shellcheck",
+            "operatingSystem": ["linux"],
+            "targetProduct": "spack"
+        },
+        {
+            "identifier": "a392cb58-63cf-47c3-b845-4a3414d80829",
+            "description": "Static analysis tool for shell scripts",
+            "codeRepository": "https://github.com/koalaman/shellcheck",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["static-analysis"],
+            "name": "shellcheck",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }

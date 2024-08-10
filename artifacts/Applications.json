@@ -1,6 +1,5 @@
 {
     "Common": [
-        "shellcheck",
         "tldr",
         "tokei",
         "yq",
@@ -151,7 +150,6 @@
             "dvc",
             "gifcam",
             "osquery",
-            "shellcheck",
             "tldr",
             "tokei",
             "zoxide"
