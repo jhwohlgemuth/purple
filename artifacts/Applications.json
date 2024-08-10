@@ -1,10 +1,5 @@
 {
-    "Common": [
-        "tldr",
-        "tokei",
-        "yq",
-        "zoxide"
-    ],
+    "Common": [],
     "Extra": {
         "Common": [
             "altair",
@@ -71,7 +66,6 @@
         "Nix": {
             "dotnet-sdk": "dotnet-sdk_8",
             "tor-browser": "tor-browser-bundle-bin",
-            "yq": "yq-go"
         },
         "Spack": {
             "dotnet-sdk": "dotnet-core-sdk",
@@ -95,7 +89,6 @@
             "tor-browser": "TorProject.TorBrowser",
             "vscode": "Microsoft.VisualStudioCode",
             "windirstat": "WinDirStat.WinDirStat",
-            "yq": "MikeFarah.yq",
             "zotero": "DigitalScholar.Zotero"
         }
     },
@@ -104,8 +97,7 @@
             "broot",
             "chafa",
             "espanso",
-            "gsudo",
-            "tokei"
+            "gsudo"
         ],
         "Homebrew": [
             "espanso"
@@ -122,8 +114,7 @@
             "espanso",
             "fciv",
             "gsudo",
-            "openssl",
-            "zoxide"
+            "openssl"
         ],
         "Spack": [
             "altair",
@@ -139,20 +130,14 @@
             "obsidian",
             "osquery",
             "thefuck",
-            "tldr",
-            "tokei",
             "tor-browser",
             "vscode",
-            "zotero",
-            "zoxide"
+            "zotero"
         ],
         "Winget": [
             "dvc",
             "gifcam",
-            "osquery",
-            "tldr",
-            "tokei",
-            "zoxide"
+            "osquery"
         ]
     },
     "Metadata": {

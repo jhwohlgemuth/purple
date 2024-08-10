@@ -2219,6 +2219,248 @@
             "name": "shellcheck",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "53122dac-038d-47cb-8d0f-12daa117f19f",
+            "description": "Collaborative cheatsheets for console commands",
+            "codeRepository": "https://github.com/tldr-pages/tldr",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "tldr",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "53122dac-038d-47cb-8d0f-12daa117f19f",
+            "description": "Collaborative cheatsheets for console commands",
+            "codeRepository": "https://github.com/tldr-pages/tldr",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "tldr",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "53122dac-038d-47cb-8d0f-12daa117f19f",
+            "description": "Collaborative cheatsheets for console commands",
+            "codeRepository": "https://github.com/tldr-pages/tldr",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "tldr-pages.tlrc",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "53122dac-038d-47cb-8d0f-12daa117f19f",
+            "description": "Collaborative cheatsheets for console commands",
+            "codeRepository": "https://github.com/tldr-pages/tldr",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "tldr",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "53122dac-038d-47cb-8d0f-12daa117f19f",
+            "description": "Collaborative cheatsheets for console commands",
+            "codeRepository": "https://github.com/tldr-pages/tldr",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "tldr",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
+        },
+        {
+            "identifier": "36da305b-bc4e-4d6e-a84a-87c318370467",
+            "description": "Count your code, quickly",
+            "codeRepository": "https://github.com/XAMPPRocky/tokei",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "tokei",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "36da305b-bc4e-4d6e-a84a-87c318370467",
+            "description": "Count your code, quickly",
+            "codeRepository": "https://github.com/XAMPPRocky/tokei",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "tokei",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "36da305b-bc4e-4d6e-a84a-87c318370467",
+            "description": "Count your code, quickly",
+            "codeRepository": "https://github.com/XAMPPRocky/tokei",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "XAMPPRocky.Tokei",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "36da305b-bc4e-4d6e-a84a-87c318370467",
+            "description": "Count your code, quickly",
+            "codeRepository": "https://github.com/XAMPPRocky/tokei",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "tokei",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "36da305b-bc4e-4d6e-a84a-87c318370467",
+            "description": "Count your code, quickly",
+            "codeRepository": "https://github.com/XAMPPRocky/tokei",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "tokei",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
+        },
+        {
+            "identifier": "a35f3a5a-57b1-4807-a6b4-ff3b1b937ca2",
+            "description": "Portable command-line YAML, JSON, XML, CSV, TOML and properties processor",
+            "codeRepository": "https://github.com/mikefarah/yq",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "yq",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "a35f3a5a-57b1-4807-a6b4-ff3b1b937ca2",
+            "description": "Portable command-line YAML, JSON, XML, CSV, TOML and properties processor",
+            "codeRepository": "https://github.com/mikefarah/yq",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "yq",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "a35f3a5a-57b1-4807-a6b4-ff3b1b937ca2",
+            "description": "Portable command-line YAML, JSON, XML, CSV, TOML and properties processor",
+            "codeRepository": "https://github.com/mikefarah/yq",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "MikeFarah.yq",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "a35f3a5a-57b1-4807-a6b4-ff3b1b937ca2",
+            "description": "Portable command-line YAML, JSON, XML, CSV, TOML and properties processor",
+            "codeRepository": "https://github.com/mikefarah/yq",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "yq",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "a35f3a5a-57b1-4807-a6b4-ff3b1b937ca2",
+            "description": "Portable command-line YAML, JSON, XML, CSV, TOML and properties processor",
+            "codeRepository": "https://github.com/mikefarah/yq",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "yq",
+            "operatingSystem": ["linux"],
+            "targetProduct": "spack"
+        },
+        {
+            "identifier": "a35f3a5a-57b1-4807-a6b4-ff3b1b937ca2",
+            "description": "Portable command-line YAML, JSON, XML, CSV, TOML and properties processor",
+            "codeRepository": "https://github.com/mikefarah/yq",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "yq",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
+        },
+        {
+            "identifier": "9e4a1063-8e64-4f17-a368-ac577a320ad9",
+            "description": "A smarter cd command. Supports all major shells.",
+            "codeRepository": "https://github.com/ajeetdsouza/zoxide",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "zoxide",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "9e4a1063-8e64-4f17-a368-ac577a320ad9",
+            "description": "A smarter cd command. Supports all major shells.",
+            "codeRepository": "https://github.com/ajeetdsouza/zoxide",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "zoxide",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "9e4a1063-8e64-4f17-a368-ac577a320ad9",
+            "description": "A smarter cd command. Supports all major shells.",
+            "codeRepository": "https://github.com/ajeetdsouza/zoxide",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "ajeetdsouza.zoxide",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "9e4a1063-8e64-4f17-a368-ac577a320ad9",
+            "description": "A smarter cd command. Supports all major shells.",
+            "codeRepository": "https://github.com/ajeetdsouza/zoxide",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "zoxide",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "9e4a1063-8e64-4f17-a368-ac577a320ad9",
+            "description": "A smarter cd command. Supports all major shells.",
+            "codeRepository": "https://github.com/ajeetdsouza/zoxide",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "zoxide",
+            "operatingSystem": ["linux"],
+            "targetProduct": "spack"
+        },
+        {
+            "identifier": "9e4a1063-8e64-4f17-a368-ac577a320ad9",
+            "description": "A smarter cd command. Supports all major shells.",
+            "codeRepository": "https://github.com/ajeetdsouza/zoxide",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "zoxide",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }
