@@ -28,10 +28,15 @@ model Artifact {
   codeRepository?: url;
   description?: string;
   developmentStatus: DevelopmentStatus;
+
+  @doc("Short description of the item used to disambiguate from other, similar items - usually the associated CLI app command")
   disambiguatingDescription?: string;
+
+  @doc("A flag to signal that the publication is accessible for free")
   isAccessibleForFree: boolean;
 
   @uniqueItems
+  @doc("Keywords or tags used to describe this content")
   keywords: string[];
 
   @doc("A license document that applies to this content, typically indicated by URL")
@@ -48,8 +53,12 @@ model Artifact {
   @doc("Runtime platform or script interpreter dependencies (e.g. Java v1, Python2.3, .Net Framework 3.0)")
   runtimePlatform?: RuntimePlatform;
 
+  @doc("URL of a reference Web page that unambiguously indicates the item's identity")
   sameAs?: url;
+
+  @doc("Target Operating System / Product to which the code applies")
   targetProduct?: TargetProduct;
+
   url?: url;
   version?: SemanticVersion;
 }
