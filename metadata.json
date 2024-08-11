@@ -3704,6 +3704,50 @@
             "name": "syft",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "5cbd48c0-cb00-43c1-a372-cc6269b281d5",
+            "description": "Tool for managing OCI containers and pods",
+            "codeRepository": "https://github.com/containers/podman",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "podman",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "5cbd48c0-cb00-43c1-a372-cc6269b281d5",
+            "description": "Tool for managing OCI containers and pods",
+            "codeRepository": "https://github.com/containers/podman",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "RedHat.Podman",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "5cbd48c0-cb00-43c1-a372-cc6269b281d5",
+            "description": "Tool for managing OCI containers and pods",
+            "codeRepository": "https://github.com/containers/podman",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "podman",
+            "operatingSystem": ["linux"],
+            "targetProduct": "spack"
+        },
+        {
+            "identifier": "5cbd48c0-cb00-43c1-a372-cc6269b281d5",
+            "description": "Tool for managing OCI containers and pods",
+            "codeRepository": "https://github.com/containers/podman",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "podman",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }

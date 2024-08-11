@@ -1,9 +1,6 @@
 {
     "Common": [],
     "Extra": {
-        "Common": [
-            "podman"
-        ],
         "Linux": [
             "dotnet-sdk"
         ]
@@ -14,9 +11,6 @@
         },
         "Spack": {
             "dotnet-sdk": "dotnet-core-sdk"
-        },
-        "Winget": {
-            "podman": "RedHat.Podman"
         }
     },
     "Metadata": {
