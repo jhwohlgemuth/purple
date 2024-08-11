@@ -2,7 +2,6 @@
     "Common": [],
     "Extra": {
         "Common": [
-            "ccleaner",
             "podman",
             "zotero"
         ],
@@ -30,21 +29,16 @@
             "dotnet-sdk": "dotnet-core-sdk"
         },
         "Winget": {
-            "ccleaner": "Piriform.CCleaner",
             "podman": "RedHat.Podman",
             "screentogif": "NickeManarin.ScreenToGif",
             "zotero": "DigitalScholar.Zotero"
         }
     },
     "Broken": {
-        "Nix": [
-            "ccleaner"
-        ],
         "Scoop": [
             "openssl"
         ],
         "Spack": [
-            "ccleaner",
             "docker",
             "zotero"
         ],
@@ -61,7 +55,6 @@
             ],
             "Options": {
                 "Cask": [
-                    "ccleaner",
                     "docker",
                     "dotnet-sdk",
                     "zotero"

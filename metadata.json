@@ -1984,7 +1984,7 @@
             "isAccessibleForFree": true,
             "keywords": ["cask"],
             "name": "ngrok",
-            "operatingSystem": ["linux", "mac"],
+            "operatingSystem": ["mac"],
             "targetProduct": "brew"
         },
         {
@@ -2083,7 +2083,7 @@
             "isAccessibleForFree": true,
             "keywords": ["cask"],
             "name": "powershell",
-            "operatingSystem": ["linux", "mac"],
+            "operatingSystem": ["mac"],
             "targetProduct": "brew"
         },
         {
@@ -2567,7 +2567,7 @@
             "isAccessibleForFree": true,
             "keywords": ["cask"],
             "name": "espanso",
-            "operatingSystem": ["linux", "mac"],
+            "operatingSystem": ["mac"],
             "targetProduct": "brew"
         },
         {
@@ -2622,7 +2622,7 @@
             "isAccessibleForFree": true,
             "keywords": ["cask"],
             "name": "anki",
-            "operatingSystem": ["linux", "mac"],
+            "operatingSystem": ["mac"],
             "targetProduct": "brew"
         },
         {
@@ -2825,7 +2825,7 @@
             "isAccessibleForFree": true,
             "keywords": ["cask", "editor"],
             "name": "visual-studio-code",
-            "operatingSystem": ["linux", "mac"],
+            "operatingSystem": ["mac"],
             "targetProduct": "brew"
         },
         {
@@ -2880,7 +2880,7 @@
             "isAccessibleForFree": true,
             "keywords": ["cask"],
             "name": "osquery",
-            "operatingSystem": ["linux", "mac"],
+            "operatingSystem": ["mac"],
             "targetProduct": "brew"
         },
         {
@@ -2995,7 +2995,7 @@
             "isAccessibleForFree": true,
             "keywords": ["cask"],
             "name": "obsidian",
-            "operatingSystem": ["linux", "mac"],
+            "operatingSystem": ["mac"],
             "targetProduct": "brew"
         },
         {
@@ -3160,7 +3160,7 @@
             "isAccessibleForFree": true,
             "keywords": ["cask", "font"],
             "name": "font-victor-mono-nerd-font",
-            "operatingSystem": ["linux", "mac"],
+            "operatingSystem": ["mac"],
             "targetProduct": "brew"
         },
         {
@@ -3193,7 +3193,47 @@
             "isAccessibleForFree": true,
             "keywords": ["cask", "font"],
             "name": "font-jetbrains-mono-nerd-font",
-            "operatingSystem": ["linux", "mac"],
+            "operatingSystem": ["mac"],
+            "targetProduct": "brew"
+        },
+        {
+            "identifier": "06cfe697-763a-4630-8a2a-4bd3f55ea549",
+            "description": "Helps you clean up your Windows computer, optimize performance, and maintain your online privacy",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "ccleaner",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "06cfe697-763a-4630-8a2a-4bd3f55ea549",
+            "description": "Helps you clean up your Windows computer, optimize performance, and maintain your online privacy",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "ccleaner",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "06cfe697-763a-4630-8a2a-4bd3f55ea549",
+            "description": "Helps you clean up your Windows computer, optimize performance, and maintain your online privacy",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "Piriform.CCleaner",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "06cfe697-763a-4630-8a2a-4bd3f55ea549",
+            "description": "Helps you clean up your Windows computer, optimize performance, and maintain your online privacy",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["cask"],
+            "name": "ccleaner",
+            "operatingSystem": ["mac"],
             "targetProduct": "brew"
         }
     ]
