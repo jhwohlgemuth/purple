@@ -3378,6 +3378,71 @@
             "name": "zotero",
             "operatingSystem": ["mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "fbaffe36-b6a7-4b7a-b65b-eca13f6e70d7",
+            "description": "Fast disk usage analyzer with console interface written in Go",
+            "codeRepository": "https://github.com/dundee/gdu",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "gdu",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "fbaffe36-b6a7-4b7a-b65b-eca13f6e70d7",
+            "description": "Fast disk usage analyzer with console interface written in Go",
+            "codeRepository": "https://github.com/dundee/gdu",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "gdu",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "fbaffe36-b6a7-4b7a-b65b-eca13f6e70d7",
+            "description": "Fast disk usage analyzer with console interface written in Go",
+            "codeRepository": "https://github.com/dundee/gdu",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "dundee.gdu",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "fbaffe36-b6a7-4b7a-b65b-eca13f6e70d7",
+            "description": "Fast disk usage analyzer with console interface written in Go",
+            "codeRepository": "https://github.com/dundee/gdu",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "gdu",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "fbaffe36-b6a7-4b7a-b65b-eca13f6e70d7",
+            "description": "Disk usage analyzer with a text-mode user interface (NCurses Disk Usage)",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "ncdu",
+            "operatingSystem": ["linux"],
+            "targetProduct": "spack"
+        },
+        {
+            "identifier": "fbaffe36-b6a7-4b7a-b65b-eca13f6e70d7",
+            "description": "Fast disk usage analyzer with console interface written in Go",
+            "codeRepository": "https://github.com/dundee/gdu",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "gdu",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }

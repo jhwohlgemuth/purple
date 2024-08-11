@@ -8,8 +8,7 @@
             "aspell",
             "diffoscope",
             "docker",
-            "dotnet-sdk",
-            "ncdu"
+            "dotnet-sdk"
         ]
     },
     "Alias": {
