@@ -2,8 +2,7 @@
     "Common": [],
     "Extra": {
         "Common": [
-            "podman",
-            "zotero"
+            "podman"
         ],
         "Linux": [
             "aspell",
@@ -21,14 +20,12 @@
             "dotnet-sdk": "dotnet-core-sdk"
         },
         "Winget": {
-            "podman": "RedHat.Podman",
-            "zotero": "DigitalScholar.Zotero"
+            "podman": "RedHat.Podman"
         }
     },
     "Broken": {
         "Spack": [
-            "docker",
-            "zotero"
+            "docker"
         ]
     },
     "Metadata": {
@@ -41,8 +38,7 @@
             "Options": {
                 "Cask": [
                     "docker",
-                    "dotnet-sdk",
-                    "zotero"
+                    "dotnet-sdk"
                 ]
             }
         }

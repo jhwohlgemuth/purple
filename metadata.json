@@ -3328,6 +3328,56 @@
             "name": "openssl@3",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "5f7da1ce-7f13-40b7-a6c8-1ed80041824a",
+            "description": "Free, easy-to-use tool to help you collect, organize, annotate, cite, and share research",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["research"],
+            "name": "zotero",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "5f7da1ce-7f13-40b7-a6c8-1ed80041824a",
+            "description": "Free, easy-to-use tool to help you collect, organize, annotate, cite, and share research",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["research"],
+            "name": "zotero",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "5f7da1ce-7f13-40b7-a6c8-1ed80041824a",
+            "description": "Free, easy-to-use tool to help you collect, organize, annotate, cite, and share research",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["research"],
+            "name": "DigitalScholar.Zotero",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "5f7da1ce-7f13-40b7-a6c8-1ed80041824a",
+            "description": "Free, easy-to-use tool to help you collect, organize, annotate, cite, and share research",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["research"],
+            "name": "zotero",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "5f7da1ce-7f13-40b7-a6c8-1ed80041824a",
+            "description": "Free, easy-to-use tool to help you collect, organize, annotate, cite, and share research",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["cask", "research"],
+            "name": "zotero",
+            "operatingSystem": ["mac"],
+            "targetProduct": "brew"
         }
     ]
 }
