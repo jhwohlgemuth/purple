@@ -3235,6 +3235,36 @@
             "name": "ccleaner",
             "operatingSystem": ["mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "f647c654-8e4c-456f-a02c-fffd4b11048f",
+            "description": "Screen, webcam and sketchboard recorder with an integrated editor",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "screentogif",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "f647c654-8e4c-456f-a02c-fffd4b11048f",
+            "description": "Screen, webcam and sketchboard recorder with an integrated editor",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "screentogif",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "f647c654-8e4c-456f-a02c-fffd4b11048f",
+            "description": "Screen, webcam and sketchboard recorder with an integrated editor",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "NickeManarin.ScreenToGif",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
         }
     ]
 }

@@ -13,10 +13,7 @@
             "ncdu"
         ],
         "Spack": [],
-        "Windows": [
-            "gifcam",
-            "screentogif"
-        ]
+        "Windows": []
     },
     "Alias": {
         "Chocolatey": {
@@ -30,7 +27,6 @@
         },
         "Winget": {
             "podman": "RedHat.Podman",
-            "screentogif": "NickeManarin.ScreenToGif",
             "zotero": "DigitalScholar.Zotero"
         }
     },
@@ -41,9 +37,6 @@
         "Spack": [
             "docker",
             "zotero"
-        ],
-        "Winget": [
-            "gifcam"
         ]
     },
     "Metadata": {
