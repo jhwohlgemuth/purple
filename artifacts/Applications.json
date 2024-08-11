@@ -5,8 +5,6 @@
             "podman"
         ],
         "Linux": [
-            "aspell",
-            "diffoscope",
             "docker",
             "dotnet-sdk"
         ]

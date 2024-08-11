@@ -3443,6 +3443,72 @@
             "name": "gdu",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "6d228377-f411-41cc-ae8c-5fb70703ce0c",
+            "description": "In-depth comparison of files, archives, and directories",
+            "codeRepository": "https://salsa.debian.org/reproducible-builds/diffoscope",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "diffoscope",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "6d228377-f411-41cc-ae8c-5fb70703ce0c",
+            "description": "In-depth comparison of files, archives, and directories",
+            "codeRepository": "https://salsa.debian.org/reproducible-builds/diffoscope",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "diffoscope",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
+        },
+        {
+            "identifier": "27ff0508-dbc3-407e-a378-52ff93e41c90",
+            "description": "Spell checker designed to eventually replace Ispell",
+            "codeRepository": "https://github.com/GNUAspell/aspell",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "aspell",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "27ff0508-dbc3-407e-a378-52ff93e41c90",
+            "description": "Spell checker designed to eventually replace Ispell",
+            "codeRepository": "https://github.com/GNUAspell/aspell",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "aspell",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "27ff0508-dbc3-407e-a378-52ff93e41c90",
+            "description": "Spell checker designed to eventually replace Ispell",
+            "codeRepository": "https://github.com/GNUAspell/aspell",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "aspell",
+            "operatingSystem": ["linux"],
+            "targetProduct": "spack"
+        },
+        {
+            "identifier": "27ff0508-dbc3-407e-a378-52ff93e41c90",
+            "description": "Spell checker designed to eventually replace Ispell",
+            "codeRepository": "https://github.com/GNUAspell/aspell",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "aspell",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }
