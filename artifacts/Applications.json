@@ -11,14 +11,9 @@
             "docker",
             "dotnet-sdk",
             "ncdu"
-        ],
-        "Spack": [],
-        "Windows": []
+        ]
     },
     "Alias": {
-        "Chocolatey": {
-            "openssl": "openssl.light"
-        },
         "Nix": {
             "dotnet-sdk": "dotnet-sdk_8"
         },
@@ -31,9 +26,6 @@
         }
     },
     "Broken": {
-        "Scoop": [
-            "openssl"
-        ],
         "Spack": [
             "docker",
             "zotero"

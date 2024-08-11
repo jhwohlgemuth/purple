@@ -463,7 +463,7 @@
         {
             "identifier": "49887f8e-0c00-4d78-99ca-3a7d731d6b7f",
             "description": "Convert text files with DOS or Mac line breaks to Unix line breaks",
-            "codeRepository": "https://sourceforge.net/p/dos2unix/dos2unix/ci/master/tree/",
+            "codeRepository": "https://sourceforge.net/p/dos2unix/dos2unix/ci/master/tree",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
             "keywords": [],
@@ -474,7 +474,7 @@
         {
             "identifier": "49887f8e-0c00-4d78-99ca-3a7d731d6b7f",
             "description": "Convert text files with DOS or Mac line breaks to Unix line breaks",
-            "codeRepository": "https://sourceforge.net/p/dos2unix/dos2unix/ci/master/tree/",
+            "codeRepository": "https://sourceforge.net/p/dos2unix/dos2unix/ci/master/tree",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
             "keywords": [],
@@ -485,7 +485,7 @@
         {
             "identifier": "49887f8e-0c00-4d78-99ca-3a7d731d6b7f",
             "description": "Convert text files with DOS or Mac line breaks to Unix line breaks",
-            "codeRepository": "https://sourceforge.net/p/dos2unix/dos2unix/ci/master/tree/",
+            "codeRepository": "https://sourceforge.net/p/dos2unix/dos2unix/ci/master/tree",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
             "keywords": [],
@@ -496,7 +496,7 @@
         {
             "identifier": "49887f8e-0c00-4d78-99ca-3a7d731d6b7f",
             "description": "Convert text files with DOS or Mac line breaks to Unix line breaks",
-            "codeRepository": "https://sourceforge.net/p/dos2unix/dos2unix/ci/master/tree/",
+            "codeRepository": "https://sourceforge.net/p/dos2unix/dos2unix/ci/master/tree",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
             "keywords": [],
@@ -507,7 +507,7 @@
         {
             "identifier": "49887f8e-0c00-4d78-99ca-3a7d731d6b7f",
             "description": "Convert text files with DOS or Mac line breaks to Unix line breaks",
-            "codeRepository": "https://sourceforge.net/p/dos2unix/dos2unix/ci/master/tree/",
+            "codeRepository": "https://sourceforge.net/p/dos2unix/dos2unix/ci/master/tree",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
             "keywords": [],
@@ -518,7 +518,7 @@
         {
             "identifier": "49887f8e-0c00-4d78-99ca-3a7d731d6b7f",
             "description": "Convert text files with DOS or Mac line breaks to Unix line breaks",
-            "codeRepository": "https://sourceforge.net/p/dos2unix/dos2unix/ci/master/tree/",
+            "codeRepository": "https://sourceforge.net/p/dos2unix/dos2unix/ci/master/tree",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
             "keywords": [],
@@ -2628,7 +2628,7 @@
         {
             "identifier": "39fbb943-64ed-4199-b2d8-0508f8e6609b",
             "description": "Disk usage statistics viewer and cleanup tool",
-            "codeRepository": "https://sourceforge.net/projects/windirstat/",
+            "codeRepository": "https://sourceforge.net/projects/windirstat",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
             "keywords": [],
@@ -2639,7 +2639,7 @@
         {
             "identifier": "39fbb943-64ed-4199-b2d8-0508f8e6609b",
             "description": "Disk usage statistics viewer and cleanup tool",
-            "codeRepository": "https://sourceforge.net/projects/windirstat/",
+            "codeRepository": "https://sourceforge.net/projects/windirstat",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
             "keywords": [],
@@ -2650,7 +2650,7 @@
         {
             "identifier": "39fbb943-64ed-4199-b2d8-0508f8e6609b",
             "description": "Disk usage statistics viewer and cleanup tool",
-            "codeRepository": "https://sourceforge.net/projects/windirstat/",
+            "codeRepository": "https://sourceforge.net/projects/windirstat",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
             "keywords": [],
@@ -3265,6 +3265,69 @@
             "name": "NickeManarin.ScreenToGif",
             "operatingSystem": ["windows"],
             "targetProduct": "winget"
+        },
+        {
+            "identifier": "67698cdd-4ca5-456a-95ef-2d7022d1f320",
+            "description": "OpenSSL for Microsoft Windows",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "openssl",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "67698cdd-4ca5-456a-95ef-2d7022d1f320",
+            "description": "OpenSSL for Microsoft Windows",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "openssl",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "67698cdd-4ca5-456a-95ef-2d7022d1f320",
+            "description": "OpenSSL for Microsoft Windows",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "ShiningLight.OpenSSL",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "67698cdd-4ca5-456a-95ef-2d7022d1f320",
+            "description": "Cryptographic library that implements the SSL and TLS protocols",
+            "codeRepository": "https://github.com/openssl/openssl",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "openssl_3_3",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "67698cdd-4ca5-456a-95ef-2d7022d1f320",
+            "description": "Cryptographic library that implements the SSL and TLS protocols",
+            "codeRepository": "https://github.com/openssl/openssl",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "openssl",
+            "operatingSystem": ["linux"],
+            "targetProduct": "spack"
+        },
+        {
+            "identifier": "67698cdd-4ca5-456a-95ef-2d7022d1f320",
+            "description": "Cryptographic library that implements the SSL and TLS protocols",
+            "codeRepository": "https://github.com/openssl/openssl",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "openssl@3",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }
