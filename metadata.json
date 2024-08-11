@@ -3748,6 +3748,72 @@
             "name": "podman",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "ee0ed30b-0630-46d1-bacb-49fd9b6a24c6",
+            "description": "Developer platform for .NET applications",
+            "codeRepository": "https://github.com/dotnet/sdk",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "dotnet-sdk",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "ee0ed30b-0630-46d1-bacb-49fd9b6a24c6",
+            "description": "Developer platform for .NET applications",
+            "codeRepository": "https://github.com/dotnet/sdk",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "dotnet-sdk",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "ee0ed30b-0630-46d1-bacb-49fd9b6a24c6",
+            "description": "Developer platform for .NET applications",
+            "codeRepository": "https://github.com/dotnet/sdk",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "Microsoft.DotNet.SDK.8",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "ee0ed30b-0630-46d1-bacb-49fd9b6a24c6",
+            "description": "Developer platform for .NET applications",
+            "codeRepository": "https://github.com/dotnet/sdk",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "dotnet-sdk_8",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "ee0ed30b-0630-46d1-bacb-49fd9b6a24c6",
+            "description": "Developer platform for .NET applications",
+            "codeRepository": "https://github.com/dotnet/sdk",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "dotnet-core-sdk",
+            "operatingSystem": ["linux"],
+            "targetProduct": "spack"
+        },
+        {
+            "identifier": "ee0ed30b-0630-46d1-bacb-49fd9b6a24c6",
+            "description": "Developer platform for .NET applications",
+            "codeRepository": "https://github.com/dotnet/sdk",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["cask"],
+            "name": "dotnet-sdk",
+            "operatingSystem": ["mac"],
+            "targetProduct": "brew"
         }
     ]
 }
