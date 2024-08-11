@@ -5,7 +5,6 @@
             "podman"
         ],
         "Linux": [
-            "docker",
             "dotnet-sdk"
         ]
     },
@@ -20,11 +19,6 @@
             "podman": "RedHat.Podman"
         }
     },
-    "Broken": {
-        "Spack": [
-            "docker"
-        ]
-    },
     "Metadata": {
         "Homebrew": {
             "Command": "brew install",
@@ -34,7 +28,6 @@
             ],
             "Options": {
                 "Cask": [
-                    "docker",
                     "dotnet-sdk"
                 ]
             }

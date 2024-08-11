@@ -3509,6 +3509,201 @@
             "name": "aspell",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "brew"
+        },
+        {
+            "identifier": "5fcc2266-0810-4aa8-bd7a-bcfa26f927bc",
+            "description": "Docker CLI & Docker Engine for Windows containers",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "docker",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "5fcc2266-0810-4aa8-bd7a-bcfa26f927bc",
+            "description": "Docker desktop and Docker Community Edition (CE)",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "Docker.DockerDesktop",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "5fcc2266-0810-4aa8-bd7a-bcfa26f927bc",
+            "description": "Docker CLI & Docker Engine",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "docker",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "5fcc2266-0810-4aa8-bd7a-bcfa26f927bc",
+            "description": "Docker desktop and Docker Community Edition (CE)",
+            "codeRepository": "",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["cask"],
+            "name": "docker",
+            "operatingSystem": ["mac"],
+            "targetProduct": "brew"
+        },
+        {
+            "identifier": "dc5953f0-138f-4bf6-a785-9c1173bee95d",
+            "description": "Vulnerability scanner for container images and filesystems",
+            "codeRepository": "https://github.com/anchore/grype",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["security"],
+            "name": "grype",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "dc5953f0-138f-4bf6-a785-9c1173bee95d",
+            "description": "Vulnerability scanner for container images and filesystems",
+            "codeRepository": "https://github.com/anchore/grype",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["security"],
+            "name": "grype",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "dc5953f0-138f-4bf6-a785-9c1173bee95d",
+            "description": "Vulnerability scanner for container images and filesystems",
+            "codeRepository": "https://github.com/anchore/grype",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["security"],
+            "name": "Anchore.Grype",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "dc5953f0-138f-4bf6-a785-9c1173bee95d",
+            "description": "Vulnerability scanner for container images and filesystems",
+            "codeRepository": "https://github.com/anchore/grype",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["security"],
+            "name": "grype",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "dc5953f0-138f-4bf6-a785-9c1173bee95d",
+            "description": "Vulnerability scanner for container images and filesystems",
+            "codeRepository": "https://github.com/anchore/grype",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["security"],
+            "name": "grype",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
+        },
+        {
+            "identifier": "c168c465-1af4-4a56-995d-ada1925172c1",
+            "description": "Simple and Comprehensive Vulnerability Scanner for Containers",
+            "codeRepository": "https://github.com/aquasecurity/trivy",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["security"],
+            "name": "trivy",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "c168c465-1af4-4a56-995d-ada1925172c1",
+            "description": "Simple and Comprehensive Vulnerability Scanner for Containers",
+            "codeRepository": "https://github.com/aquasecurity/trivy",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["security"],
+            "name": "trivy",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "c168c465-1af4-4a56-995d-ada1925172c1",
+            "description": "Simple and Comprehensive Vulnerability Scanner for Containers",
+            "codeRepository": "https://github.com/aquasecurity/trivy",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["security"],
+            "name": "trivy",
+            "operatingSystem": ["windows"],
+            "targetProduct": "winget"
+        },
+        {
+            "identifier": "c168c465-1af4-4a56-995d-ada1925172c1",
+            "description": "Simple and Comprehensive Vulnerability Scanner for Containers",
+            "codeRepository": "https://github.com/aquasecurity/trivy",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["security"],
+            "name": "trivy",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "c168c465-1af4-4a56-995d-ada1925172c1",
+            "description": "Simple and Comprehensive Vulnerability Scanner for Containers",
+            "codeRepository": "https://github.com/aquasecurity/trivy",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["security"],
+            "name": "trivy",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
+        },
+        {
+            "identifier": "066295dc-8d71-422c-a70d-524427d3fadc",
+            "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems (works well with grype)",
+            "codeRepository": "https://github.com/anchore/syft",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["security"],
+            "name": "syft",
+            "operatingSystem": ["windows"],
+            "targetProduct": "scoop"
+        },
+        {
+            "identifier": "066295dc-8d71-422c-a70d-524427d3fadc",
+            "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems (works well with grype)",
+            "codeRepository": "https://github.com/anchore/syft",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["security"],
+            "name": "syft",
+            "operatingSystem": ["windows"],
+            "targetProduct": "choco"
+        },
+        {
+            "identifier": "066295dc-8d71-422c-a70d-524427d3fadc",
+            "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems (works well with grype)",
+            "codeRepository": "https://github.com/anchore/syft",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["security"],
+            "name": "syft",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "066295dc-8d71-422c-a70d-524427d3fadc",
+            "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems (works well with grype)",
+            "codeRepository": "https://github.com/anchore/syft",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": ["security"],
+            "name": "syft",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }
