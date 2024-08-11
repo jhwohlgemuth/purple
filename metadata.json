@@ -216,7 +216,7 @@
             "keywords": ["navigation"],
             "name": "broot",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "c4f64567-83d4-49a0-b35f-e8ca1c03ab94",
@@ -304,7 +304,7 @@
             "keywords": ["search"],
             "name": "gron",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "ba22b9eb-90b2-4ed7-89e0-04ab31a0dbd8",
@@ -326,7 +326,7 @@
             "keywords": ["git", "syntax-highlighting"],
             "name": "delta",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "ba22b9eb-90b2-4ed7-89e0-04ab31a0dbd8",
@@ -359,7 +359,7 @@
             "keywords": ["git", "syntax-highlighting"],
             "name": "git-delta",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "1f174ffb-4d54-4416-8f52-e17911ca9034",
@@ -403,7 +403,7 @@
             "keywords": [],
             "name": "gum",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "5f804140-5ed7-4456-9c9a-b8877a6a9fb0",
@@ -425,7 +425,7 @@
             "keywords": ["cpu", "architecture"],
             "name": "cpu-z",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "5f804140-5ed7-4456-9c9a-b8877a6a9fb0",
@@ -458,7 +458,7 @@
             "keywords": ["cpu", "architecture"],
             "name": "cpufetch",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "49887f8e-0c00-4d78-99ca-3a7d731d6b7f",
@@ -480,7 +480,7 @@
             "keywords": [],
             "name": "dos2unix",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "49887f8e-0c00-4d78-99ca-3a7d731d6b7f",
@@ -524,7 +524,7 @@
             "keywords": [],
             "name": "dos2unix",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "b9d0fd36-c473-4f54-84a0-06dfc72203f1",
@@ -546,7 +546,7 @@
             "keywords": [],
             "name": "duf",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "b9d0fd36-c473-4f54-84a0-06dfc72203f1",
@@ -557,7 +557,7 @@
             "keywords": [],
             "name": "muesli.duf",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "b9d0fd36-c473-4f54-84a0-06dfc72203f1",
@@ -579,7 +579,7 @@
             "keywords": [],
             "name": "duf",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "70655cb0-8ad1-41fb-b51f-9ccb23b26937",
@@ -601,7 +601,7 @@
             "keywords": [],
             "name": "dust",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "70655cb0-8ad1-41fb-b51f-9ccb23b26937",
@@ -645,7 +645,7 @@
             "keywords": [],
             "name": "dust",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "f4721223-35bc-46bb-86fb-9057d547254a",
@@ -667,7 +667,7 @@
             "keywords": ["architecture"],
             "name": "fastfetch",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "f4721223-35bc-46bb-86fb-9057d547254a",
@@ -700,7 +700,7 @@
             "keywords": ["architecture"],
             "name": "fastfetch",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "5703fb4d-9b57-4913-8cd2-40040fd77d59",
@@ -722,7 +722,7 @@
             "keywords": ["search"],
             "name": "fd",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "5703fb4d-9b57-4913-8cd2-40040fd77d59",
@@ -766,7 +766,7 @@
             "keywords": ["search"],
             "name": "fd",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "7d641d95-69a5-4392-8f54-3d31c9cfe80e",
@@ -788,7 +788,7 @@
             "keywords": ["search"],
             "name": "fzf",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "7d641d95-69a5-4392-8f54-3d31c9cfe80e",
@@ -832,7 +832,7 @@
             "keywords": ["search"],
             "name": "fzf",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "22864a60-5134-4561-b5da-6db3c68a8ee6",
@@ -854,7 +854,7 @@
             "keywords": [],
             "name": "gh",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "22864a60-5134-4561-b5da-6db3c68a8ee6",
@@ -898,7 +898,7 @@
             "keywords": [],
             "name": "gh",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "b1ee5240-5f63-44d8-83c3-e15683f0355c",
@@ -920,7 +920,7 @@
             "keywords": [],
             "name": "git",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "b1ee5240-5f63-44d8-83c3-e15683f0355c",
@@ -964,7 +964,7 @@
             "keywords": [],
             "name": "git",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "fe27d6b8-0640-4d8c-81df-5fc01fb71f5b",
@@ -986,7 +986,7 @@
             "keywords": [],
             "name": "git-lfs",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "fe27d6b8-0640-4d8c-81df-5fc01fb71f5b",
@@ -1030,7 +1030,7 @@
             "keywords": [],
             "name": "git-lfs",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "782e110b-9fe4-40e0-93da-08e7f7bb1abd",
@@ -1052,7 +1052,7 @@
             "keywords": ["markdown", "syntax-highlighting"],
             "name": "glow",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "782e110b-9fe4-40e0-93da-08e7f7bb1abd",
@@ -1096,7 +1096,7 @@
             "keywords": ["markdown", "syntax-highlighting"],
             "name": "glow",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "7f882b53-36f9-46b9-903f-d5195f30182d",
@@ -1118,7 +1118,7 @@
             "keywords": [],
             "name": "gping",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "7f882b53-36f9-46b9-903f-d5195f30182d",
@@ -1140,7 +1140,7 @@
             "keywords": [],
             "name": "gping",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "c367385d-99c8-4b2b-83aa-e5b85aeffdaf",
@@ -1162,7 +1162,7 @@
             "keywords": ["search"],
             "name": "grep",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "c367385d-99c8-4b2b-83aa-e5b85aeffdaf",
@@ -1206,7 +1206,7 @@
             "keywords": ["search"],
             "name": "grep",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "4b4d8bc3-d841-47bb-bf50-3d179a110690",
@@ -1228,7 +1228,7 @@
             "keywords": [],
             "name": "grex",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "4b4d8bc3-d841-47bb-bf50-3d179a110690",
@@ -1250,7 +1250,7 @@
             "keywords": [],
             "name": "grex",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "d104b582-ed63-49ae-b5bd-b21de6208fc3",
@@ -1294,7 +1294,7 @@
             "keywords": ["static-analysis"],
             "name": "hadolint",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "7d1f7c5b-1fd3-4b00-9192-a3eb1dfff046",
@@ -1316,7 +1316,7 @@
             "keywords": [],
             "name": "hexyl",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "7d1f7c5b-1fd3-4b00-9192-a3eb1dfff046",
@@ -1349,7 +1349,7 @@
             "keywords": ["syntax-highlighting"],
             "name": "hexyl",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "4ca3f19e-885b-4beb-b4e2-7556231bc472",
@@ -1382,7 +1382,7 @@
             "keywords": [],
             "name": "htmlq",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "0156d4d3-1a0f-4442-b8c3-584a5e3594d9",
@@ -1393,7 +1393,7 @@
             "keywords": ["syntax-highlighting"],
             "name": "httpie",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "0156d4d3-1a0f-4442-b8c3-584a5e3594d9",
@@ -1437,7 +1437,7 @@
             "keywords": ["syntax-highlighting"],
             "name": "httpie",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "6f3e2a01-fa7c-43f9-b742-e210389377d3",
@@ -1459,7 +1459,7 @@
             "keywords": [],
             "name": "hyperfine",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "6f3e2a01-fa7c-43f9-b742-e210389377d3",
@@ -1503,7 +1503,7 @@
             "keywords": [],
             "name": "hyperfine",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "19af409e-5dbe-4dc2-97de-78ff1f0d7174",
@@ -1525,7 +1525,7 @@
             "keywords": [],
             "name": "jq",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "19af409e-5dbe-4dc2-97de-78ff1f0d7174",
@@ -1569,7 +1569,7 @@
             "keywords": [],
             "name": "jq",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "7b9c73c7-ce13-42ee-a9c2-32dee758e2bc",
@@ -1591,7 +1591,7 @@
             "keywords": [],
             "name": "just",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "7b9c73c7-ce13-42ee-a9c2-32dee758e2bc",
@@ -1624,7 +1624,7 @@
             "keywords": [],
             "name": "just",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "a2e4ff3e-8593-4718-b454-f759097995ca",
@@ -1646,7 +1646,7 @@
             "keywords": [],
             "name": "less",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "a2e4ff3e-8593-4718-b454-f759097995ca",
@@ -1690,7 +1690,7 @@
             "keywords": [],
             "name": "less",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "960dcd00-3b41-4db8-b8d8-1ce259cd5707",
@@ -1712,7 +1712,7 @@
             "keywords": [],
             "name": "lychee",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "960dcd00-3b41-4db8-b8d8-1ce259cd5707",
@@ -1745,7 +1745,7 @@
             "keywords": [],
             "name": "lychee",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "07916eeb-4257-42a8-b67a-4f8b39a494df",
@@ -1767,7 +1767,7 @@
             "keywords": [],
             "name": "make",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "07916eeb-4257-42a8-b67a-4f8b39a494df",
@@ -1800,7 +1800,7 @@
             "keywords": [],
             "name": "make",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "61712b85-83fd-4433-8f0d-d7fd7ce28eaf",
@@ -1822,7 +1822,7 @@
             "keywords": [],
             "name": "mambaforge",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "61712b85-83fd-4433-8f0d-d7fd7ce28eaf",
@@ -1866,7 +1866,7 @@
             "keywords": [],
             "name": "micromamba",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "74bc3858-4fe0-4c47-8dd6-771ba07f1312",
@@ -1888,7 +1888,7 @@
             "keywords": ["editor"],
             "name": "neovim",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "74bc3858-4fe0-4c47-8dd6-771ba07f1312",
@@ -1932,7 +1932,7 @@
             "keywords": ["editor"],
             "name": "neovim",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "0edeafb3-844f-4be6-80c1-5b602bbc4111",
@@ -1953,7 +1953,7 @@
             "keywords": [],
             "name": "ngrok",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "0edeafb3-844f-4be6-80c1-5b602bbc4111",
@@ -1985,7 +1985,7 @@
             "keywords": ["cask"],
             "name": "ngrok",
             "operatingSystem": ["mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "69957d15-a96a-42f7-81bd-3a81991cab40",
@@ -2029,7 +2029,7 @@
             "keywords": [],
             "name": "pastel",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "d01d2595-ead8-4baa-b57f-5ec9d8fd6866",
@@ -2051,7 +2051,7 @@
             "keywords": [],
             "name": "pwsh",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "d01d2595-ead8-4baa-b57f-5ec9d8fd6866",
@@ -2084,7 +2084,7 @@
             "keywords": ["cask"],
             "name": "powershell",
             "operatingSystem": ["mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "9ea9a757-c3e8-4221-aca8-84a4f3180592",
@@ -2106,7 +2106,7 @@
             "keywords": ["search"],
             "name": "ripgrep",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "9ea9a757-c3e8-4221-aca8-84a4f3180592",
@@ -2150,7 +2150,7 @@
             "keywords": ["search"],
             "name": "ripgrep",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "7ba8ad1e-a175-4f47-8e3a-8531dc8852fd",
@@ -2172,7 +2172,7 @@
             "keywords": ["search"],
             "name": "ripgrep-all",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "7ba8ad1e-a175-4f47-8e3a-8531dc8852fd",
@@ -2194,7 +2194,7 @@
             "keywords": ["search"],
             "name": "ripgrep-all",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "a392cb58-63cf-47c3-b845-4a3414d80829",
@@ -2216,7 +2216,7 @@
             "keywords": ["static-analysis"],
             "name": "shellcheck",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "a392cb58-63cf-47c3-b845-4a3414d80829",
@@ -2260,7 +2260,7 @@
             "keywords": ["static-analysis"],
             "name": "shellcheck",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "53122dac-038d-47cb-8d0f-12daa117f19f",
@@ -2282,7 +2282,7 @@
             "keywords": [],
             "name": "tldr",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "53122dac-038d-47cb-8d0f-12daa117f19f",
@@ -2315,7 +2315,7 @@
             "keywords": [],
             "name": "tldr",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "36da305b-bc4e-4d6e-a84a-87c318370467",
@@ -2337,7 +2337,7 @@
             "keywords": [],
             "name": "tokei",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "36da305b-bc4e-4d6e-a84a-87c318370467",
@@ -2370,7 +2370,7 @@
             "keywords": [],
             "name": "tokei",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "a35f3a5a-57b1-4807-a6b4-ff3b1b937ca2",
@@ -2392,7 +2392,7 @@
             "keywords": [],
             "name": "yq",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "a35f3a5a-57b1-4807-a6b4-ff3b1b937ca2",
@@ -2436,7 +2436,7 @@
             "keywords": [],
             "name": "yq",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "9e4a1063-8e64-4f17-a368-ac577a320ad9",
@@ -2458,7 +2458,7 @@
             "keywords": ["navigation"],
             "name": "zoxide",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "9e4a1063-8e64-4f17-a368-ac577a320ad9",
@@ -2502,7 +2502,7 @@
             "keywords": ["navigation"],
             "name": "zoxide",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "650391d0-a8ff-4650-a6f3-b1b098537bdd",
@@ -2524,7 +2524,7 @@
             "keywords": [],
             "name": "espanso",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "650391d0-a8ff-4650-a6f3-b1b098537bdd",
@@ -2568,7 +2568,7 @@
             "keywords": ["cask"],
             "name": "espanso",
             "operatingSystem": ["mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "65c0a789-f9be-41ba-bd3d-890616210cec",
@@ -2590,7 +2590,7 @@
             "keywords": [],
             "name": "anki",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "65c0a789-f9be-41ba-bd3d-890616210cec",
@@ -2623,7 +2623,7 @@
             "keywords": ["cask"],
             "name": "anki",
             "operatingSystem": ["mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "39fbb943-64ed-4199-b2d8-0508f8e6609b",
@@ -2645,7 +2645,7 @@
             "keywords": [],
             "name": "windirstat",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "39fbb943-64ed-4199-b2d8-0508f8e6609b",
@@ -2700,7 +2700,7 @@
             "keywords": [],
             "name": "chafa",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "a8db0ca8-7d16-4f96-8aaf-627740ead85f",
@@ -2720,7 +2720,7 @@
             "keywords": [],
             "name": "lockhunter",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "a8db0ca8-7d16-4f96-8aaf-627740ead85f",
@@ -2750,7 +2750,7 @@
             "keywords": [],
             "name": "carnac",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "0e980800-fe81-4f29-837c-045bd6485e5d",
@@ -2782,7 +2782,7 @@
             "keywords": ["editor"],
             "name": "vscode",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "98b067f8-905f-448e-af6a-dcd88c2c568f",
@@ -2826,7 +2826,7 @@
             "keywords": ["cask", "editor"],
             "name": "visual-studio-code",
             "operatingSystem": ["mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "3d55ac2d-fc37-4b3a-8c6c-387cf492c2f9",
@@ -2848,7 +2848,7 @@
             "keywords": [],
             "name": "osquery",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "3d55ac2d-fc37-4b3a-8c6c-387cf492c2f9",
@@ -2881,7 +2881,7 @@
             "keywords": ["cask"],
             "name": "osquery",
             "operatingSystem": ["mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "a739f58d-961d-4925-bbe0-7bae437e60bf",
@@ -2903,7 +2903,7 @@
             "keywords": [],
             "name": "gsudo",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "a739f58d-961d-4925-bbe0-7bae437e60bf",
@@ -2936,7 +2936,7 @@
             "keywords": [],
             "name": "thefuck",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "19a83b75-b05c-446a-9be0-599ba4614902",
@@ -2966,7 +2966,7 @@
             "keywords": [],
             "name": "obsidian",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "3e49c72c-6820-4d0d-ac65-5ce01aff0134",
@@ -2996,7 +2996,7 @@
             "keywords": ["cask"],
             "name": "obsidian",
             "operatingSystem": ["mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "6a9aa1cc-6cf8-45ed-bdce-5d4d3adf972b",
@@ -3018,7 +3018,7 @@
             "keywords": [],
             "name": "pandoc",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "6a9aa1cc-6cf8-45ed-bdce-5d4d3adf972b",
@@ -3062,7 +3062,7 @@
             "keywords": [],
             "name": "pandoc",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "d7312120-6aaa-4e2a-84a1-3cbaced595a2",
@@ -3084,7 +3084,7 @@
             "keywords": [],
             "name": "miktex",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "d7312120-6aaa-4e2a-84a1-3cbaced595a2",
@@ -3128,7 +3128,7 @@
             "keywords": [],
             "name": "texlive",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "76f98147-9de6-4670-88ec-f2e329228af7",
@@ -3150,7 +3150,7 @@
             "keywords": ["font"],
             "name": "nerd-fonts-victormono",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "76f98147-9de6-4670-88ec-f2e329228af7",
@@ -3161,7 +3161,7 @@
             "keywords": ["cask", "font"],
             "name": "font-victor-mono-nerd-font",
             "operatingSystem": ["mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "12612fef-2162-4530-b61b-d866d9736afb",
@@ -3194,7 +3194,7 @@
             "keywords": ["cask", "font"],
             "name": "font-jetbrains-mono-nerd-font",
             "operatingSystem": ["mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "06cfe697-763a-4630-8a2a-4bd3f55ea549",
@@ -3214,7 +3214,7 @@
             "keywords": [],
             "name": "ccleaner",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "06cfe697-763a-4630-8a2a-4bd3f55ea549",
@@ -3234,7 +3234,7 @@
             "keywords": ["cask"],
             "name": "ccleaner",
             "operatingSystem": ["mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "f647c654-8e4c-456f-a02c-fffd4b11048f",
@@ -3254,7 +3254,7 @@
             "keywords": [],
             "name": "screentogif",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "f647c654-8e4c-456f-a02c-fffd4b11048f",
@@ -3284,7 +3284,7 @@
             "keywords": [],
             "name": "openssl",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "67698cdd-4ca5-456a-95ef-2d7022d1f320",
@@ -3327,7 +3327,7 @@
             "keywords": [],
             "name": "openssl@3",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "5f7da1ce-7f13-40b7-a6c8-1ed80041824a",
@@ -3347,7 +3347,7 @@
             "keywords": ["research"],
             "name": "zotero",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "5f7da1ce-7f13-40b7-a6c8-1ed80041824a",
@@ -3377,7 +3377,7 @@
             "keywords": ["cask", "research"],
             "name": "zotero",
             "operatingSystem": ["mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "fbaffe36-b6a7-4b7a-b65b-eca13f6e70d7",
@@ -3399,7 +3399,7 @@
             "keywords": [],
             "name": "gdu",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "fbaffe36-b6a7-4b7a-b65b-eca13f6e70d7",
@@ -3442,7 +3442,7 @@
             "keywords": [],
             "name": "gdu",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "6d228377-f411-41cc-ae8c-5fb70703ce0c",
@@ -3464,7 +3464,7 @@
             "keywords": [],
             "name": "diffoscope",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "27ff0508-dbc3-407e-a378-52ff93e41c90",
@@ -3508,7 +3508,7 @@
             "keywords": [],
             "name": "aspell",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "5fcc2266-0810-4aa8-bd7a-bcfa26f927bc",
@@ -3543,13 +3543,12 @@
         {
             "identifier": "5fcc2266-0810-4aa8-bd7a-bcfa26f927bc",
             "description": "Docker desktop and Docker Community Edition (CE)",
-            "codeRepository": "",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
             "keywords": ["cask"],
             "name": "docker",
             "operatingSystem": ["mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "dc5953f0-138f-4bf6-a785-9c1173bee95d",
@@ -3571,7 +3570,7 @@
             "keywords": ["security"],
             "name": "grype",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "dc5953f0-138f-4bf6-a785-9c1173bee95d",
@@ -3604,7 +3603,7 @@
             "keywords": ["security"],
             "name": "grype",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "c168c465-1af4-4a56-995d-ada1925172c1",
@@ -3626,7 +3625,7 @@
             "keywords": ["security"],
             "name": "trivy",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "c168c465-1af4-4a56-995d-ada1925172c1",
@@ -3659,7 +3658,7 @@
             "keywords": ["security"],
             "name": "trivy",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "066295dc-8d71-422c-a70d-524427d3fadc",
@@ -3681,7 +3680,7 @@
             "keywords": ["security"],
             "name": "syft",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "066295dc-8d71-422c-a70d-524427d3fadc",
@@ -3703,7 +3702,7 @@
             "keywords": ["security"],
             "name": "syft",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "5cbd48c0-cb00-43c1-a372-cc6269b281d5",
@@ -3747,7 +3746,7 @@
             "keywords": [],
             "name": "podman",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         },
         {
             "identifier": "ee0ed30b-0630-46d1-bacb-49fd9b6a24c6",
@@ -3769,7 +3768,7 @@
             "keywords": [],
             "name": "dotnet-sdk",
             "operatingSystem": ["windows"],
-            "targetProduct": "choco"
+            "targetProduct": "chocolatey"
         },
         {
             "identifier": "ee0ed30b-0630-46d1-bacb-49fd9b6a24c6",
@@ -3813,7 +3812,7 @@
             "keywords": ["cask"],
             "name": "dotnet-sdk",
             "operatingSystem": ["mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
         }
     ]
 }

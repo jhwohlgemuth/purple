@@ -13,9 +13,9 @@ $Parameters = @{
     'all-errors' = $true
     'spec' = 'draft2020'
     'c' = 'ajv-formats'
-    'd' = '"metadata.json"'
+    's' = '"./schemas/Metadata.json"'
     'r' = "`"./schemas/`{$($Referenced -join ',')`}.json`""
-    's' = '"./schemas/metadata.json"'
+    'd' = '"metadata.json"'
 }
 $Command = "./node_modules/.bin/ajv validate $($Parameters | ConvertTo-ParameterString)"
 Invoke-Expression $Command

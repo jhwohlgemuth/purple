@@ -5,6 +5,6 @@ set -e
     --all-errors \
     --spec draft2020 \
     -c ajv-formats \
-    -s ./schemas/Artifact.json \
-    -r "./schemas/{ApplicationCategory,DevelopmentStatus,License,OperatingSystem,RuntimePlatform,TargetProduct}.json" \
+    -s ./schemas/Metadata.json \
+    -r "./schemas/{ApplicationCategory,Artifact,DevelopmentStatus,License,OperatingSystem,RuntimePlatform,TargetProduct}.json" \
     -d "metadata.json" || true
