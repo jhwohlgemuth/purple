@@ -37,7 +37,7 @@ model Artifact {
 
   @uniqueItems
   @doc("Keywords or tags used to describe this content")
-  keywords: string[];
+  keywords: Keyword[];
 
   @doc("A license document that applies to this content, typically indicated by URL")
   license?: License | url;
@@ -86,6 +86,23 @@ enum DevelopmentStatus {
 
   @doc("The project has been moved to a new location, and the version at that location should be considered authoritative.")
   Moved,
+}
+enum Keyword {
+  admin,
+  architecture,
+  bucket_nerd_font: "bucket::nerd-fonts",
+  cask,
+  cpu,
+  editor,
+  font,
+  git,
+  markdown,
+  navigation,
+  research,
+  search,
+  security,
+  static_analysis: "static-analysis",
+  syntax_highlighting: "syntax-highlighting",
 }
 enum License {
   mit: "MIT",

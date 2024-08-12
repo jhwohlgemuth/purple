@@ -35,17 +35,20 @@
             "$ref": "DevelopmentStatus.json"
         },
         "disambiguatingDescription": {
-            "type": "string"
+            "type": "string",
+            "description": "Short description of the item used to disambiguate from other, similar items - usually the associated CLI app command"
         },
         "isAccessibleForFree": {
-            "type": "boolean"
+            "type": "boolean",
+            "description": "A flag to signal that the publication is accessible for free"
         },
         "keywords": {
             "type": "array",
             "items": {
-                "type": "string"
+                "$ref": "Keyword.json"
             },
-            "uniqueItems": true
+            "uniqueItems": true,
+            "description": "Keywords or tags used to describe this content"
         },
         "license": {
             "anyOf": [
@@ -79,10 +82,12 @@
         },
         "sameAs": {
             "type": "string",
-            "format": "uri"
+            "format": "uri",
+            "description": "URL of a reference Web page that unambiguously indicates the item's identity"
         },
         "targetProduct": {
-            "$ref": "TargetProduct.json"
+            "$ref": "TargetProduct.json",
+            "description": "Target Operating System / Product to which the code applies"
         },
         "url": {
             "type": "string",

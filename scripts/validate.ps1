@@ -4,6 +4,7 @@ $Referenced = @(
     'ApplicationCategory'
     'Artifact'
     'DevelopmentStatus'
+    'Keyword'
     'License'
     'OperatingSystem'
     'RuntimePlatform'
