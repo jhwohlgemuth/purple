@@ -11,7 +11,7 @@ $Referenced = @(
     'TargetProduct'
 )
 $Parameters = @{
-    'all-errors' = $true
+    'all-errors' = $True
     'spec' = 'draft2020'
     'c' = 'ajv-formats'
     's' = '"./schemas/Metadata.json"'
