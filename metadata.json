@@ -17,7 +17,7 @@
             "description": "A multi-format file archiver with high compression ratios",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["admin"],
             "name": "7zip",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -81,7 +81,7 @@
             "description": "A cat(1) clone with wings",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["syntax-highlighting"],
+            "keywords": ["admin", "syntax-highlighting"],
             "name": "bat",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -144,7 +144,7 @@
             "codeRepository": "https://github.com/ClementTsang/bottom",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["admin"],
             "name": "bottom",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -335,7 +335,7 @@
             "codeRepository": "https://github.com/dandavison/delta",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["git", "syntax-highlighting"],
+            "keywords": ["admin", "git", "syntax-highlighting"],
             "name": "delta",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -436,7 +436,7 @@
             "description": "Freeware that gathers information on some of the main devices of your system",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["cpu", "architecture"],
+            "keywords": ["admin", "cpu", "architecture"],
             "name": "cpu-z",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey",
@@ -493,7 +493,7 @@
             "codeRepository": "https://sourceforge.net/p/dos2unix/dos2unix/ci/master/tree",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["admin"],
             "name": "dos2unix",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -560,7 +560,7 @@
             "codeRepository": "https://github.com/muesli/duf",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["admin"],
             "name": "duf",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -572,7 +572,7 @@
             "developmentStatus": "Active",
             "disambiguatingDescription": "duf",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["admin"],
             "name": "muesli.duf",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -616,7 +616,7 @@
             "codeRepository": "https://github.com/bootandy/dust",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["admin"],
             "name": "dust",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -683,7 +683,7 @@
             "codeRepository": "https://github.com/fastfetch-cli/fastfetch",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["architecture"],
+            "keywords": ["admin", "architecture"],
             "name": "fastfetch",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -739,7 +739,7 @@
             "codeRepository": "https://github.com/sharkdp/fd",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["search"],
+            "keywords": ["admin", "search"],
             "name": "fd",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -806,7 +806,7 @@
             "codeRepository": "https://github.com/junegunn/fzf",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["search"],
+            "keywords": ["admin", "search"],
             "name": "fzf",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -873,7 +873,7 @@
             "codeRepository": "https://github.com/cli/cli",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["admin"],
             "name": "gh",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -940,7 +940,7 @@
             "codeRepository": "https://github.com/git-for-windows/git",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["git"],
+            "keywords": ["admin", "git"],
             "name": "git",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -1007,7 +1007,7 @@
             "codeRepository": "https://github.com/git-lfs/git-lfs",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["git"],
+            "keywords": ["admin", "git"],
             "name": "git-lfs",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -1074,7 +1074,7 @@
             "codeRepository": "https://github.com/charmbracelet/glow",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["markdown", "syntax-highlighting"],
+            "keywords": ["admin", "markdown", "syntax-highlighting"],
             "name": "glow",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -1141,7 +1141,7 @@
             "codeRepository": "https://github.com/orf/gping",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["admin"],
             "name": "gping",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -1185,7 +1185,7 @@
             "codeRepository": "https://savannah.gnu.org/git/?group=grep",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["search"],
+            "keywords": ["admin", "search"],
             "name": "grep",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -1253,7 +1253,7 @@
             "codeRepository": "https://github.com/pemistahl/grex",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["admin"],
             "name": "grex",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -1342,7 +1342,7 @@
             "codeRepository": "https://github.com/sharkdp/hexyl",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["admin"],
             "name": "hexyl",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -1420,7 +1420,7 @@
             "codeRepository": "https://github.com/httpie/cli",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["syntax-highlighting"],
+            "keywords": ["admin", "syntax-highlighting"],
             "name": "httpie",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -1487,7 +1487,7 @@
             "codeRepository": "https://github.com/sharkdp/hyperfine",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["admin"],
             "name": "hyperfine",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -1554,7 +1554,7 @@
             "codeRepository": "https://github.com/jqlang/jq",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["admin"],
             "name": "jq",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -1621,7 +1621,7 @@
             "codeRepository": "https://github.com/casey/just",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["admin"],
             "name": "just",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -1677,7 +1677,7 @@
             "codeRepository": "https://github.com/jftuga/less-Windows",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["admin"],
             "name": "less",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -1744,7 +1744,7 @@
             "codeRepository": "https://github.com/lycheeverse/lychee",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["admin"],
             "name": "lychee",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -1800,7 +1800,7 @@
             "codeRepository": "https://savannah.gnu.org/git/?group=make",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["admin"],
             "name": "make",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -1859,7 +1859,7 @@
             "developmentStatus": "Active",
             "disambiguatingDescription": "mamba",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["admin"],
             "name": "mambaforge",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -1931,7 +1931,7 @@
             "developmentStatus": "Active",
             "disambiguatingDescription": "nvim",
             "isAccessibleForFree": true,
-            "keywords": ["editor"],
+            "keywords": ["admin", "editor"],
             "name": "neovim",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -2000,7 +2000,7 @@
             "codeRepository": "https://github.com/ngrok/choco-ngrok",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["admin"],
             "name": "ngrok",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -2100,7 +2100,7 @@
             "codeRepository": "https://github.com/PowerShell/PowerShell",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["admin"],
             "name": "pwsh",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -2156,7 +2156,7 @@
             "codeRepository": "https://github.com/BurntSushi/ripgrep",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["search"],
+            "keywords": ["admin", "search"],
             "name": "ripgrep",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -2224,7 +2224,7 @@
             "developmentStatus": "Active",
             "disambiguatingDescription": "rga",
             "isAccessibleForFree": true,
-            "keywords": ["search"],
+            "keywords": ["admin", "search"],
             "name": "ripgrep-all",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -2270,7 +2270,7 @@
             "codeRepository": "https://github.com/koalaman/shellcheck",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["static-analysis"],
+            "keywords": ["admin", "static-analysis"],
             "name": "shellcheck",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -2337,7 +2337,7 @@
             "codeRepository": "https://github.com/tldr-pages/tldr",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["admin"],
             "name": "tldr",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -2393,7 +2393,7 @@
             "codeRepository": "https://github.com/XAMPPRocky/tokei",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["admin"],
             "name": "tokei",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -2449,7 +2449,7 @@
             "codeRepository": "https://github.com/mikefarah/yq",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["admin"],
             "name": "yq",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -2516,7 +2516,7 @@
             "codeRepository": "https://github.com/ajeetdsouza/zoxide",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["navigation"],
+            "keywords": ["admin", "navigation"],
             "name": "zoxide",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -2583,7 +2583,7 @@
             "codeRepository": "https://github.com/espanso/espanso",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["admin"],
             "name": "espanso",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -2650,7 +2650,7 @@
             "codeRepository": "https://github.com/ankitects/anki",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["admin"],
             "name": "anki",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -2706,7 +2706,7 @@
             "codeRepository": "https://sourceforge.net/projects/windirstat",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["admin"],
             "name": "windirstat",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -2783,7 +2783,7 @@
             "description": "Tool to delete files blocked by something you do not know",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["admin"],
             "name": "lockhunter",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -2814,7 +2814,7 @@
             "description": "Keyboard utility for all your Windows presentation needs",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["admin"],
             "name": "carnac",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -2849,7 +2849,7 @@
             "developmentStatus": "Active",
             "disambiguatingDescription": "code",
             "isAccessibleForFree": true,
-            "keywords": ["editor"],
+            "keywords": ["admin", "editor"],
             "name": "vscode",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -2917,7 +2917,7 @@
             "codeRepository": "https://github.com/osquery/osquery",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["admin"],
             "name": "osquery",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -2973,7 +2973,7 @@
             "codeRepository": "https://github.com/gerardog/gsudo",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["admin"],
             "name": "gsudo",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -3037,7 +3037,7 @@
             "description": "Knowledge base that works on top of a local folder of plain text Markdown files",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["admin"],
             "name": "obsidian",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -3090,7 +3090,7 @@
             "codeRepository": "https://github.com/jgm/pandoc",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["admin"],
             "name": "pandoc",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -3157,7 +3157,7 @@
             "codeRepository": "https://github.com/MiKTeX/miktex",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["admin"],
             "name": "miktex",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -3226,7 +3226,7 @@
             "developmentStatus": "Active",
             "disambiguatingDescription": "VictorMono-NF",
             "isAccessibleForFree": true,
-            "keywords": ["font"],
+            "keywords": ["admin", "font"],
             "name": "nerd-fonts-victormono",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -3293,7 +3293,7 @@
             "description": "Helps you clean up your Windows computer, optimize performance, and maintain your online privacy",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["admin"],
             "name": "ccleaner",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -3334,7 +3334,7 @@
             "description": "Screen, webcam and sketchboard recorder with an integrated editor",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["admin"],
             "name": "screentogif",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -3365,7 +3365,7 @@
             "description": "OpenSSL for Microsoft Windows",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["admin"],
             "name": "openssl",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -3432,7 +3432,7 @@
             "description": "Free, easy-to-use tool to help you collect, organize, annotate, cite, and share research",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["research"],
+            "keywords": ["admin", "research"],
             "name": "zotero",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -3485,7 +3485,7 @@
             "codeRepository": "https://github.com/dundee/gdu",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["admin"],
             "name": "gdu",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -3657,7 +3657,7 @@
             "codeRepository": "https://github.com/anchore/grype",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["security"],
+            "keywords": ["admin", "security"],
             "name": "grype",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -3713,7 +3713,7 @@
             "codeRepository": "https://github.com/aquasecurity/trivy",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["security"],
+            "keywords": ["admin", "security"],
             "name": "trivy",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -3768,7 +3768,7 @@
             "codeRepository": "https://github.com/anchore/syft",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["security"],
+            "keywords": ["admin", "security"],
             "name": "syft",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -3857,7 +3857,7 @@
             "codeRepository": "https://github.com/dotnet/sdk",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["admin"],
             "name": "dotnet-sdk",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
