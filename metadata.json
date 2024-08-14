@@ -3909,6 +3909,39 @@
             "name": "dotnet-sdk",
             "operatingSystem": ["mac"],
             "targetProduct": "homebrew"
+        },
+        {
+            "identifier": "089fdb38-66d2-49be-858f-8ed6b8c3ad89",
+            "description": "Tool for managing the installation of multiple software packages in the same run-time directory tree",
+            "codeRepository": "https://git.savannah.gnu.org/git/stow.git",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "stow",
+            "operatingSystem": ["linux"],
+            "targetProduct": "nix"
+        },
+        {
+            "identifier": "089fdb38-66d2-49be-858f-8ed6b8c3ad89",
+            "description": "Tool for managing the installation of multiple software packages in the same run-time directory tree",
+            "codeRepository": "https://git.savannah.gnu.org/git/stow.git",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "stow",
+            "operatingSystem": ["linux"],
+            "targetProduct": "spack"
+        },
+        {
+            "identifier": "089fdb38-66d2-49be-858f-8ed6b8c3ad89",
+            "description": "Tool for managing the installation of multiple software packages in the same run-time directory tree",
+            "codeRepository": "https://git.savannah.gnu.org/git/stow.git",
+            "developmentStatus": "Active",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "stow",
+            "operatingSystem": ["linux", "mac"],
+            "targetProduct": "brew"
         }
     ]
 }
