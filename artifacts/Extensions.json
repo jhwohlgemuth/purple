@@ -38,6 +38,7 @@
         "codeium.codeium",
         "eamodio.gitlens",
         "emmanuelbeziat.vscode-great-icons",
+        "fill-labs.dependi",
         "formulahendry.auto-rename-tag",
         "hbenl.vscode-test-explorer",
         "kisstkondoros.vscode-gutter-preview",
@@ -55,7 +56,6 @@
         "wmaurer.change-case"
     ],
     "rust": [
-        "fill-labs.dependi",
         "rust-lang.rust-analyzer"
     ],
     "scala": [
