@@ -73,6 +73,7 @@ enum ApplicationSubCategory {
   python: "language::python",
   rust: "language::rust",
   scala: "language::scala",
+  wasm: "language::wasm",
   web,
 }
 enum DevelopmentStatus {

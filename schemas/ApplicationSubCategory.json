@@ -10,6 +10,7 @@
         "language::python",
         "language::rust",
         "language::scala",
+        "language::wasm",
         "web"
     ],
     "description": "Subcategory of the application category"

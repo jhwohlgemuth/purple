@@ -4352,6 +4352,48 @@
             "name": "scalameta.metals",
             "operatingSystem": ["windows", "linux", "mac"],
             "targetProduct": "vscode"
+        },
+        {
+            "applicationCategory": "extension",
+            "applicationSubCategory": "language::wasm",
+            "identifier": "a5e3563e-edcf-4aba-a124-e7baece69922",
+            "description": "WebAssembly Toolkit for VSCode",
+            "url": "https://open-vsx.org/extension/gengjiawen/vscode-wasm",
+            "developmentStatus": "Active",
+            "disambiguatingDescription": "WebAssembly for VSCode",
+            "isAccessibleForFree": true,
+            "keywords": ["syntax-highlighting"],
+            "name": "gengjiawen.vscode-wasm",
+            "operatingSystem": ["windows", "linux", "mac"],
+            "targetProduct": "vscode"
+        },
+        {
+            "applicationCategory": "extension",
+            "applicationSubCategory": "language::wasm",
+            "identifier": "9a3fd479-f86c-4910-bcf3-52c1831b7121",
+            "description": "Grain support for Visual Studio Code",
+            "url": "https://open-vsx.org/extension/grain-lang/vscode-grain",
+            "developmentStatus": "Active",
+            "disambiguatingDescription": "VSCode extension for Grain",
+            "isAccessibleForFree": true,
+            "keywords": ["syntax-highlighting"],
+            "name": "grain-lang.vscode-grain",
+            "operatingSystem": ["windows", "linux", "mac"],
+            "targetProduct": "vscode"
+        },
+        {
+            "applicationCategory": "extension",
+            "applicationSubCategory": "language::wasm",
+            "identifier": "b0b716a2-7054-49f6-84e6-c4ae4f697c9e",
+            "description": "MoonBit Language Support",
+            "url": "https://open-vsx.org/extension/moonbit/moonbit-lang",
+            "developmentStatus": "Active",
+            "disambiguatingDescription": "MoonBit language support for VSCode",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "moonbit.moonbit-lang",
+            "operatingSystem": ["windows", "linux", "mac"],
+            "targetProduct": "vscode"
         }
     ]
 }
