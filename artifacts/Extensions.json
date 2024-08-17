@@ -13,8 +13,7 @@
         "unoplatform.vscode"
     ],
     "elixir": [
-        "elixir-lsp.elixir-ls",
-        "jakebecker.elixir-ls"
+        "elixir-lsp.elixir-ls"
     ],
     "lambda": [
         "leanprover.lean4",

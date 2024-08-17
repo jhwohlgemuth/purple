@@ -4310,6 +4310,20 @@
             "name": "rust-lang.rust-analyzer",
             "operatingSystem": ["windows", "linux", "mac"],
             "targetProduct": "vscode"
+        },
+        {
+            "applicationCategory": "extension",
+            "applicationSubCategory": "language::elixir",
+            "identifier": "f714a98e-7410-4daf-aa8b-3665c7597a3b",
+            "description": "Elixir support with debugger, autocomplete, and more - Powered by ElixirLS",
+            "url": "https://open-vsx.org/extension/elixir-lsp/elixir-ls",
+            "developmentStatus": "Active",
+            "disambiguatingDescription": "ElixirLS",
+            "isAccessibleForFree": true,
+            "keywords": ["syntax-highlighting"],
+            "name": "elixir-lsp.elixir-ls",
+            "operatingSystem": ["windows", "linux", "mac"],
+            "targetProduct": "vscode"
         }
     ]
 }
