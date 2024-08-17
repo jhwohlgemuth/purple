@@ -61,12 +61,12 @@
         "scala-lang.scala",
         "scalameta.metals"
     ],
-    "wasm": [
+    "webassembly": [
         "gengjiawen.vscode-wasm",
         "grain-lang.vscode-grain",
         "moonbit.moonbit-lang"
     ],
-    "web": [
+    "frontend": [
         "bierner.color-info",
         "chenglou92.rescript-vscode",
         "components.vscode-styled-components",
