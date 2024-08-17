@@ -3,15 +3,15 @@
     "$id": "ApplicationSubCategory.json",
     "type": "string",
     "enum": [
-        "language::correctness",
+        "correctness",
         "language::dotnet",
         "language::elixir",
-        "language::latex",
+        "latex",
         "language::python",
         "language::rust",
         "language::scala",
-        "language::wasm",
-        "web"
+        "webassembly",
+        "frontend"
     ],
     "description": "Subcategory of the application category"
 }

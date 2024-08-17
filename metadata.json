@@ -4355,7 +4355,7 @@
         },
         {
             "applicationCategory": "extension",
-            "applicationSubCategory": "language::wasm",
+            "applicationSubCategory": "webassembly",
             "identifier": "a5e3563e-edcf-4aba-a124-e7baece69922",
             "description": "WebAssembly Toolkit for VSCode",
             "url": "https://open-vsx.org/extension/gengjiawen/vscode-wasm",
@@ -4369,7 +4369,7 @@
         },
         {
             "applicationCategory": "extension",
-            "applicationSubCategory": "language::wasm",
+            "applicationSubCategory": "webassembly",
             "identifier": "9a3fd479-f86c-4910-bcf3-52c1831b7121",
             "description": "Grain support for Visual Studio Code",
             "url": "https://open-vsx.org/extension/grain-lang/vscode-grain",
@@ -4383,7 +4383,7 @@
         },
         {
             "applicationCategory": "extension",
-            "applicationSubCategory": "language::wasm",
+            "applicationSubCategory": "webassembly",
             "identifier": "b0b716a2-7054-49f6-84e6-c4ae4f697c9e",
             "description": "MoonBit Language Support",
             "url": "https://open-vsx.org/extension/moonbit/moonbit-lang",
@@ -4397,7 +4397,7 @@
         },
         {
             "applicationCategory": "extension",
-            "applicationSubCategory": "language::latex",
+            "applicationSubCategory": "latex",
             "identifier": "52db9548-9f79-4ca5-8174-3085335aad60",
             "description": "LaTeX and BibTeX language support for Visual Studio Code",
             "url": "https://open-vsx.org/extension/efoerster/texlab",
@@ -4411,7 +4411,7 @@
         },
         {
             "applicationCategory": "extension",
-            "applicationSubCategory": "language::latex",
+            "applicationSubCategory": "latex",
             "identifier": "b09a91f0-385c-4684-b811-b3e474c2b8ae",
             "description": "An add-on to LaTeX Workshop that provides some fancy features that are less vital to the basic experience editing a LaTeX document, but can be rather nice to have",
             "url": "https://open-vsx.org/extension/tecosaur/latex-utilities",
@@ -4425,7 +4425,7 @@
         },
         {
             "applicationCategory": "extension",
-            "applicationSubCategory": "language::latex",
+            "applicationSubCategory": "latex",
             "identifier": "1325c639-6127-4aca-ba4c-9dc0c1f90e52",
             "description": "Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more",
             "url": "https://open-vsx.org/extension/James-Yu/latex-workshop",
@@ -4434,6 +4434,62 @@
             "isAccessibleForFree": true,
             "keywords": [],
             "name": "james-yu.latex-workshop",
+            "operatingSystem": ["windows", "linux", "mac"],
+            "targetProduct": "vscode"
+        },
+        {
+            "applicationCategory": "extension",
+            "applicationSubCategory": "correctness",
+            "identifier": "24483952-fa25-47b2-9a02-d9b3aef70992",
+            "description": "Lean 4 language support for VS Code",
+            "url": "https://open-vsx.org/extension/leanprover/lean4",
+            "developmentStatus": "Active",
+            "disambiguatingDescription": "Lean 4 VSCode extension",
+            "isAccessibleForFree": true,
+            "keywords": ["syntax-highlighting", "language::lean"],
+            "name": "leanprover.lean4",
+            "operatingSystem": ["windows", "linux", "mac"],
+            "targetProduct": "vscode"
+        },
+        {
+            "applicationCategory": "extension",
+            "applicationSubCategory": "correctness",
+            "identifier": "ea28ab21-30cd-4ec8-8a68-5b76a359ff74",
+            "description": "Extension for Visual Studio Code with support for the Coq Proof Assistant",
+            "url": "https://open-vsx.org/extension/maximedenes/vscoq",
+            "developmentStatus": "Active",
+            "disambiguatingDescription": "VsCoq",
+            "isAccessibleForFree": true,
+            "keywords": ["syntax-highlighting", "language::coq"],
+            "name": "maximedenes.vscoq",
+            "operatingSystem": ["windows", "linux", "mac"],
+            "targetProduct": "vscode"
+        },
+        {
+            "applicationCategory": "extension",
+            "applicationSubCategory": "correctness",
+            "identifier": "d7bbeb22-8f43-4f2c-bebe-deda402e808e",
+            "description": "Visual Studio Code extension for OCaml and relevant tools",
+            "url": "https://open-vsx.org/extension/ocamllabs/ocaml-platform",
+            "developmentStatus": "Active",
+            "disambiguatingDescription": "VSCode OCaml Platform",
+            "isAccessibleForFree": true,
+            "keywords": ["syntax-highlighting", "language::ocaml"],
+            "name": "ocamllabs.ocaml-platform",
+            "operatingSystem": ["windows", "linux", "mac"],
+            "targetProduct": "vscode"
+        },
+        {
+            "applicationCategory": "extension",
+            "applicationSubCategory": "correctness",
+            "identifier": "d42e1046-cf2e-4c14-b252-3102d86fb8fd",
+            "description": "Why3 LSP client",
+            "url": "https://open-vsx.org/extension/xldenis/whycode",
+            "developmentStatus": "Active",
+            "disambiguatingDescription": "whycode",
+            "isAccessibleForFree": true,
+            "keywords": ["why3"],
+            "name": "xldenis.whycode",
             "operatingSystem": ["windows", "linux", "mac"],
             "targetProduct": "vscode"
         }

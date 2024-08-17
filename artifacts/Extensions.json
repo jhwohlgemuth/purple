@@ -15,7 +15,7 @@
     "elixir": [
         "elixir-lsp.elixir-ls"
     ],
-    "lambda": [
+    "correctness": [
         "leanprover.lean4",
         "maximedenes.vscoq",
         "ocamllabs.ocaml-platform",

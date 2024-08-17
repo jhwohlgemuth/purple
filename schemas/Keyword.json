@@ -17,6 +17,11 @@
         "search",
         "security",
         "static-analysis",
-        "syntax-highlighting"
+        "syntax-highlighting",
+        "language::coq",
+        "language::lean",
+        "language::rust",
+        "language::ocaml",
+        "why3"
     ]
 }

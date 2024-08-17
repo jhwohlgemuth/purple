@@ -66,15 +66,15 @@ enum ApplicationCategory {
 }
 @doc("Subcategory of the application category")
 enum ApplicationSubCategory {
-  correctness: "language::correctness",
+  correctness,
   dotnet: "language::dotnet",
   elixir: "language::elixir",
-  latex: "language::latex",
+  latex,
   python: "language::python",
   rust: "language::rust",
   scala: "language::scala",
-  wasm: "language::wasm",
-  web,
+  webassembly,
+  frontend,
 }
 enum DevelopmentStatus {
   @doc("Minimal or no implementation has been done yet, or the repository is only intended to be a limited example, demo, or proof-of-concept.")
@@ -117,6 +117,11 @@ enum Keyword {
   security,
   static_analysis: "static-analysis",
   syntax_highlighting: "syntax-highlighting",
+  coq: "language::coq",
+  lean: "language::lean",
+  rust: "language::rust",
+  ocaml: "language::ocaml",
+  why3,
 }
 enum License {
   mit: "MIT",
