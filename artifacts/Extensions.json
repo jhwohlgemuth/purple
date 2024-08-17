@@ -58,8 +58,8 @@
         "rust-lang.rust-analyzer"
     ],
     "scala": [
-        "lightbend.vscode-sbt-scala",
-        "scala-lang.scala"
+        "scala-lang.scala",
+        "scalameta.metals"
     ],
     "wasm": [
         "gengjiawen.vscode-wasm",

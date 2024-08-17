@@ -4324,6 +4324,34 @@
             "name": "elixir-lsp.elixir-ls",
             "operatingSystem": ["windows", "linux", "mac"],
             "targetProduct": "vscode"
+        },
+        {
+            "applicationCategory": "extension",
+            "applicationSubCategory": "language::scala",
+            "identifier": "2d9b42d1-984b-4dff-878c-6bc77c37abd2",
+            "description": "Visual Studio Code extension providing syntax highlighting for Scala 2 and Scala 3 source files",
+            "url": "https://open-vsx.org/extension/scala-lang/scala",
+            "developmentStatus": "Active",
+            "disambiguatingDescription": "Scala syntax",
+            "isAccessibleForFree": true,
+            "keywords": ["syntax-highlighting"],
+            "name": "scala-lang.scala",
+            "operatingSystem": ["windows", "linux", "mac"],
+            "targetProduct": "vscode"
+        },
+        {
+            "applicationCategory": "extension",
+            "applicationSubCategory": "language::scala",
+            "identifier": "0f95f2a8-fc43-4d4f-a05f-3ebc48e6be30",
+            "description": "Scala language server with rich IDE features",
+            "url": "https://open-vsx.org/extension/scalameta/metals",
+            "developmentStatus": "Active",
+            "disambiguatingDescription": "Scala (Metals)",
+            "isAccessibleForFree": true,
+            "keywords": ["syntax-highlighting"],
+            "name": "scalameta.metals",
+            "operatingSystem": ["windows", "linux", "mac"],
+            "targetProduct": "vscode"
         }
     ]
 }
