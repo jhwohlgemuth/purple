@@ -4394,6 +4394,48 @@
             "name": "moonbit.moonbit-lang",
             "operatingSystem": ["windows", "linux", "mac"],
             "targetProduct": "vscode"
+        },
+        {
+            "applicationCategory": "extension",
+            "applicationSubCategory": "language::latex",
+            "identifier": "52db9548-9f79-4ca5-8174-3085335aad60",
+            "description": "LaTeX and BibTeX language support for Visual Studio Code",
+            "url": "https://open-vsx.org/extension/efoerster/texlab",
+            "developmentStatus": "Active",
+            "disambiguatingDescription": "TexLab",
+            "isAccessibleForFree": true,
+            "keywords": ["syntax-highlighting"],
+            "name": "efoerster.texlab",
+            "operatingSystem": ["windows", "linux", "mac"],
+            "targetProduct": "vscode"
+        },
+        {
+            "applicationCategory": "extension",
+            "applicationSubCategory": "language::latex",
+            "identifier": "b09a91f0-385c-4684-b811-b3e474c2b8ae",
+            "description": "An add-on to LaTeX Workshop that provides some fancy features that are less vital to the basic experience editing a LaTeX document, but can be rather nice to have",
+            "url": "https://open-vsx.org/extension/tecosaur/latex-utilities",
+            "developmentStatus": "Active",
+            "disambiguatingDescription": "LaTeX Utilities",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "tecosaur.latex-utilities",
+            "operatingSystem": ["windows", "linux", "mac"],
+            "targetProduct": "vscode"
+        },
+        {
+            "applicationCategory": "extension",
+            "applicationSubCategory": "language::latex",
+            "identifier": "1325c639-6127-4aca-ba4c-9dc0c1f90e52",
+            "description": "Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more",
+            "url": "https://open-vsx.org/extension/James-Yu/latex-workshop",
+            "developmentStatus": "Active",
+            "disambiguatingDescription": "LaTeX Workshop",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "james-yu.latex-workshop",
+            "operatingSystem": ["windows", "linux", "mac"],
+            "targetProduct": "vscode"
         }
     ]
 }
