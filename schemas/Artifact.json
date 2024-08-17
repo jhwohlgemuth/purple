@@ -97,6 +97,7 @@
     },
     "required": [
         "identifier",
+        "applicationCategory",
         "developmentStatus",
         "isAccessibleForFree",
         "keywords",

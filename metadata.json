@@ -3,6 +3,7 @@
     "keywords": [],
     "items": [
         {
+            "applicationCategory": "package",
             "identifier": "f058b59e-9873-4dea-b361-39edf50a1307",
             "description": "A multi-format file archiver with high compression ratios",
             "developmentStatus": "Active",
@@ -13,6 +14,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "f058b59e-9873-4dea-b361-39edf50a1307",
             "description": "A multi-format file archiver with high compression ratios",
             "developmentStatus": "Active",
@@ -23,6 +25,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "f058b59e-9873-4dea-b361-39edf50a1307",
             "description": "A multi-format file archiver with high compression ratios",
             "developmentStatus": "Active",
@@ -34,6 +37,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "f058b59e-9873-4dea-b361-39edf50a1307",
             "description": "A multi-format file archiver with high compression ratios",
             "developmentStatus": "Active",
@@ -45,6 +49,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "f058b59e-9873-4dea-b361-39edf50a1307",
             "codeRepository": "https://github.com/p7zip-project/p7zip",
             "description": "A new p7zip fork with additional codecs and improvements (forked from 7zip and p7zip)",
@@ -56,6 +61,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "f058b59e-9873-4dea-b361-39edf50a1307",
             "codeRepository": "https://github.com/p7zip-project/p7zip",
             "description": "A new p7zip fork with additional codecs and improvements (forked from 7zip and p7zip)",
@@ -67,6 +73,7 @@
             "targetProduct": "spack"
         },
         {
+            "applicationCategory": "package",
             "identifier": "6c13a058-ae66-4485-a56f-9c55830174ac",
             "description": "A cat(1) clone with wings",
             "developmentStatus": "Active",
@@ -77,6 +84,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "6c13a058-ae66-4485-a56f-9c55830174ac",
             "description": "A cat(1) clone with wings",
             "developmentStatus": "Active",
@@ -87,6 +95,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "6c13a058-ae66-4485-a56f-9c55830174ac",
             "description": "A cat(1) clone with wings",
             "developmentStatus": "Active",
@@ -98,6 +107,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "6c13a058-ae66-4485-a56f-9c55830174ac",
             "description": "A cat(1) clone with wings",
             "developmentStatus": "Active",
@@ -108,6 +118,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "6c13a058-ae66-4485-a56f-9c55830174ac",
             "description": "A cat(1) clone with wings",
             "developmentStatus": "Active",
@@ -118,6 +129,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "6c13a058-ae66-4485-a56f-9c55830174ac",
             "description": "A cat(1) clone with wings",
             "developmentStatus": "Active",
@@ -128,6 +140,7 @@
             "targetProduct": "spack"
         },
         {
+            "applicationCategory": "package",
             "identifier": "34e7a11f-9109-46ab-9cca-0971ca2a9e3d",
             "description": "Yet another cross-platform graphical process/system monitor",
             "codeRepository": "https://github.com/ClementTsang/bottom",
@@ -139,6 +152,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "34e7a11f-9109-46ab-9cca-0971ca2a9e3d",
             "description": "Yet another cross-platform graphical process/system monitor",
             "codeRepository": "https://github.com/ClementTsang/bottom",
@@ -150,6 +164,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "34e7a11f-9109-46ab-9cca-0971ca2a9e3d",
             "description": "Yet another cross-platform graphical process/system monitor",
             "codeRepository": "https://github.com/ClementTsang/bottom",
@@ -162,6 +177,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "34e7a11f-9109-46ab-9cca-0971ca2a9e3d",
             "description": "Yet another cross-platform graphical process/system monitor",
             "codeRepository": "https://github.com/ClementTsang/bottom",
@@ -173,6 +189,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "34e7a11f-9109-46ab-9cca-0971ca2a9e3d",
             "description": "Yet another cross-platform graphical process/system monitor",
             "codeRepository": "https://github.com/ClementTsang/bottom",
@@ -184,6 +201,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "06d59912-6283-44fb-91e4-628c823f5198",
             "description": "A better way to navigate directories",
             "codeRepository": "https://github.com/Canop/broot",
@@ -195,6 +213,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "06d59912-6283-44fb-91e4-628c823f5198",
             "description": "A better way to navigate directories",
             "codeRepository": "https://github.com/Canop/broot",
@@ -207,6 +226,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "06d59912-6283-44fb-91e4-628c823f5198",
             "description": "A better way to navigate directories",
             "codeRepository": "https://github.com/Canop/broot",
@@ -218,6 +238,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "06d59912-6283-44fb-91e4-628c823f5198",
             "description": "A better way to navigate directories",
             "codeRepository": "https://github.com/Canop/broot",
@@ -229,6 +250,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "c4f64567-83d4-49a0-b35f-e8ca1c03ab94",
             "description": "A monitor of resources",
             "codeRepository": "https://github.com/aristocratos/btop",
@@ -240,6 +262,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "c4f64567-83d4-49a0-b35f-e8ca1c03ab94",
             "description": "A monitor of resources",
             "codeRepository": "https://github.com/aristocratos/btop4win",
@@ -252,6 +275,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "c4f64567-83d4-49a0-b35f-e8ca1c03ab94",
             "description": "A monitor of resources",
             "codeRepository": "https://github.com/aristocratos/btop",
@@ -263,6 +287,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "c4f64567-83d4-49a0-b35f-e8ca1c03ab94",
             "description": "A monitor of resources",
             "codeRepository": "https://github.com/aristocratos/btop",
@@ -274,6 +299,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "c4f64567-83d4-49a0-b35f-e8ca1c03ab94",
             "description": "A monitor of resources",
             "codeRepository": "https://github.com/aristocratos/btop",
@@ -285,6 +311,7 @@
             "targetProduct": "spack"
         },
         {
+            "applicationCategory": "package",
             "identifier": "5a802195-1bad-47f9-ade2-25f9cbf1b08a",
             "description": "Make JSON greppable",
             "codeRepository": "https://github.com/tomnomnom/gron",
@@ -296,6 +323,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "5a802195-1bad-47f9-ade2-25f9cbf1b08a",
             "description": "Make JSON greppable",
             "codeRepository": "https://github.com/tomnomnom/gron",
@@ -308,6 +336,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "5a802195-1bad-47f9-ade2-25f9cbf1b08a",
             "description": "Make JSON greppable",
             "codeRepository": "https://github.com/tomnomnom/gron",
@@ -319,6 +348,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "ba22b9eb-90b2-4ed7-89e0-04ab31a0dbd8",
             "description": "A syntax-highlighting pager for git, diff, grep, and blame output",
             "codeRepository": "https://github.com/dandavison/delta",
@@ -330,6 +360,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "ba22b9eb-90b2-4ed7-89e0-04ab31a0dbd8",
             "description": "A syntax-highlighting pager for git, diff, grep, and blame output",
             "codeRepository": "https://github.com/dandavison/delta",
@@ -341,6 +372,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "ba22b9eb-90b2-4ed7-89e0-04ab31a0dbd8",
             "description": "A syntax-highlighting pager for git, diff, grep, and blame output",
             "codeRepository": "https://github.com/dandavison/delta",
@@ -352,6 +384,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "ba22b9eb-90b2-4ed7-89e0-04ab31a0dbd8",
             "description": "A syntax-highlighting pager for git, diff, grep, and blame output",
             "codeRepository": "https://github.com/dandavison/delta",
@@ -363,6 +396,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "ba22b9eb-90b2-4ed7-89e0-04ab31a0dbd8",
             "description": "A syntax-highlighting pager for git, diff, grep, and blame output",
             "codeRepository": "https://github.com/dandavison/delta",
@@ -375,6 +409,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "1f174ffb-4d54-4416-8f52-e17911ca9034",
             "description": "A tool for glamorous shell scripts",
             "codeRepository": "https://github.com/charmbracelet/gum",
@@ -387,6 +422,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "1f174ffb-4d54-4416-8f52-e17911ca9034",
             "description": "A tool for glamorous shell scripts",
             "codeRepository": "https://github.com/charmbracelet/gum",
@@ -399,6 +435,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "1f174ffb-4d54-4416-8f52-e17911ca9034",
             "description": "A tool for glamorous shell scripts",
             "codeRepository": "https://github.com/charmbracelet/gum",
@@ -410,6 +447,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "1f174ffb-4d54-4416-8f52-e17911ca9034",
             "description": "A tool for glamorous shell scripts",
             "codeRepository": "https://github.com/charmbracelet/gum",
@@ -421,6 +459,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "5f804140-5ed7-4456-9c9a-b8877a6a9fb0",
             "description": "Simple yet fancy CPU architecture fetching tool",
             "codeRepository": "https://github.com/Dr-Noob/cpufetch",
@@ -432,6 +471,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "02a7e153-d19e-4034-babd-dcbf8c6d3369",
             "description": "Freeware that gathers information on some of the main devices of your system",
             "developmentStatus": "Active",
@@ -443,6 +483,7 @@
             "url": "https://www.cpuid.com/softwares/cpu-z.html"
         },
         {
+            "applicationCategory": "package",
             "identifier": "5f804140-5ed7-4456-9c9a-b8877a6a9fb0",
             "description": "Simple yet fancy CPU architecture fetching tool",
             "codeRepository": "https://github.com/Dr-Noob/cpufetch",
@@ -455,6 +496,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "5f804140-5ed7-4456-9c9a-b8877a6a9fb0",
             "description": "Simple yet fancy CPU architecture fetching tool",
             "codeRepository": "https://github.com/Dr-Noob/cpufetch",
@@ -466,6 +508,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "5f804140-5ed7-4456-9c9a-b8877a6a9fb0",
             "description": "Simple yet fancy CPU architecture fetching tool",
             "codeRepository": "https://github.com/Dr-Noob/cpufetch",
@@ -477,6 +520,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "49887f8e-0c00-4d78-99ca-3a7d731d6b7f",
             "description": "Convert text files with DOS or Mac line breaks to Unix line breaks",
             "codeRepository": "https://sourceforge.net/p/dos2unix/dos2unix/ci/master/tree",
@@ -488,6 +532,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "49887f8e-0c00-4d78-99ca-3a7d731d6b7f",
             "description": "Convert text files with DOS or Mac line breaks to Unix line breaks",
             "codeRepository": "https://sourceforge.net/p/dos2unix/dos2unix/ci/master/tree",
@@ -499,6 +544,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "49887f8e-0c00-4d78-99ca-3a7d731d6b7f",
             "description": "Convert text files with DOS or Mac line breaks to Unix line breaks",
             "codeRepository": "https://sourceforge.net/p/dos2unix/dos2unix/ci/master/tree",
@@ -511,6 +557,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "49887f8e-0c00-4d78-99ca-3a7d731d6b7f",
             "description": "Convert text files with DOS or Mac line breaks to Unix line breaks",
             "codeRepository": "https://sourceforge.net/p/dos2unix/dos2unix/ci/master/tree",
@@ -522,6 +569,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "49887f8e-0c00-4d78-99ca-3a7d731d6b7f",
             "description": "Convert text files with DOS or Mac line breaks to Unix line breaks",
             "codeRepository": "https://sourceforge.net/p/dos2unix/dos2unix/ci/master/tree",
@@ -533,6 +581,7 @@
             "targetProduct": "spack"
         },
         {
+            "applicationCategory": "package",
             "identifier": "49887f8e-0c00-4d78-99ca-3a7d731d6b7f",
             "description": "Convert text files with DOS or Mac line breaks to Unix line breaks",
             "codeRepository": "https://sourceforge.net/p/dos2unix/dos2unix/ci/master/tree",
@@ -544,6 +593,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "b9d0fd36-c473-4f54-84a0-06dfc72203f1",
             "description": "Disk Usage/Free Utility - a better 'df' alternative",
             "codeRepository": "https://github.com/muesli/duf",
@@ -555,6 +605,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "b9d0fd36-c473-4f54-84a0-06dfc72203f1",
             "description": "Disk Usage/Free Utility - a better 'df' alternative",
             "codeRepository": "https://github.com/muesli/duf",
@@ -566,6 +617,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "b9d0fd36-c473-4f54-84a0-06dfc72203f1",
             "description": "Disk Usage/Free Utility - a better 'df' alternative",
             "codeRepository": "https://github.com/muesli/duf",
@@ -578,6 +630,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "b9d0fd36-c473-4f54-84a0-06dfc72203f1",
             "description": "Disk Usage/Free Utility - a better 'df' alternative",
             "codeRepository": "https://github.com/muesli/duf",
@@ -589,6 +642,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "b9d0fd36-c473-4f54-84a0-06dfc72203f1",
             "description": "Disk Usage/Free Utility - a better 'df' alternative",
             "codeRepository": "https://github.com/muesli/duf",
@@ -600,6 +654,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "70655cb0-8ad1-41fb-b51f-9ccb23b26937",
             "description": "A more intuitive version of du in rust",
             "codeRepository": "https://github.com/bootandy/dust",
@@ -611,6 +666,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "70655cb0-8ad1-41fb-b51f-9ccb23b26937",
             "description": "A more intuitive version of du in rust",
             "codeRepository": "https://github.com/bootandy/dust",
@@ -622,6 +678,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "70655cb0-8ad1-41fb-b51f-9ccb23b26937",
             "description": "A more intuitive version of du in rust",
             "codeRepository": "https://github.com/bootandy/dust",
@@ -634,6 +691,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "70655cb0-8ad1-41fb-b51f-9ccb23b26937",
             "description": "A more intuitive version of du in rust",
             "codeRepository": "https://github.com/bootandy/dust",
@@ -645,6 +703,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "70655cb0-8ad1-41fb-b51f-9ccb23b26937",
             "description": "A more intuitive version of du in rust",
             "codeRepository": "https://github.com/bootandy/dust",
@@ -656,6 +715,7 @@
             "targetProduct": "spack"
         },
         {
+            "applicationCategory": "package",
             "identifier": "70655cb0-8ad1-41fb-b51f-9ccb23b26937",
             "description": "A more intuitive version of du in rust",
             "codeRepository": "https://github.com/bootandy/dust",
@@ -667,6 +727,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "f4721223-35bc-46bb-86fb-9057d547254a",
             "description": "Feature-rich and performance oriented, neofetch like system information tool",
             "codeRepository": "https://github.com/fastfetch-cli/fastfetch",
@@ -678,6 +739,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "f4721223-35bc-46bb-86fb-9057d547254a",
             "description": "Feature-rich and performance oriented, neofetch like system information tool",
             "codeRepository": "https://github.com/fastfetch-cli/fastfetch",
@@ -689,6 +751,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "f4721223-35bc-46bb-86fb-9057d547254a",
             "description": "Feature-rich and performance oriented, neofetch like system information tool",
             "codeRepository": "https://github.com/fastfetch-cli/fastfetch",
@@ -701,6 +764,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "f4721223-35bc-46bb-86fb-9057d547254a",
             "description": "Feature-rich and performance oriented, neofetch like system information tool",
             "codeRepository": "https://github.com/fastfetch-cli/fastfetch",
@@ -712,6 +776,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "f4721223-35bc-46bb-86fb-9057d547254a",
             "description": "Feature-rich and performance oriented, neofetch like system information tool",
             "codeRepository": "https://github.com/fastfetch-cli/fastfetch",
@@ -723,6 +788,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "5703fb4d-9b57-4913-8cd2-40040fd77d59",
             "description": "A simple, fast and user-friendly alternative to 'find'",
             "codeRepository": "https://github.com/sharkdp/fd",
@@ -734,6 +800,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "5703fb4d-9b57-4913-8cd2-40040fd77d59",
             "description": "A simple, fast and user-friendly alternative to 'find'",
             "codeRepository": "https://github.com/sharkdp/fd",
@@ -745,6 +812,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "5703fb4d-9b57-4913-8cd2-40040fd77d59",
             "description": "A simple, fast and user-friendly alternative to 'find'",
             "codeRepository": "https://github.com/sharkdp/fd",
@@ -757,6 +825,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "5703fb4d-9b57-4913-8cd2-40040fd77d59",
             "description": "A simple, fast and user-friendly alternative to 'find'",
             "codeRepository": "https://github.com/sharkdp/fd",
@@ -768,6 +837,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "5703fb4d-9b57-4913-8cd2-40040fd77d59",
             "description": "A simple, fast and user-friendly alternative to 'find'",
             "codeRepository": "https://github.com/sharkdp/fd",
@@ -779,6 +849,7 @@
             "targetProduct": "spack"
         },
         {
+            "applicationCategory": "package",
             "identifier": "5703fb4d-9b57-4913-8cd2-40040fd77d59",
             "description": "A simple, fast and user-friendly alternative to 'find'",
             "codeRepository": "https://github.com/sharkdp/fd",
@@ -790,6 +861,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "7d641d95-69a5-4392-8f54-3d31c9cfe80e",
             "description": "A command-line fuzzy finder written in Go",
             "codeRepository": "https://github.com/junegunn/fzf",
@@ -801,6 +873,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "7d641d95-69a5-4392-8f54-3d31c9cfe80e",
             "description": "A command-line fuzzy finder written in Go",
             "codeRepository": "https://github.com/junegunn/fzf",
@@ -812,6 +885,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "7d641d95-69a5-4392-8f54-3d31c9cfe80e",
             "description": "A command-line fuzzy finder written in Go",
             "codeRepository": "https://github.com/junegunn/fzf",
@@ -824,6 +898,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "7d641d95-69a5-4392-8f54-3d31c9cfe80e",
             "description": "A command-line fuzzy finder written in Go",
             "codeRepository": "https://github.com/junegunn/fzf",
@@ -835,6 +910,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "7d641d95-69a5-4392-8f54-3d31c9cfe80e",
             "description": "A command-line fuzzy finder written in Go",
             "codeRepository": "https://github.com/junegunn/fzf",
@@ -846,6 +922,7 @@
             "targetProduct": "spack"
         },
         {
+            "applicationCategory": "package",
             "identifier": "7d641d95-69a5-4392-8f54-3d31c9cfe80e",
             "description": "A command-line fuzzy finder written in Go",
             "codeRepository": "https://github.com/junegunn/fzf",
@@ -857,6 +934,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "22864a60-5134-4561-b5da-6db3c68a8ee6",
             "description": "GitHub's official command line tool",
             "codeRepository": "https://github.com/cli/cli",
@@ -868,6 +946,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "22864a60-5134-4561-b5da-6db3c68a8ee6",
             "description": "GitHub's official command line tool",
             "codeRepository": "https://github.com/cli/cli",
@@ -879,6 +958,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "22864a60-5134-4561-b5da-6db3c68a8ee6",
             "description": "GitHub's official command line tool",
             "codeRepository": "https://github.com/cli/cli",
@@ -891,6 +971,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "22864a60-5134-4561-b5da-6db3c68a8ee6",
             "description": "GitHub's official command line tool",
             "codeRepository": "https://github.com/cli/cli",
@@ -902,6 +983,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "22864a60-5134-4561-b5da-6db3c68a8ee6",
             "description": "GitHub's official command line tool",
             "codeRepository": "https://github.com/cli/cli",
@@ -913,6 +995,7 @@
             "targetProduct": "spack"
         },
         {
+            "applicationCategory": "package",
             "identifier": "22864a60-5134-4561-b5da-6db3c68a8ee6",
             "description": "GitHub's official command line tool",
             "codeRepository": "https://github.com/cli/cli",
@@ -924,6 +1007,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "b1ee5240-5f63-44d8-83c3-e15683f0355c",
             "description": "Distributed version control system",
             "codeRepository": "https://github.com/git-for-windows/git",
@@ -935,6 +1019,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "b1ee5240-5f63-44d8-83c3-e15683f0355c",
             "description": "Distributed version control system",
             "codeRepository": "https://github.com/git-for-windows/git",
@@ -946,6 +1031,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "b1ee5240-5f63-44d8-83c3-e15683f0355c",
             "description": "Distributed version control system",
             "codeRepository": "https://github.com/git-for-windows/git",
@@ -958,6 +1044,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "b1ee5240-5f63-44d8-83c3-e15683f0355c",
             "description": "Distributed version control system",
             "codeRepository": "https://github.com/git/git",
@@ -969,6 +1056,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "b1ee5240-5f63-44d8-83c3-e15683f0355c",
             "description": "Distributed version control system",
             "codeRepository": "https://github.com/git/git",
@@ -980,6 +1068,7 @@
             "targetProduct": "spack"
         },
         {
+            "applicationCategory": "package",
             "identifier": "b1ee5240-5f63-44d8-83c3-e15683f0355c",
             "description": "Distributed version control system",
             "codeRepository": "https://github.com/git/git",
@@ -991,6 +1080,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "fe27d6b8-0640-4d8c-81df-5fc01fb71f5b",
             "description": "Git extension to handle large files",
             "codeRepository": "https://github.com/git-lfs/git-lfs",
@@ -1002,6 +1092,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "fe27d6b8-0640-4d8c-81df-5fc01fb71f5b",
             "description": "Git extension to handle large files",
             "codeRepository": "https://github.com/git-lfs/git-lfs",
@@ -1013,6 +1104,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "fe27d6b8-0640-4d8c-81df-5fc01fb71f5b",
             "description": "Git extension to handle large files",
             "codeRepository": "https://github.com/git-lfs/git-lfs",
@@ -1025,6 +1117,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "fe27d6b8-0640-4d8c-81df-5fc01fb71f5b",
             "description": "Git extension to handle large files",
             "codeRepository": "https://github.com/git-lfs/git-lfs",
@@ -1036,6 +1129,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "fe27d6b8-0640-4d8c-81df-5fc01fb71f5b",
             "description": "Git extension to handle large files",
             "codeRepository": "https://github.com/git-lfs/git-lfs",
@@ -1047,6 +1141,7 @@
             "targetProduct": "spack"
         },
         {
+            "applicationCategory": "package",
             "identifier": "fe27d6b8-0640-4d8c-81df-5fc01fb71f5b",
             "description": "Git extension to handle large files",
             "codeRepository": "https://github.com/git-lfs/git-lfs",
@@ -1058,6 +1153,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "782e110b-9fe4-40e0-93da-08e7f7bb1abd",
             "description": "Render markdown on the CLI, with pizzazz",
             "codeRepository": "https://github.com/charmbracelet/glow",
@@ -1069,6 +1165,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "782e110b-9fe4-40e0-93da-08e7f7bb1abd",
             "description": "Render markdown on the CLI, with pizzazz",
             "codeRepository": "https://github.com/charmbracelet/glow",
@@ -1080,6 +1177,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "782e110b-9fe4-40e0-93da-08e7f7bb1abd",
             "description": "Render markdown on the CLI, with pizzazz",
             "codeRepository": "https://github.com/charmbracelet/glow",
@@ -1092,6 +1190,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "782e110b-9fe4-40e0-93da-08e7f7bb1abd",
             "description": "Render markdown on the CLI, with pizzazz",
             "codeRepository": "https://github.com/charmbracelet/glow",
@@ -1103,6 +1202,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "782e110b-9fe4-40e0-93da-08e7f7bb1abd",
             "description": "Render markdown on the CLI, with pizzazz",
             "codeRepository": "https://github.com/charmbracelet/glow",
@@ -1114,6 +1214,7 @@
             "targetProduct": "spack"
         },
         {
+            "applicationCategory": "package",
             "identifier": "782e110b-9fe4-40e0-93da-08e7f7bb1abd",
             "description": "Render markdown on the CLI, with pizzazz",
             "codeRepository": "https://github.com/charmbracelet/glow",
@@ -1125,6 +1226,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "7f882b53-36f9-46b9-903f-d5195f30182d",
             "description": "Ping, but with a graph",
             "codeRepository": "https://github.com/orf/gping",
@@ -1136,6 +1238,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "7f882b53-36f9-46b9-903f-d5195f30182d",
             "description": "Ping, but with a graph",
             "codeRepository": "https://github.com/orf/gping",
@@ -1147,6 +1250,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "7f882b53-36f9-46b9-903f-d5195f30182d",
             "description": "Ping, but with a graph",
             "codeRepository": "https://github.com/orf/gping",
@@ -1158,6 +1262,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "7f882b53-36f9-46b9-903f-d5195f30182d",
             "description": "Ping, but with a graph",
             "codeRepository": "https://github.com/orf/gping",
@@ -1169,6 +1274,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "c367385d-99c8-4b2b-83aa-e5b85aeffdaf",
             "description": "Searches one or more input files for lines containing a match to a specified pattern",
             "codeRepository": "https://savannah.gnu.org/git/?group=grep",
@@ -1180,6 +1286,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "c367385d-99c8-4b2b-83aa-e5b85aeffdaf",
             "description": "Searches one or more input files for lines containing a match to a specified pattern",
             "codeRepository": "https://savannah.gnu.org/git/?group=grep",
@@ -1191,6 +1298,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "c367385d-99c8-4b2b-83aa-e5b85aeffdaf",
             "description": "Searches one or more input files for lines containing a match to a specified pattern",
             "codeRepository": "https://savannah.gnu.org/git/?group=grep",
@@ -1203,6 +1311,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "c367385d-99c8-4b2b-83aa-e5b85aeffdaf",
             "description": "Searches one or more input files for lines containing a match to a specified pattern",
             "codeRepository": "https://savannah.gnu.org/git/?group=grep",
@@ -1215,6 +1324,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "c367385d-99c8-4b2b-83aa-e5b85aeffdaf",
             "description": "Searches one or more input files for lines containing a match to a specified pattern",
             "codeRepository": "https://savannah.gnu.org/git/?group=grep",
@@ -1226,6 +1336,7 @@
             "targetProduct": "spack"
         },
         {
+            "applicationCategory": "package",
             "identifier": "c367385d-99c8-4b2b-83aa-e5b85aeffdaf",
             "description": "Searches one or more input files for lines containing a match to a specified pattern",
             "codeRepository": "https://savannah.gnu.org/git/?group=grep",
@@ -1237,6 +1348,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "4b4d8bc3-d841-47bb-bf50-3d179a110690",
             "description": "Command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases",
             "codeRepository": "https://github.com/pemistahl/grex",
@@ -1248,6 +1360,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "4b4d8bc3-d841-47bb-bf50-3d179a110690",
             "description": "Command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases",
             "codeRepository": "https://github.com/pemistahl/grex",
@@ -1259,6 +1372,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "4b4d8bc3-d841-47bb-bf50-3d179a110690",
             "description": "Command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases",
             "codeRepository": "https://github.com/pemistahl/grex",
@@ -1270,6 +1384,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "4b4d8bc3-d841-47bb-bf50-3d179a110690",
             "description": "Command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases",
             "codeRepository": "https://github.com/pemistahl/grex",
@@ -1281,6 +1396,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "d104b582-ed63-49ae-b5bd-b21de6208fc3",
             "description": "Dockerfile linter, validate inline bash, written in Haskell",
             "codeRepository": "https://github.com/hadolint/hadolint",
@@ -1292,6 +1408,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "d104b582-ed63-49ae-b5bd-b21de6208fc3",
             "description": "Dockerfile linter, validate inline bash, written in Haskell",
             "codeRepository": "https://github.com/hadolint/hadolint",
@@ -1304,6 +1421,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "d104b582-ed63-49ae-b5bd-b21de6208fc3",
             "description": "Dockerfile linter, validate inline bash, written in Haskell",
             "codeRepository": "https://github.com/hadolint/hadolint",
@@ -1315,6 +1433,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "d104b582-ed63-49ae-b5bd-b21de6208fc3",
             "description": "Dockerfile linter, validate inline bash, written in Haskell",
             "codeRepository": "https://github.com/hadolint/hadolint",
@@ -1326,6 +1445,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "7d1f7c5b-1fd3-4b00-9192-a3eb1dfff046",
             "description": "A command-line hex viewer",
             "codeRepository": "https://github.com/sharkdp/hexyl",
@@ -1337,6 +1457,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "7d1f7c5b-1fd3-4b00-9192-a3eb1dfff046",
             "description": "A command-line hex viewer",
             "codeRepository": "https://github.com/sharkdp/hexyl",
@@ -1348,6 +1469,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "7d1f7c5b-1fd3-4b00-9192-a3eb1dfff046",
             "description": "A command-line hex viewer",
             "codeRepository": "https://github.com/sharkdp/hexyl",
@@ -1360,6 +1482,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "7d1f7c5b-1fd3-4b00-9192-a3eb1dfff046",
             "description": "A command-line hex viewer",
             "codeRepository": "https://github.com/sharkdp/hexyl",
@@ -1371,6 +1494,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "7d1f7c5b-1fd3-4b00-9192-a3eb1dfff046",
             "description": "A command-line hex viewer",
             "codeRepository": "https://github.com/sharkdp/hexyl",
@@ -1382,6 +1506,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "4ca3f19e-885b-4beb-b4e2-7556231bc472",
             "description": "Like jq, but for HTML",
             "codeRepository": "https://github.com/mgdm/htmlq",
@@ -1393,6 +1518,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "4ca3f19e-885b-4beb-b4e2-7556231bc472",
             "description": "Like jq, but for HTML",
             "codeRepository": "https://github.com/mgdm/htmlq",
@@ -1404,6 +1530,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "4ca3f19e-885b-4beb-b4e2-7556231bc472",
             "description": "Like jq, but for HTML",
             "codeRepository": "https://github.com/mgdm/htmlq",
@@ -1415,6 +1542,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "0156d4d3-1a0f-4442-b8c3-584a5e3594d9",
             "description": "Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.",
             "codeRepository": "https://github.com/httpie/cli",
@@ -1426,6 +1554,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "0156d4d3-1a0f-4442-b8c3-584a5e3594d9",
             "description": "Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.",
             "codeRepository": "https://github.com/httpie/cli",
@@ -1438,6 +1567,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "0156d4d3-1a0f-4442-b8c3-584a5e3594d9",
             "description": "Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.",
             "codeRepository": "https://github.com/httpie/cli",
@@ -1449,6 +1579,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "0156d4d3-1a0f-4442-b8c3-584a5e3594d9",
             "description": "Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.",
             "codeRepository": "https://github.com/httpie/cli",
@@ -1460,6 +1591,7 @@
             "targetProduct": "spack"
         },
         {
+            "applicationCategory": "package",
             "identifier": "0156d4d3-1a0f-4442-b8c3-584a5e3594d9",
             "description": "Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.",
             "codeRepository": "https://github.com/httpie/cli",
@@ -1471,6 +1603,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "6f3e2a01-fa7c-43f9-b742-e210389377d3",
             "description": "A command-line benchmarking tool",
             "codeRepository": "https://github.com/sharkdp/hyperfine",
@@ -1482,6 +1615,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "6f3e2a01-fa7c-43f9-b742-e210389377d3",
             "description": "A command-line benchmarking tool",
             "codeRepository": "https://github.com/sharkdp/hyperfine",
@@ -1493,6 +1627,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "6f3e2a01-fa7c-43f9-b742-e210389377d3",
             "description": "A command-line benchmarking tool",
             "codeRepository": "https://github.com/sharkdp/hyperfine",
@@ -1505,6 +1640,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "6f3e2a01-fa7c-43f9-b742-e210389377d3",
             "description": "A command-line benchmarking tool",
             "codeRepository": "https://github.com/sharkdp/hyperfine",
@@ -1516,6 +1652,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "6f3e2a01-fa7c-43f9-b742-e210389377d3",
             "description": "A command-line benchmarking tool",
             "codeRepository": "https://github.com/sharkdp/hyperfine",
@@ -1527,6 +1664,7 @@
             "targetProduct": "spack"
         },
         {
+            "applicationCategory": "package",
             "identifier": "6f3e2a01-fa7c-43f9-b742-e210389377d3",
             "description": "A command-line benchmarking tool",
             "codeRepository": "https://github.com/sharkdp/hyperfine",
@@ -1538,6 +1676,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "19af409e-5dbe-4dc2-97de-78ff1f0d7174",
             "description": "Command-line JSON processor",
             "codeRepository": "https://github.com/jqlang/jq",
@@ -1549,6 +1688,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "19af409e-5dbe-4dc2-97de-78ff1f0d7174",
             "description": "Command-line JSON processor",
             "codeRepository": "https://github.com/jqlang/jq",
@@ -1560,6 +1700,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "19af409e-5dbe-4dc2-97de-78ff1f0d7174",
             "description": "Command-line JSON processor",
             "codeRepository": "https://github.com/jqlang/jq",
@@ -1572,6 +1713,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "19af409e-5dbe-4dc2-97de-78ff1f0d7174",
             "description": "Command-line JSON processor",
             "codeRepository": "https://github.com/jqlang/jq",
@@ -1583,6 +1725,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "19af409e-5dbe-4dc2-97de-78ff1f0d7174",
             "description": "Command-line JSON processor",
             "codeRepository": "https://github.com/jqlang/jq",
@@ -1594,6 +1737,7 @@
             "targetProduct": "spack"
         },
         {
+            "applicationCategory": "package",
             "identifier": "19af409e-5dbe-4dc2-97de-78ff1f0d7174",
             "description": "Command-line JSON processor",
             "codeRepository": "https://github.com/jqlang/jq",
@@ -1605,6 +1749,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "7b9c73c7-ce13-42ee-a9c2-32dee758e2bc",
             "description": "Handy way to save and run project-specific commands",
             "codeRepository": "https://github.com/casey/just",
@@ -1616,6 +1761,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "7b9c73c7-ce13-42ee-a9c2-32dee758e2bc",
             "description": "Handy way to save and run project-specific commands",
             "codeRepository": "https://github.com/casey/just",
@@ -1627,6 +1773,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "7b9c73c7-ce13-42ee-a9c2-32dee758e2bc",
             "description": "Handy way to save and run project-specific commands",
             "codeRepository": "https://github.com/casey/just",
@@ -1639,6 +1786,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "7b9c73c7-ce13-42ee-a9c2-32dee758e2bc",
             "description": "Handy way to save and run project-specific commands",
             "codeRepository": "https://github.com/casey/just",
@@ -1650,6 +1798,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "7b9c73c7-ce13-42ee-a9c2-32dee758e2bc",
             "description": "Handy way to save and run project-specific commands",
             "codeRepository": "https://github.com/casey/just",
@@ -1661,6 +1810,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "a2e4ff3e-8593-4718-b454-f759097995ca",
             "description": "A more advanced file pager than 'more'",
             "codeRepository": "https://github.com/jftuga/less-Windows",
@@ -1672,6 +1822,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "a2e4ff3e-8593-4718-b454-f759097995ca",
             "description": "A more advanced file pager than 'more'",
             "codeRepository": "https://github.com/jftuga/less-Windows",
@@ -1683,6 +1834,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "a2e4ff3e-8593-4718-b454-f759097995ca",
             "description": "A more advanced file pager than 'more'",
             "codeRepository": "https://github.com/jftuga/less-Windows",
@@ -1695,6 +1847,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "a2e4ff3e-8593-4718-b454-f759097995ca",
             "description": "A more advanced file pager than 'more'",
             "codeRepository": "https://github.com/gwsw/less",
@@ -1706,6 +1859,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "a2e4ff3e-8593-4718-b454-f759097995ca",
             "description": "A more advanced file pager than 'more'",
             "codeRepository": "https://github.com/gwsw/less",
@@ -1717,6 +1871,7 @@
             "targetProduct": "spack"
         },
         {
+            "applicationCategory": "package",
             "identifier": "a2e4ff3e-8593-4718-b454-f759097995ca",
             "description": "A more advanced file pager than 'more'",
             "codeRepository": "https://github.com/gwsw/less",
@@ -1728,6 +1883,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "960dcd00-3b41-4db8-b8d8-1ce259cd5707",
             "description": "Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!",
             "codeRepository": "https://github.com/lycheeverse/lychee",
@@ -1739,6 +1895,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "960dcd00-3b41-4db8-b8d8-1ce259cd5707",
             "description": "Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!",
             "codeRepository": "https://github.com/lycheeverse/lychee",
@@ -1750,6 +1907,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "960dcd00-3b41-4db8-b8d8-1ce259cd5707",
             "description": "Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!",
             "codeRepository": "https://github.com/lycheeverse/lychee",
@@ -1762,6 +1920,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "960dcd00-3b41-4db8-b8d8-1ce259cd5707",
             "description": "Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!",
             "codeRepository": "https://github.com/lycheeverse/lychee",
@@ -1773,6 +1932,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "960dcd00-3b41-4db8-b8d8-1ce259cd5707",
             "description": "Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!",
             "codeRepository": "https://github.com/lycheeverse/lychee",
@@ -1784,6 +1944,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "07916eeb-4257-42a8-b67a-4f8b39a494df",
             "description": "Tool which controls the generation of executables and other non-source files of a program from the program's source files",
             "codeRepository": "https://savannah.gnu.org/git/?group=make",
@@ -1795,6 +1956,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "07916eeb-4257-42a8-b67a-4f8b39a494df",
             "description": "Tool which controls the generation of executables and other non-source files of a program from the program's source files",
             "codeRepository": "https://savannah.gnu.org/git/?group=make",
@@ -1806,6 +1968,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "07916eeb-4257-42a8-b67a-4f8b39a494df",
             "description": "Tool which controls the generation of executables and other non-source files of a program from the program's source files",
             "codeRepository": "https://savannah.gnu.org/git/?group=make",
@@ -1818,6 +1981,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "07916eeb-4257-42a8-b67a-4f8b39a494df",
             "description": "Tool which controls the generation of executables and other non-source files of a program from the program's source files",
             "codeRepository": "https://savannah.gnu.org/git/?group=make",
@@ -1830,6 +1994,7 @@
             "targetProduct": "spack"
         },
         {
+            "applicationCategory": "package",
             "identifier": "07916eeb-4257-42a8-b67a-4f8b39a494df",
             "description": "Tool which controls the generation of executables and other non-source files of a program from the program's source files",
             "codeRepository": "https://savannah.gnu.org/git/?group=make",
@@ -1841,6 +2006,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "61712b85-83fd-4433-8f0d-d7fd7ce28eaf",
             "description": "Conda and mamba pre-configured to conda-forge (only)",
             "codeRepository": "https://github.com/conda-forge/miniforge",
@@ -1853,6 +2019,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "61712b85-83fd-4433-8f0d-d7fd7ce28eaf",
             "description": "Conda and mamba pre-configured to conda-forge (only)",
             "codeRepository": "https://github.com/conda-forge/miniforge",
@@ -1865,6 +2032,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "61712b85-83fd-4433-8f0d-d7fd7ce28eaf",
             "description": "Fast Cross-Platform Package Manager",
             "codeRepository": "https://github.com/mamba-org/mamba",
@@ -1877,6 +2045,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "61712b85-83fd-4433-8f0d-d7fd7ce28eaf",
             "description": "Fast Cross-Platform Package Manager",
             "codeRepository": "https://github.com/mamba-org/mamba",
@@ -1889,6 +2058,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "61712b85-83fd-4433-8f0d-d7fd7ce28eaf",
             "description": "Fast Cross-Platform Package Manager",
             "codeRepository": "https://github.com/mamba-org/mamba",
@@ -1901,6 +2071,7 @@
             "targetProduct": "spack"
         },
         {
+            "applicationCategory": "package",
             "identifier": "61712b85-83fd-4433-8f0d-d7fd7ce28eaf",
             "description": "Fast Cross-Platform Package Manager",
             "codeRepository": "https://github.com/mamba-org/mamba",
@@ -1913,6 +2084,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "74bc3858-4fe0-4c47-8dd6-771ba07f1312",
             "description": "Vim-fork focused on extensibility and usability",
             "codeRepository": "https://github.com/neovim/neovim",
@@ -1925,6 +2097,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "74bc3858-4fe0-4c47-8dd6-771ba07f1312",
             "description": "Vim-fork focused on extensibility and usability",
             "codeRepository": "https://github.com/neovim/neovim",
@@ -1937,6 +2110,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "74bc3858-4fe0-4c47-8dd6-771ba07f1312",
             "description": "Vim-fork focused on extensibility and usability",
             "codeRepository": "https://github.com/neovim/neovim",
@@ -1949,6 +2123,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "74bc3858-4fe0-4c47-8dd6-771ba07f1312",
             "description": "Vim-fork focused on extensibility and usability",
             "codeRepository": "https://github.com/neovim/neovim",
@@ -1961,6 +2136,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "74bc3858-4fe0-4c47-8dd6-771ba07f1312",
             "description": "Vim-fork focused on extensibility and usability",
             "codeRepository": "https://github.com/neovim/neovim",
@@ -1973,6 +2149,7 @@
             "targetProduct": "spack"
         },
         {
+            "applicationCategory": "package",
             "identifier": "74bc3858-4fe0-4c47-8dd6-771ba07f1312",
             "description": "Vim-fork focused on extensibility and usability",
             "codeRepository": "https://github.com/neovim/neovim",
@@ -1985,6 +2162,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "0edeafb3-844f-4be6-80c1-5b602bbc4111",
             "description": "Reverse proxy, secure introspectable tunnels to localhost",
             "developmentStatus": "Active",
@@ -1995,6 +2173,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "0edeafb3-844f-4be6-80c1-5b602bbc4111",
             "description": "Reverse proxy, secure introspectable tunnels to localhost",
             "codeRepository": "https://github.com/ngrok/choco-ngrok",
@@ -2006,6 +2185,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "0edeafb3-844f-4be6-80c1-5b602bbc4111",
             "description": "Reverse proxy, secure introspectable tunnels to localhost",
             "developmentStatus": "Active",
@@ -2017,6 +2197,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "0edeafb3-844f-4be6-80c1-5b602bbc4111",
             "description": "Reverse proxy, secure introspectable tunnels to localhost",
             "codeRepository": "https://github.com/ngrok/ngrok-nix",
@@ -2028,6 +2209,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "0edeafb3-844f-4be6-80c1-5b602bbc4111",
             "description": "Reverse proxy, secure introspectable tunnels to localhost",
             "codeRepository": "https://github.com/ngrok/ngrok-nix",
@@ -2039,6 +2221,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "69957d15-a96a-42f7-81bd-3a81991cab40",
             "description": "Command-line tool to generate, analyze, convert and manipulate colors",
             "codeRepository": "https://github.com/sharkdp/pastel",
@@ -2050,6 +2233,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "69957d15-a96a-42f7-81bd-3a81991cab40",
             "description": "Command-line tool to generate, analyze, convert and manipulate colors",
             "codeRepository": "https://github.com/sharkdp/pastel",
@@ -2062,6 +2246,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "69957d15-a96a-42f7-81bd-3a81991cab40",
             "description": "Command-line tool to generate, analyze, convert and manipulate colors",
             "codeRepository": "https://github.com/sharkdp/pastel",
@@ -2073,6 +2258,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "69957d15-a96a-42f7-81bd-3a81991cab40",
             "description": "Command-line tool to generate, analyze, convert and manipulate colors",
             "codeRepository": "https://github.com/sharkdp/pastel",
@@ -2084,6 +2270,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "d01d2595-ead8-4baa-b57f-5ec9d8fd6866",
             "description": "Cross-platform automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models. It includes a command-line shell, an associated scripting language, and a framework for processing cmdlets.",
             "codeRepository": "https://github.com/PowerShell/PowerShell",
@@ -2095,6 +2282,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "d01d2595-ead8-4baa-b57f-5ec9d8fd6866",
             "description": "Cross-platform automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models. It includes a command-line shell, an associated scripting language, and a framework for processing cmdlets.",
             "codeRepository": "https://github.com/PowerShell/PowerShell",
@@ -2106,6 +2294,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "d01d2595-ead8-4baa-b57f-5ec9d8fd6866",
             "description": "Cross-platform automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models. It includes a command-line shell, an associated scripting language, and a framework for processing cmdlets.",
             "codeRepository": "https://github.com/PowerShell/PowerShell",
@@ -2118,6 +2307,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "d01d2595-ead8-4baa-b57f-5ec9d8fd6866",
             "description": "Cross-platform automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models. It includes a command-line shell, an associated scripting language, and a framework for processing cmdlets.",
             "codeRepository": "https://github.com/PowerShell/PowerShell",
@@ -2129,6 +2319,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "d01d2595-ead8-4baa-b57f-5ec9d8fd6866",
             "description": "Cross-platform automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models. It includes a command-line shell, an associated scripting language, and a framework for processing cmdlets.",
             "codeRepository": "https://github.com/PowerShell/PowerShell",
@@ -2140,6 +2331,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "9ea9a757-c3e8-4221-aca8-84a4f3180592",
             "description": "Tool that recursively searches directories for a regex pattern while respecting your gitignore",
             "codeRepository": "https://github.com/BurntSushi/ripgrep",
@@ -2151,6 +2343,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "9ea9a757-c3e8-4221-aca8-84a4f3180592",
             "description": "Tool that recursively searches directories for a regex pattern while respecting your gitignore",
             "codeRepository": "https://github.com/BurntSushi/ripgrep",
@@ -2162,6 +2355,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "9ea9a757-c3e8-4221-aca8-84a4f3180592",
             "description": "Tool that recursively searches directories for a regex pattern while respecting your gitignore",
             "codeRepository": "https://github.com/BurntSushi/ripgrep",
@@ -2174,6 +2368,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "9ea9a757-c3e8-4221-aca8-84a4f3180592",
             "description": "Tool that recursively searches directories for a regex pattern while respecting your gitignore",
             "codeRepository": "https://github.com/BurntSushi/ripgrep",
@@ -2185,6 +2380,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "9ea9a757-c3e8-4221-aca8-84a4f3180592",
             "description": "Tool that recursively searches directories for a regex pattern while respecting your gitignore",
             "codeRepository": "https://github.com/BurntSushi/ripgrep",
@@ -2196,6 +2392,7 @@
             "targetProduct": "spack"
         },
         {
+            "applicationCategory": "package",
             "identifier": "9ea9a757-c3e8-4221-aca8-84a4f3180592",
             "description": "Tool that recursively searches directories for a regex pattern while respecting your gitignore",
             "codeRepository": "https://github.com/BurntSushi/ripgrep",
@@ -2207,6 +2404,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "7ba8ad1e-a175-4f47-8e3a-8531dc8852fd",
             "description": "ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.",
             "codeRepository": "https://github.com/phiresky/ripgrep-all",
@@ -2218,6 +2416,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "7ba8ad1e-a175-4f47-8e3a-8531dc8852fd",
             "description": "ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.",
             "codeRepository": "https://github.com/phiresky/ripgrep-all",
@@ -2230,6 +2429,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "7ba8ad1e-a175-4f47-8e3a-8531dc8852fd",
             "description": "ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.",
             "codeRepository": "https://github.com/phiresky/ripgrep-all",
@@ -2242,6 +2442,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "7ba8ad1e-a175-4f47-8e3a-8531dc8852fd",
             "description": "ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.",
             "codeRepository": "https://github.com/phiresky/ripgrep-all",
@@ -2254,6 +2455,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "a392cb58-63cf-47c3-b845-4a3414d80829",
             "description": "Static analysis tool for shell scripts",
             "codeRepository": "https://github.com/koalaman/shellcheck",
@@ -2265,6 +2467,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "a392cb58-63cf-47c3-b845-4a3414d80829",
             "description": "Static analysis tool for shell scripts",
             "codeRepository": "https://github.com/koalaman/shellcheck",
@@ -2276,6 +2479,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "a392cb58-63cf-47c3-b845-4a3414d80829",
             "description": "Static analysis tool for shell scripts",
             "codeRepository": "https://github.com/koalaman/shellcheck",
@@ -2288,6 +2492,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "a392cb58-63cf-47c3-b845-4a3414d80829",
             "description": "Static analysis tool for shell scripts",
             "codeRepository": "https://github.com/koalaman/shellcheck",
@@ -2299,6 +2504,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "a392cb58-63cf-47c3-b845-4a3414d80829",
             "description": "Static analysis tool for shell scripts",
             "codeRepository": "https://github.com/koalaman/shellcheck",
@@ -2310,6 +2516,7 @@
             "targetProduct": "spack"
         },
         {
+            "applicationCategory": "package",
             "identifier": "a392cb58-63cf-47c3-b845-4a3414d80829",
             "description": "Static analysis tool for shell scripts",
             "codeRepository": "https://github.com/koalaman/shellcheck",
@@ -2321,6 +2528,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "53122dac-038d-47cb-8d0f-12daa117f19f",
             "description": "Collaborative cheatsheets for console commands",
             "codeRepository": "https://github.com/tldr-pages/tldr",
@@ -2332,6 +2540,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "53122dac-038d-47cb-8d0f-12daa117f19f",
             "description": "Collaborative cheatsheets for console commands",
             "codeRepository": "https://github.com/tldr-pages/tldr",
@@ -2343,6 +2552,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "53122dac-038d-47cb-8d0f-12daa117f19f",
             "description": "Collaborative cheatsheets for console commands",
             "codeRepository": "https://github.com/tldr-pages/tldr",
@@ -2355,6 +2565,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "53122dac-038d-47cb-8d0f-12daa117f19f",
             "description": "Collaborative cheatsheets for console commands",
             "codeRepository": "https://github.com/tldr-pages/tldr",
@@ -2366,6 +2577,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "53122dac-038d-47cb-8d0f-12daa117f19f",
             "description": "Collaborative cheatsheets for console commands",
             "codeRepository": "https://github.com/tldr-pages/tldr",
@@ -2377,6 +2589,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "36da305b-bc4e-4d6e-a84a-87c318370467",
             "description": "Count your code, quickly",
             "codeRepository": "https://github.com/XAMPPRocky/tokei",
@@ -2388,6 +2601,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "36da305b-bc4e-4d6e-a84a-87c318370467",
             "description": "Count your code, quickly",
             "codeRepository": "https://github.com/XAMPPRocky/tokei",
@@ -2399,6 +2613,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "36da305b-bc4e-4d6e-a84a-87c318370467",
             "description": "Count your code, quickly",
             "codeRepository": "https://github.com/XAMPPRocky/tokei",
@@ -2411,6 +2626,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "36da305b-bc4e-4d6e-a84a-87c318370467",
             "description": "Count your code, quickly",
             "codeRepository": "https://github.com/XAMPPRocky/tokei",
@@ -2422,6 +2638,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "36da305b-bc4e-4d6e-a84a-87c318370467",
             "description": "Count your code, quickly",
             "codeRepository": "https://github.com/XAMPPRocky/tokei",
@@ -2433,6 +2650,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "a35f3a5a-57b1-4807-a6b4-ff3b1b937ca2",
             "description": "Portable command-line YAML, JSON, XML, CSV, TOML and properties processor",
             "codeRepository": "https://github.com/mikefarah/yq",
@@ -2444,6 +2662,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "a35f3a5a-57b1-4807-a6b4-ff3b1b937ca2",
             "description": "Portable command-line YAML, JSON, XML, CSV, TOML and properties processor",
             "codeRepository": "https://github.com/mikefarah/yq",
@@ -2455,6 +2674,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "a35f3a5a-57b1-4807-a6b4-ff3b1b937ca2",
             "description": "Portable command-line YAML, JSON, XML, CSV, TOML and properties processor",
             "codeRepository": "https://github.com/mikefarah/yq",
@@ -2467,6 +2687,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "a35f3a5a-57b1-4807-a6b4-ff3b1b937ca2",
             "description": "Portable command-line YAML, JSON, XML, CSV, TOML and properties processor",
             "codeRepository": "https://github.com/mikefarah/yq",
@@ -2478,6 +2699,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "a35f3a5a-57b1-4807-a6b4-ff3b1b937ca2",
             "description": "Portable command-line YAML, JSON, XML, CSV, TOML and properties processor",
             "codeRepository": "https://github.com/mikefarah/yq",
@@ -2489,6 +2711,7 @@
             "targetProduct": "spack"
         },
         {
+            "applicationCategory": "package",
             "identifier": "a35f3a5a-57b1-4807-a6b4-ff3b1b937ca2",
             "description": "Portable command-line YAML, JSON, XML, CSV, TOML and properties processor",
             "codeRepository": "https://github.com/mikefarah/yq",
@@ -2500,6 +2723,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "9e4a1063-8e64-4f17-a368-ac577a320ad9",
             "description": "A smarter cd command. Supports all major shells.",
             "codeRepository": "https://github.com/ajeetdsouza/zoxide",
@@ -2511,6 +2735,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "9e4a1063-8e64-4f17-a368-ac577a320ad9",
             "description": "A smarter cd command. Supports all major shells.",
             "codeRepository": "https://github.com/ajeetdsouza/zoxide",
@@ -2522,6 +2747,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "9e4a1063-8e64-4f17-a368-ac577a320ad9",
             "description": "A smarter cd command. Supports all major shells.",
             "codeRepository": "https://github.com/ajeetdsouza/zoxide",
@@ -2534,6 +2760,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "9e4a1063-8e64-4f17-a368-ac577a320ad9",
             "description": "A smarter cd command. Supports all major shells.",
             "codeRepository": "https://github.com/ajeetdsouza/zoxide",
@@ -2545,6 +2772,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "9e4a1063-8e64-4f17-a368-ac577a320ad9",
             "description": "A smarter cd command. Supports all major shells.",
             "codeRepository": "https://github.com/ajeetdsouza/zoxide",
@@ -2556,6 +2784,7 @@
             "targetProduct": "spack"
         },
         {
+            "applicationCategory": "package",
             "identifier": "9e4a1063-8e64-4f17-a368-ac577a320ad9",
             "description": "A smarter cd command. Supports all major shells.",
             "codeRepository": "https://github.com/ajeetdsouza/zoxide",
@@ -2567,6 +2796,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "650391d0-a8ff-4650-a6f3-b1b098537bdd",
             "description": "Cross-platform Text Expander written in Rust",
             "codeRepository": "https://github.com/espanso/espanso",
@@ -2578,6 +2808,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "650391d0-a8ff-4650-a6f3-b1b098537bdd",
             "description": "Cross-platform Text Expander written in Rust",
             "codeRepository": "https://github.com/espanso/espanso",
@@ -2589,6 +2820,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "650391d0-a8ff-4650-a6f3-b1b098537bdd",
             "description": "Cross-platform Text Expander written in Rust",
             "codeRepository": "https://github.com/espanso/espanso",
@@ -2601,6 +2833,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "650391d0-a8ff-4650-a6f3-b1b098537bdd",
             "description": "Cross-platform Text Expander written in Rust",
             "codeRepository": "https://github.com/espanso/espanso",
@@ -2612,6 +2845,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "650391d0-a8ff-4650-a6f3-b1b098537bdd",
             "description": "Cross-platform Text Expander written in Rust",
             "codeRepository": "https://github.com/espanso/espanso",
@@ -2623,6 +2857,7 @@
             "targetProduct": "spack"
         },
         {
+            "applicationCategory": "package",
             "identifier": "650391d0-a8ff-4650-a6f3-b1b098537bdd",
             "description": "Cross-platform Text Expander written in Rust",
             "codeRepository": "https://github.com/espanso/espanso",
@@ -2634,6 +2869,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "65c0a789-f9be-41ba-bd3d-890616210cec",
             "description": "Spaced repetition program",
             "codeRepository": "https://github.com/ankitects/anki",
@@ -2645,6 +2881,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "65c0a789-f9be-41ba-bd3d-890616210cec",
             "description": "Spaced repetition program",
             "codeRepository": "https://github.com/ankitects/anki",
@@ -2656,6 +2893,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "65c0a789-f9be-41ba-bd3d-890616210cec",
             "description": "Spaced repetition program",
             "codeRepository": "https://github.com/ankitects/anki",
@@ -2668,6 +2906,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "65c0a789-f9be-41ba-bd3d-890616210cec",
             "description": "Spaced repetition program",
             "codeRepository": "https://github.com/ankitects/anki",
@@ -2679,6 +2918,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "65c0a789-f9be-41ba-bd3d-890616210cec",
             "description": "Spaced repetition program",
             "codeRepository": "https://github.com/ankitects/anki",
@@ -2690,6 +2930,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "39fbb943-64ed-4199-b2d8-0508f8e6609b",
             "description": "Disk usage statistics viewer and cleanup tool",
             "codeRepository": "https://sourceforge.net/projects/windirstat",
@@ -2701,6 +2942,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "39fbb943-64ed-4199-b2d8-0508f8e6609b",
             "description": "Disk usage statistics viewer and cleanup tool",
             "codeRepository": "https://sourceforge.net/projects/windirstat",
@@ -2712,6 +2954,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "39fbb943-64ed-4199-b2d8-0508f8e6609b",
             "description": "Disk usage statistics viewer and cleanup tool",
             "codeRepository": "https://sourceforge.net/projects/windirstat",
@@ -2724,6 +2967,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "389481d9-c69a-4ada-9c72-0add8017f087",
             "description": "Command-line utility that converts image data, including animated GIFs, into graphics formats or ANSI/Unicode character art suitable for display in a terminal",
             "codeRepository": "https://github.com/hpjansson/chafa",
@@ -2735,6 +2979,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "389481d9-c69a-4ada-9c72-0add8017f087",
             "description": "Command-line utility that converts image data, including animated GIFs, into graphics formats or ANSI/Unicode character art suitable for display in a terminal",
             "codeRepository": "https://github.com/hpjansson/chafa",
@@ -2747,6 +2992,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "389481d9-c69a-4ada-9c72-0add8017f087",
             "description": "Command-line utility that converts image data, including animated GIFs, into graphics formats or ANSI/Unicode character art suitable for display in a terminal",
             "codeRepository": "https://github.com/hpjansson/chafa",
@@ -2758,6 +3004,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "389481d9-c69a-4ada-9c72-0add8017f087",
             "description": "Command-line utility that converts image data, including animated GIFs, into graphics formats or ANSI/Unicode character art suitable for display in a terminal",
             "codeRepository": "https://github.com/hpjansson/chafa",
@@ -2769,6 +3016,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "a8db0ca8-7d16-4f96-8aaf-627740ead85f",
             "description": "Tool to delete files blocked by something you do not know",
             "developmentStatus": "Active",
@@ -2779,6 +3027,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "a8db0ca8-7d16-4f96-8aaf-627740ead85f",
             "description": "Tool to delete files blocked by something you do not know",
             "developmentStatus": "Active",
@@ -2789,6 +3038,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "a8db0ca8-7d16-4f96-8aaf-627740ead85f",
             "description": "Tool to delete files blocked by something you do not know",
             "developmentStatus": "Active",
@@ -2800,6 +3050,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "0e980800-fe81-4f29-837c-045bd6485e5d",
             "description": "Keyboard utility for all your Windows presentation needs",
             "developmentStatus": "Active",
@@ -2810,6 +3061,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "0e980800-fe81-4f29-837c-045bd6485e5d",
             "description": "Keyboard utility for all your Windows presentation needs",
             "developmentStatus": "Active",
@@ -2820,6 +3072,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "0e980800-fe81-4f29-837c-045bd6485e5d",
             "description": "Keyboard utility for all your Windows presentation needs",
             "developmentStatus": "Active",
@@ -2831,6 +3084,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "98b067f8-905f-448e-af6a-dcd88c2c568f",
             "description": "Visual Studio Code",
             "codeRepository": "https://github.com/microsoft/vscode",
@@ -2843,6 +3097,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "98b067f8-905f-448e-af6a-dcd88c2c568f",
             "description": "Visual Studio Code",
             "codeRepository": "https://github.com/microsoft/vscode",
@@ -2855,6 +3110,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "98b067f8-905f-448e-af6a-dcd88c2c568f",
             "description": "Visual Studio Code",
             "codeRepository": "https://github.com/microsoft/vscode",
@@ -2866,6 +3122,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "98b067f8-905f-448e-af6a-dcd88c2c568f",
             "description": "Visual Studio Code",
             "codeRepository": "https://github.com/microsoft/vscode",
@@ -2878,6 +3135,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "98b067f8-905f-448e-af6a-dcd88c2c568f",
             "description": "VS Code in the browser",
             "codeRepository": "https://github.com/coder/code-server",
@@ -2889,6 +3147,7 @@
             "targetProduct": "spack"
         },
         {
+            "applicationCategory": "package",
             "identifier": "98b067f8-905f-448e-af6a-dcd88c2c568f",
             "description": "Visual Studio Code",
             "codeRepository": "https://github.com/microsoft/vscode",
@@ -2901,6 +3160,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "3d55ac2d-fc37-4b3a-8c6c-387cf492c2f9",
             "description": "SQL powered operating system instrumentation, monitoring, and analytics",
             "codeRepository": "https://github.com/osquery/osquery",
@@ -2912,6 +3172,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "3d55ac2d-fc37-4b3a-8c6c-387cf492c2f9",
             "description": "SQL powered operating system instrumentation, monitoring, and analytics",
             "codeRepository": "https://github.com/osquery/osquery",
@@ -2923,6 +3184,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "3d55ac2d-fc37-4b3a-8c6c-387cf492c2f9",
             "description": "SQL powered operating system instrumentation, monitoring, and analytics",
             "codeRepository": "https://github.com/osquery/osquery",
@@ -2935,6 +3197,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "3d55ac2d-fc37-4b3a-8c6c-387cf492c2f9",
             "description": "SQL powered operating system instrumentation, monitoring, and analytics",
             "codeRepository": "https://github.com/osquery/osquery",
@@ -2946,6 +3209,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "3d55ac2d-fc37-4b3a-8c6c-387cf492c2f9",
             "description": "SQL powered operating system instrumentation, monitoring, and analytics",
             "codeRepository": "https://github.com/osquery/osquery",
@@ -2957,6 +3221,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "a739f58d-961d-4925-bbe0-7bae437e60bf",
             "description": "Sudo for Windows",
             "codeRepository": "https://github.com/gerardog/gsudo",
@@ -2968,6 +3233,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "a739f58d-961d-4925-bbe0-7bae437e60bf",
             "description": "Sudo for Windows",
             "codeRepository": "https://github.com/gerardog/gsudo",
@@ -2979,6 +3245,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "a739f58d-961d-4925-bbe0-7bae437e60bf",
             "description": "Sudo for Windows",
             "codeRepository": "https://github.com/gerardog/gsudo",
@@ -2991,6 +3258,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "b8a9e1ef-67fe-453d-8774-5af9c5cf3a71",
             "description": "Magnificent app which corrects your previous console command",
             "codeRepository": "https://github.com/nvbn/thefuck",
@@ -3002,6 +3270,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "b8a9e1ef-67fe-453d-8774-5af9c5cf3a71",
             "description": "Magnificent app which corrects your previous console command",
             "codeRepository": "https://github.com/nvbn/thefuck",
@@ -3013,6 +3282,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "19a83b75-b05c-446a-9be0-599ba4614902",
             "description": "Utility that computes and verifies cryptographic hash values of files (File Checksum Integrity Verifier)",
             "developmentStatus": "Unsupported",
@@ -3023,6 +3293,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "3e49c72c-6820-4d0d-ac65-5ce01aff0134",
             "description": "Knowledge base that works on top of a local folder of plain text Markdown files",
             "developmentStatus": "Active",
@@ -3033,6 +3304,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "3e49c72c-6820-4d0d-ac65-5ce01aff0134",
             "description": "Knowledge base that works on top of a local folder of plain text Markdown files",
             "developmentStatus": "Active",
@@ -3043,6 +3315,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "3e49c72c-6820-4d0d-ac65-5ce01aff0134",
             "description": "Knowledge base that works on top of a local folder of plain text Markdown files",
             "developmentStatus": "Active",
@@ -3054,6 +3327,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "3e49c72c-6820-4d0d-ac65-5ce01aff0134",
             "description": "Knowledge base that works on top of a local folder of plain text Markdown files",
             "developmentStatus": "Active",
@@ -3064,6 +3338,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "3e49c72c-6820-4d0d-ac65-5ce01aff0134",
             "description": "Knowledge base that works on top of a local folder of plain text Markdown files",
             "developmentStatus": "Active",
@@ -3074,6 +3349,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "6a9aa1cc-6cf8-45ed-bdce-5d4d3adf972b",
             "description": "Swiss-army knife of markup format conversion",
             "codeRepository": "https://github.com/jgm/pandoc",
@@ -3085,6 +3361,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "6a9aa1cc-6cf8-45ed-bdce-5d4d3adf972b",
             "description": "Swiss-army knife of markup format conversion",
             "codeRepository": "https://github.com/jgm/pandoc",
@@ -3096,6 +3373,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "6a9aa1cc-6cf8-45ed-bdce-5d4d3adf972b",
             "description": "Swiss-army knife of markup format conversion",
             "codeRepository": "https://github.com/jgm/pandoc",
@@ -3108,6 +3386,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "6a9aa1cc-6cf8-45ed-bdce-5d4d3adf972b",
             "description": "Swiss-army knife of markup format conversion",
             "codeRepository": "https://github.com/jgm/pandoc",
@@ -3119,6 +3398,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "6a9aa1cc-6cf8-45ed-bdce-5d4d3adf972b",
             "description": "Swiss-army knife of markup format conversion",
             "codeRepository": "https://github.com/jgm/pandoc",
@@ -3130,6 +3410,7 @@
             "targetProduct": "spack"
         },
         {
+            "applicationCategory": "package",
             "identifier": "6a9aa1cc-6cf8-45ed-bdce-5d4d3adf972b",
             "description": "Swiss-army knife of markup format conversion",
             "codeRepository": "https://github.com/jgm/pandoc",
@@ -3141,6 +3422,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "d7312120-6aaa-4e2a-84a1-3cbaced595a2",
             "description": "Scalable TeX distribution - Modern C/C++ implementation of TeX & Friends",
             "codeRepository": "https://github.com/MiKTeX/miktex",
@@ -3152,6 +3434,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "d7312120-6aaa-4e2a-84a1-3cbaced595a2",
             "description": "Scalable TeX distribution - Modern C/C++ implementation of TeX & Friends",
             "codeRepository": "https://github.com/MiKTeX/miktex",
@@ -3163,6 +3446,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "d7312120-6aaa-4e2a-84a1-3cbaced595a2",
             "description": "Scalable TeX distribution - Modern C/C++ implementation of TeX & Friends",
             "codeRepository": "https://github.com/MiKTeX/miktex",
@@ -3175,6 +3459,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "d7312120-6aaa-4e2a-84a1-3cbaced595a2",
             "description": "Comprehensive TeX system that includes all the major TeX-related programs, macro packages, and fonts that are free software",
             "codeRepository": "https://github.com/TeX-Live/texlive-source",
@@ -3187,6 +3472,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "d7312120-6aaa-4e2a-84a1-3cbaced595a2",
             "description": "Comprehensive TeX system that includes all the major TeX-related programs, macro packages, and fonts that are free software",
             "codeRepository": "https://github.com/TeX-Live/texlive-source",
@@ -3198,6 +3484,7 @@
             "targetProduct": "spack"
         },
         {
+            "applicationCategory": "package",
             "identifier": "d7312120-6aaa-4e2a-84a1-3cbaced595a2",
             "description": "Comprehensive TeX system that includes all the major TeX-related programs, macro packages, and fonts that are free software",
             "codeRepository": "https://github.com/TeX-Live/texlive-source",
@@ -3209,6 +3496,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "76f98147-9de6-4670-88ec-f2e329228af7",
             "description": "Nerd Fonts patched 'Victor Mono' Font family",
             "codeRepository": "https://github.com/ryanoasis/nerd-fonts",
@@ -3220,6 +3508,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "76f98147-9de6-4670-88ec-f2e329228af7",
             "description": "Nerd Fonts patched 'Victor Mono' Font family",
             "codeRepository": "https://github.com/ryanoasis/nerd-fonts",
@@ -3232,6 +3521,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "76f98147-9de6-4670-88ec-f2e329228af7",
             "description": "Nerd Fonts patched 'Victor Mono' Font family",
             "codeRepository": "https://github.com/ryanoasis/nerd-fonts",
@@ -3244,6 +3534,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "12612fef-2162-4530-b61b-d866d9736afb",
             "description": "Nerd Fonts patched 'JetBrains Mono' Font family",
             "codeRepository": "https://github.com/ryanoasis/nerd-fonts",
@@ -3255,6 +3546,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "12612fef-2162-4530-b61b-d866d9736afb",
             "description": "Nerd Fonts patched 'JetBrains Mono' Font family",
             "codeRepository": "https://github.com/ryanoasis/nerd-fonts",
@@ -3267,6 +3559,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "12612fef-2162-4530-b61b-d866d9736afb",
             "description": "Nerd Fonts patched 'JetBrains Mono' Font family",
             "codeRepository": "https://github.com/ryanoasis/nerd-fonts",
@@ -3279,6 +3572,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "06cfe697-763a-4630-8a2a-4bd3f55ea549",
             "description": "Helps you clean up your Windows computer, optimize performance, and maintain your online privacy",
             "developmentStatus": "Active",
@@ -3289,6 +3583,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "06cfe697-763a-4630-8a2a-4bd3f55ea549",
             "description": "Helps you clean up your Windows computer, optimize performance, and maintain your online privacy",
             "developmentStatus": "Active",
@@ -3299,6 +3594,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "06cfe697-763a-4630-8a2a-4bd3f55ea549",
             "description": "Helps you clean up your Windows computer, optimize performance, and maintain your online privacy",
             "developmentStatus": "Active",
@@ -3310,6 +3606,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "06cfe697-763a-4630-8a2a-4bd3f55ea549",
             "description": "Helps you clean up your Windows computer, optimize performance, and maintain your online privacy",
             "developmentStatus": "Active",
@@ -3320,6 +3617,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "f647c654-8e4c-456f-a02c-fffd4b11048f",
             "description": "Screen, webcam and sketchboard recorder with an integrated editor",
             "developmentStatus": "Active",
@@ -3330,6 +3628,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "f647c654-8e4c-456f-a02c-fffd4b11048f",
             "description": "Screen, webcam and sketchboard recorder with an integrated editor",
             "developmentStatus": "Active",
@@ -3340,6 +3639,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "f647c654-8e4c-456f-a02c-fffd4b11048f",
             "description": "Screen, webcam and sketchboard recorder with an integrated editor",
             "developmentStatus": "Active",
@@ -3351,6 +3651,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "67698cdd-4ca5-456a-95ef-2d7022d1f320",
             "description": "OpenSSL for Microsoft Windows",
             "developmentStatus": "Active",
@@ -3361,6 +3662,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "67698cdd-4ca5-456a-95ef-2d7022d1f320",
             "description": "OpenSSL for Microsoft Windows",
             "developmentStatus": "Active",
@@ -3371,6 +3673,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "67698cdd-4ca5-456a-95ef-2d7022d1f320",
             "description": "OpenSSL for Microsoft Windows",
             "developmentStatus": "Active",
@@ -3382,6 +3685,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "67698cdd-4ca5-456a-95ef-2d7022d1f320",
             "description": "Cryptographic library that implements the SSL and TLS protocols",
             "codeRepository": "https://github.com/openssl/openssl",
@@ -3395,6 +3699,7 @@
             "version": "3.3.1"
         },
         {
+            "applicationCategory": "package",
             "identifier": "67698cdd-4ca5-456a-95ef-2d7022d1f320",
             "description": "Cryptographic library that implements the SSL and TLS protocols",
             "codeRepository": "https://github.com/openssl/openssl",
@@ -3406,6 +3711,7 @@
             "targetProduct": "spack"
         },
         {
+            "applicationCategory": "package",
             "identifier": "67698cdd-4ca5-456a-95ef-2d7022d1f320",
             "description": "Cryptographic library that implements the SSL and TLS protocols",
             "codeRepository": "https://github.com/openssl/openssl",
@@ -3418,6 +3724,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "5f7da1ce-7f13-40b7-a6c8-1ed80041824a",
             "description": "Free, easy-to-use tool to help you collect, organize, annotate, cite, and share research",
             "developmentStatus": "Active",
@@ -3428,6 +3735,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "5f7da1ce-7f13-40b7-a6c8-1ed80041824a",
             "description": "Free, easy-to-use tool to help you collect, organize, annotate, cite, and share research",
             "developmentStatus": "Active",
@@ -3438,6 +3746,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "5f7da1ce-7f13-40b7-a6c8-1ed80041824a",
             "description": "Free, easy-to-use tool to help you collect, organize, annotate, cite, and share research",
             "developmentStatus": "Active",
@@ -3449,6 +3758,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "5f7da1ce-7f13-40b7-a6c8-1ed80041824a",
             "description": "Free, easy-to-use tool to help you collect, organize, annotate, cite, and share research",
             "developmentStatus": "Active",
@@ -3459,6 +3769,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "5f7da1ce-7f13-40b7-a6c8-1ed80041824a",
             "description": "Free, easy-to-use tool to help you collect, organize, annotate, cite, and share research",
             "developmentStatus": "Active",
@@ -3469,6 +3780,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "fbaffe36-b6a7-4b7a-b65b-eca13f6e70d7",
             "description": "Fast disk usage analyzer with console interface written in Go",
             "codeRepository": "https://github.com/dundee/gdu",
@@ -3480,6 +3792,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "fbaffe36-b6a7-4b7a-b65b-eca13f6e70d7",
             "description": "Fast disk usage analyzer with console interface written in Go",
             "codeRepository": "https://github.com/dundee/gdu",
@@ -3491,6 +3804,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "fbaffe36-b6a7-4b7a-b65b-eca13f6e70d7",
             "description": "Fast disk usage analyzer with console interface written in Go",
             "codeRepository": "https://github.com/dundee/gdu",
@@ -3503,6 +3817,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "fbaffe36-b6a7-4b7a-b65b-eca13f6e70d7",
             "description": "Fast disk usage analyzer with console interface written in Go",
             "codeRepository": "https://github.com/dundee/gdu",
@@ -3514,6 +3829,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "fbaffe36-b6a7-4b7a-b65b-eca13f6e70d7",
             "description": "Disk usage analyzer with a text-mode user interface (NCurses Disk Usage)",
             "developmentStatus": "Active",
@@ -3524,6 +3840,7 @@
             "targetProduct": "spack"
         },
         {
+            "applicationCategory": "package",
             "identifier": "fbaffe36-b6a7-4b7a-b65b-eca13f6e70d7",
             "description": "Fast disk usage analyzer with console interface written in Go",
             "codeRepository": "https://github.com/dundee/gdu",
@@ -3535,6 +3852,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "6d228377-f411-41cc-ae8c-5fb70703ce0c",
             "description": "In-depth comparison of files, archives, and directories",
             "codeRepository": "https://salsa.debian.org/reproducible-builds/diffoscope",
@@ -3546,6 +3864,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "6d228377-f411-41cc-ae8c-5fb70703ce0c",
             "description": "In-depth comparison of files, archives, and directories",
             "codeRepository": "https://salsa.debian.org/reproducible-builds/diffoscope",
@@ -3557,6 +3876,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "27ff0508-dbc3-407e-a378-52ff93e41c90",
             "description": "Spell checker designed to eventually replace Ispell",
             "codeRepository": "https://github.com/GNUAspell/aspell",
@@ -3568,6 +3888,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "27ff0508-dbc3-407e-a378-52ff93e41c90",
             "description": "Spell checker designed to eventually replace Ispell",
             "codeRepository": "https://github.com/GNUAspell/aspell",
@@ -3579,6 +3900,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "27ff0508-dbc3-407e-a378-52ff93e41c90",
             "description": "Spell checker designed to eventually replace Ispell",
             "codeRepository": "https://github.com/GNUAspell/aspell",
@@ -3590,6 +3912,7 @@
             "targetProduct": "spack"
         },
         {
+            "applicationCategory": "package",
             "identifier": "27ff0508-dbc3-407e-a378-52ff93e41c90",
             "description": "Spell checker designed to eventually replace Ispell",
             "codeRepository": "https://github.com/GNUAspell/aspell",
@@ -3601,6 +3924,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "5fcc2266-0810-4aa8-bd7a-bcfa26f927bc",
             "description": "Docker CLI & Docker Engine for Windows containers",
             "developmentStatus": "Active",
@@ -3611,6 +3935,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "5fcc2266-0810-4aa8-bd7a-bcfa26f927bc",
             "description": "Docker desktop and Docker Community Edition (CE)",
             "developmentStatus": "Active",
@@ -3621,6 +3946,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "5fcc2266-0810-4aa8-bd7a-bcfa26f927bc",
             "description": "Docker CLI & Docker Engine",
             "developmentStatus": "Active",
@@ -3631,6 +3957,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "5fcc2266-0810-4aa8-bd7a-bcfa26f927bc",
             "description": "Docker desktop and Docker Community Edition (CE)",
             "developmentStatus": "Active",
@@ -3641,6 +3968,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "dc5953f0-138f-4bf6-a785-9c1173bee95d",
             "description": "Vulnerability scanner for container images and filesystems",
             "codeRepository": "https://github.com/anchore/grype",
@@ -3652,6 +3980,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "dc5953f0-138f-4bf6-a785-9c1173bee95d",
             "description": "Vulnerability scanner for container images and filesystems",
             "codeRepository": "https://github.com/anchore/grype",
@@ -3663,6 +3992,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "dc5953f0-138f-4bf6-a785-9c1173bee95d",
             "description": "Vulnerability scanner for container images and filesystems",
             "codeRepository": "https://github.com/anchore/grype",
@@ -3675,6 +4005,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "dc5953f0-138f-4bf6-a785-9c1173bee95d",
             "description": "Vulnerability scanner for container images and filesystems",
             "codeRepository": "https://github.com/anchore/grype",
@@ -3686,6 +4017,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "dc5953f0-138f-4bf6-a785-9c1173bee95d",
             "description": "Vulnerability scanner for container images and filesystems",
             "codeRepository": "https://github.com/anchore/grype",
@@ -3697,6 +4029,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "c168c465-1af4-4a56-995d-ada1925172c1",
             "description": "Simple and Comprehensive Vulnerability Scanner for Containers",
             "codeRepository": "https://github.com/aquasecurity/trivy",
@@ -3708,6 +4041,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "c168c465-1af4-4a56-995d-ada1925172c1",
             "description": "Simple and Comprehensive Vulnerability Scanner for Containers",
             "codeRepository": "https://github.com/aquasecurity/trivy",
@@ -3719,6 +4053,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "c168c465-1af4-4a56-995d-ada1925172c1",
             "description": "Simple and Comprehensive Vulnerability Scanner for Containers",
             "codeRepository": "https://github.com/aquasecurity/trivy",
@@ -3730,6 +4065,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "c168c465-1af4-4a56-995d-ada1925172c1",
             "description": "Simple and Comprehensive Vulnerability Scanner for Containers",
             "codeRepository": "https://github.com/aquasecurity/trivy",
@@ -3741,6 +4077,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "c168c465-1af4-4a56-995d-ada1925172c1",
             "description": "Simple and Comprehensive Vulnerability Scanner for Containers",
             "codeRepository": "https://github.com/aquasecurity/trivy",
@@ -3752,6 +4089,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "066295dc-8d71-422c-a70d-524427d3fadc",
             "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems (works well with grype)",
             "codeRepository": "https://github.com/anchore/syft",
@@ -3763,6 +4101,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "066295dc-8d71-422c-a70d-524427d3fadc",
             "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems (works well with grype)",
             "codeRepository": "https://github.com/anchore/syft",
@@ -3774,6 +4113,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "066295dc-8d71-422c-a70d-524427d3fadc",
             "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems (works well with grype)",
             "codeRepository": "https://github.com/anchore/syft",
@@ -3785,6 +4125,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "066295dc-8d71-422c-a70d-524427d3fadc",
             "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems (works well with grype)",
             "codeRepository": "https://github.com/anchore/syft",
@@ -3796,6 +4137,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "5cbd48c0-cb00-43c1-a372-cc6269b281d5",
             "description": "Tool for managing OCI containers and pods",
             "codeRepository": "https://github.com/containers/podman",
@@ -3807,6 +4149,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "5cbd48c0-cb00-43c1-a372-cc6269b281d5",
             "description": "Tool for managing OCI containers and pods",
             "codeRepository": "https://github.com/containers/podman",
@@ -3819,6 +4162,7 @@
             "targetProduct": "winget"
         },
         {
+            "applicationCategory": "package",
             "identifier": "5cbd48c0-cb00-43c1-a372-cc6269b281d5",
             "description": "Tool for managing OCI containers and pods",
             "codeRepository": "https://github.com/containers/podman",
@@ -3830,6 +4174,7 @@
             "targetProduct": "spack"
         },
         {
+            "applicationCategory": "package",
             "identifier": "5cbd48c0-cb00-43c1-a372-cc6269b281d5",
             "description": "Tool for managing OCI containers and pods",
             "codeRepository": "https://github.com/containers/podman",
@@ -3841,6 +4186,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "ee0ed30b-0630-46d1-bacb-49fd9b6a24c6",
             "description": "Developer platform for .NET applications",
             "codeRepository": "https://github.com/dotnet/sdk",
@@ -3852,6 +4198,7 @@
             "targetProduct": "scoop"
         },
         {
+            "applicationCategory": "package",
             "identifier": "ee0ed30b-0630-46d1-bacb-49fd9b6a24c6",
             "description": "Developer platform for .NET applications",
             "codeRepository": "https://github.com/dotnet/sdk",
@@ -3863,6 +4210,7 @@
             "targetProduct": "chocolatey"
         },
         {
+            "applicationCategory": "package",
             "identifier": "ee0ed30b-0630-46d1-bacb-49fd9b6a24c6",
             "description": "Developer platform for .NET applications",
             "codeRepository": "https://github.com/dotnet/sdk",
@@ -3876,6 +4224,7 @@
             "version": "8.0.0"
         },
         {
+            "applicationCategory": "package",
             "identifier": "ee0ed30b-0630-46d1-bacb-49fd9b6a24c6",
             "description": "Developer platform for .NET applications",
             "codeRepository": "https://github.com/dotnet/sdk",
@@ -3888,6 +4237,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "ee0ed30b-0630-46d1-bacb-49fd9b6a24c6",
             "description": "Developer platform for .NET applications",
             "codeRepository": "https://github.com/dotnet/sdk",
@@ -3900,6 +4250,7 @@
             "targetProduct": "spack"
         },
         {
+            "applicationCategory": "package",
             "identifier": "ee0ed30b-0630-46d1-bacb-49fd9b6a24c6",
             "description": "Developer platform for .NET applications",
             "codeRepository": "https://github.com/dotnet/sdk",
@@ -3911,6 +4262,7 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "package",
             "identifier": "089fdb38-66d2-49be-858f-8ed6b8c3ad89",
             "description": "Tool for managing the installation of multiple software packages in the same run-time directory tree",
             "codeRepository": "https://git.savannah.gnu.org/git/stow.git",
@@ -3922,6 +4274,7 @@
             "targetProduct": "nix"
         },
         {
+            "applicationCategory": "package",
             "identifier": "089fdb38-66d2-49be-858f-8ed6b8c3ad89",
             "description": "Tool for managing the installation of multiple software packages in the same run-time directory tree",
             "codeRepository": "https://git.savannah.gnu.org/git/stow.git",
@@ -3933,6 +4286,7 @@
             "targetProduct": "spack"
         },
         {
+            "applicationCategory": "package",
             "identifier": "089fdb38-66d2-49be-858f-8ed6b8c3ad89",
             "description": "Tool for managing the installation of multiple software packages in the same run-time directory tree",
             "codeRepository": "https://git.savannah.gnu.org/git/stow.git",
@@ -3944,14 +4298,14 @@
             "targetProduct": "homebrew"
         },
         {
+            "applicationCategory": "extension",
+            "applicationSubCategory": "language::rust",
             "identifier": "7fcd8ba0-4af4-4c97-8e28-d8210475ca88",
             "description": "Rust language support for Visual Studio Code",
             "url": "https://open-vsx.org/extension/rust-lang/rust-analyzer",
             "developmentStatus": "Active",
             "disambiguatingDescription": "rust-analyzer",
             "isAccessibleForFree": true,
-            "applicationCategory": "extension",
-            "applicationSubCategory": "language::rust",
             "keywords": ["syntax-highlighting"],
             "name": "rust-lang.rust-analyzer",
             "operatingSystem": ["windows", "linux", "mac"],

@@ -18,7 +18,7 @@ model Artifact {
   @key
   identifier: GUID | DOI;
 
-  applicationCategory?: ApplicationCategory;
+  applicationCategory: ApplicationCategory;
   applicationSubCategory?: ApplicationSubCategory;
   category?: string;
   codeRepository?: url;
