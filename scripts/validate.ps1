@@ -2,6 +2,7 @@
 
 $Referenced = @(
     'ApplicationCategory'
+    'ApplicationSubCategory'
     'Artifact'
     'DevelopmentStatus'
     'Keyword'

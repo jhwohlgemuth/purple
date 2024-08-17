@@ -14,12 +14,10 @@
             ]
         },
         "applicationCategory": {
-            "type": "string",
-            "description": "Type of software application, e.g. 'Game, Multimedia'"
+            "$ref": "ApplicationCategory.json"
         },
         "applicationSubCategory": {
-            "type": "string",
-            "description": "Subcategory of the application category, e.g. 'Adventure Game, Educational'"
+            "$ref": "ApplicationSubCategory.json"
         },
         "category": {
             "type": "string"

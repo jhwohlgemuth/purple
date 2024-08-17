@@ -3,9 +3,9 @@
     "$id": "ApplicationCategory.json",
     "type": "string",
     "enum": [
-        "application",
-        "extension",
-        "module",
-        "package"
-    ]
+        "package",
+        "package-manager",
+        "extension"
+    ],
+    "description": "Type of software application"
 }

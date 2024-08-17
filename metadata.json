@@ -3941,7 +3941,21 @@
             "keywords": [],
             "name": "stow",
             "operatingSystem": ["linux", "mac"],
-            "targetProduct": "brew"
+            "targetProduct": "homebrew"
+        },
+        {
+            "identifier": "7fcd8ba0-4af4-4c97-8e28-d8210475ca88",
+            "description": "Rust language support for Visual Studio Code",
+            "url": "https://open-vsx.org/extension/rust-lang/rust-analyzer",
+            "developmentStatus": "Active",
+            "disambiguatingDescription": "rust-analyzer",
+            "isAccessibleForFree": true,
+            "applicationCategory": "extension",
+            "applicationSubCategory": "language::rust",
+            "keywords": ["syntax-highlighting"],
+            "name": "rust-lang.rust-analyzer",
+            "operatingSystem": ["windows", "linux", "mac"],
+            "targetProduct": "vscode"
         }
     ]
 }

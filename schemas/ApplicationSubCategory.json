@@ -1,0 +1,16 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "ApplicationSubCategory.json",
+    "type": "string",
+    "enum": [
+        "language::correctness",
+        "language::dotnet",
+        "language::elixir",
+        "language::latex",
+        "language::python",
+        "language::rust",
+        "language::scala",
+        "web"
+    ],
+    "description": "Subcategory of the application category"
+}

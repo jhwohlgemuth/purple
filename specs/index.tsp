@@ -18,12 +18,8 @@ model Artifact {
   @key
   identifier: GUID | DOI;
 
-  @doc("Type of software application, e.g. 'Game, Multimedia'")
-  applicationCategory?: string;
-
-  @doc("Subcategory of the application category, e.g. 'Adventure Game, Educational'")
-  applicationSubCategory?: string;
-
+  applicationCategory?: ApplicationCategory;
+  applicationSubCategory?: ApplicationSubCategory;
   category?: string;
   codeRepository?: url;
   description?: string;
@@ -61,6 +57,23 @@ model Artifact {
 
   url?: url;
   version?: SemanticVersion;
+}
+@doc("Type of software application")
+enum ApplicationCategory {
+  package,
+  package_manager: "package-manager",
+  extension,
+}
+@doc("Subcategory of the application category")
+enum ApplicationSubCategory {
+  correctness: "language::correctness",
+  dotnet: "language::dotnet",
+  elixir: "language::elixir",
+  latex: "language::latex",
+  python: "language::python",
+  rust: "language::rust",
+  scala: "language::scala",
+  web,
 }
 enum DevelopmentStatus {
   @doc("Minimal or no implementation has been done yet, or the repository is only intended to be a limited example, demo, or proof-of-concept.")
