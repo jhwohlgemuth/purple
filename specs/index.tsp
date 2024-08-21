@@ -66,9 +66,11 @@ enum ApplicationCategory {
 }
 @doc("Subcategory of the application category")
 enum ApplicationSubCategory {
+  cask,
   correctness,
   dotnet: "language::dotnet",
   elixir: "language::elixir",
+  formula,
   latex,
   python: "language::python",
   rust: "language::rust",

@@ -38,6 +38,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "f058b59e-9873-4dea-b361-39edf50a1307",
             "description": "A multi-format file archiver with high compression ratios",
             "developmentStatus": "Active",
@@ -108,6 +109,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "6c13a058-ae66-4485-a56f-9c55830174ac",
             "description": "A cat(1) clone with wings",
             "developmentStatus": "Active",
@@ -178,6 +180,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "34e7a11f-9109-46ab-9cca-0971ca2a9e3d",
             "description": "Yet another cross-platform graphical process/system monitor",
             "codeRepository": "https://github.com/ClementTsang/bottom",
@@ -239,6 +242,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "06d59912-6283-44fb-91e4-628c823f5198",
             "description": "A better way to navigate directories",
             "codeRepository": "https://github.com/Canop/broot",
@@ -276,6 +280,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "c4f64567-83d4-49a0-b35f-e8ca1c03ab94",
             "description": "A monitor of resources",
             "codeRepository": "https://github.com/aristocratos/btop",
@@ -337,6 +342,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "5a802195-1bad-47f9-ade2-25f9cbf1b08a",
             "description": "Make JSON greppable",
             "codeRepository": "https://github.com/tomnomnom/gron",
@@ -397,6 +403,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "ba22b9eb-90b2-4ed7-89e0-04ab31a0dbd8",
             "description": "A syntax-highlighting pager for git, diff, grep, and blame output",
             "codeRepository": "https://github.com/dandavison/delta",
@@ -448,6 +455,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "1f174ffb-4d54-4416-8f52-e17911ca9034",
             "description": "A tool for glamorous shell scripts",
             "codeRepository": "https://github.com/charmbracelet/gum",
@@ -509,6 +517,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "5f804140-5ed7-4456-9c9a-b8877a6a9fb0",
             "description": "Simple yet fancy CPU architecture fetching tool",
             "codeRepository": "https://github.com/Dr-Noob/cpufetch",
@@ -582,6 +591,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "49887f8e-0c00-4d78-99ca-3a7d731d6b7f",
             "description": "Convert text files with DOS or Mac line breaks to Unix line breaks",
             "codeRepository": "https://sourceforge.net/p/dos2unix/dos2unix/ci/master/tree",
@@ -643,6 +653,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "b9d0fd36-c473-4f54-84a0-06dfc72203f1",
             "description": "Disk Usage/Free Utility - a better 'df' alternative",
             "codeRepository": "https://github.com/muesli/duf",
@@ -716,6 +727,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "70655cb0-8ad1-41fb-b51f-9ccb23b26937",
             "description": "A more intuitive version of du in rust",
             "codeRepository": "https://github.com/bootandy/dust",
@@ -777,6 +789,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "f4721223-35bc-46bb-86fb-9057d547254a",
             "description": "Feature-rich and performance oriented, neofetch like system information tool",
             "codeRepository": "https://github.com/fastfetch-cli/fastfetch",
@@ -850,6 +863,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "5703fb4d-9b57-4913-8cd2-40040fd77d59",
             "description": "A simple, fast and user-friendly alternative to 'find'",
             "codeRepository": "https://github.com/sharkdp/fd",
@@ -923,6 +937,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "7d641d95-69a5-4392-8f54-3d31c9cfe80e",
             "description": "A command-line fuzzy finder written in Go",
             "codeRepository": "https://github.com/junegunn/fzf",
@@ -996,6 +1011,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "22864a60-5134-4561-b5da-6db3c68a8ee6",
             "description": "GitHub's official command line tool",
             "codeRepository": "https://github.com/cli/cli",
@@ -1069,6 +1085,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "b1ee5240-5f63-44d8-83c3-e15683f0355c",
             "description": "Distributed version control system",
             "codeRepository": "https://github.com/git/git",
@@ -1142,6 +1159,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "fe27d6b8-0640-4d8c-81df-5fc01fb71f5b",
             "description": "Git extension to handle large files",
             "codeRepository": "https://github.com/git-lfs/git-lfs",
@@ -1215,6 +1233,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "782e110b-9fe4-40e0-93da-08e7f7bb1abd",
             "description": "Render markdown on the CLI, with pizzazz",
             "codeRepository": "https://github.com/charmbracelet/glow",
@@ -1263,6 +1282,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "7f882b53-36f9-46b9-903f-d5195f30182d",
             "description": "Ping, but with a graph",
             "codeRepository": "https://github.com/orf/gping",
@@ -1337,6 +1357,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "c367385d-99c8-4b2b-83aa-e5b85aeffdaf",
             "description": "Searches one or more input files for lines containing a match to a specified pattern",
             "codeRepository": "https://savannah.gnu.org/git/?group=grep",
@@ -1385,6 +1406,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "4b4d8bc3-d841-47bb-bf50-3d179a110690",
             "description": "Command-line tool and Rust library with Python bindings for generating regular expressions from user-provided test cases",
             "codeRepository": "https://github.com/pemistahl/grex",
@@ -1434,6 +1456,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "d104b582-ed63-49ae-b5bd-b21de6208fc3",
             "description": "Dockerfile linter, validate inline bash, written in Haskell",
             "codeRepository": "https://github.com/hadolint/hadolint",
@@ -1495,6 +1518,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "7d1f7c5b-1fd3-4b00-9192-a3eb1dfff046",
             "description": "A command-line hex viewer",
             "codeRepository": "https://github.com/sharkdp/hexyl",
@@ -1531,6 +1555,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "4ca3f19e-885b-4beb-b4e2-7556231bc472",
             "description": "Like jq, but for HTML",
             "codeRepository": "https://github.com/mgdm/htmlq",
@@ -1592,6 +1617,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "0156d4d3-1a0f-4442-b8c3-584a5e3594d9",
             "description": "Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.",
             "codeRepository": "https://github.com/httpie/cli",
@@ -1665,6 +1691,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "6f3e2a01-fa7c-43f9-b742-e210389377d3",
             "description": "A command-line benchmarking tool",
             "codeRepository": "https://github.com/sharkdp/hyperfine",
@@ -1738,6 +1765,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "19af409e-5dbe-4dc2-97de-78ff1f0d7174",
             "description": "Command-line JSON processor",
             "codeRepository": "https://github.com/jqlang/jq",
@@ -1799,6 +1827,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "7b9c73c7-ce13-42ee-a9c2-32dee758e2bc",
             "description": "Handy way to save and run project-specific commands",
             "codeRepository": "https://github.com/casey/just",
@@ -1872,6 +1901,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "a2e4ff3e-8593-4718-b454-f759097995ca",
             "description": "A more advanced file pager than 'more'",
             "codeRepository": "https://github.com/gwsw/less",
@@ -1933,6 +1963,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "960dcd00-3b41-4db8-b8d8-1ce259cd5707",
             "description": "Fast, async, stream-based link checker written in Rust. Finds broken URLs and mail addresses inside Markdown, HTML, reStructuredText, websites and more!",
             "codeRepository": "https://github.com/lycheeverse/lychee",
@@ -1995,6 +2026,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "07916eeb-4257-42a8-b67a-4f8b39a494df",
             "description": "Tool which controls the generation of executables and other non-source files of a program from the program's source files",
             "codeRepository": "https://savannah.gnu.org/git/?group=make",
@@ -2072,6 +2104,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "61712b85-83fd-4433-8f0d-d7fd7ce28eaf",
             "description": "Fast Cross-Platform Package Manager",
             "codeRepository": "https://github.com/mamba-org/mamba",
@@ -2150,6 +2183,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "74bc3858-4fe0-4c47-8dd6-771ba07f1312",
             "description": "Vim-fork focused on extensibility and usability",
             "codeRepository": "https://github.com/neovim/neovim",
@@ -2210,12 +2244,13 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "cask",
             "identifier": "0edeafb3-844f-4be6-80c1-5b602bbc4111",
             "description": "Reverse proxy, secure introspectable tunnels to localhost",
             "codeRepository": "https://github.com/ngrok/ngrok-nix",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["cask"],
+            "keywords": [],
             "name": "ngrok",
             "operatingSystem": ["mac"],
             "targetProduct": "homebrew"
@@ -2259,6 +2294,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "69957d15-a96a-42f7-81bd-3a81991cab40",
             "description": "Command-line tool to generate, analyze, convert and manipulate colors",
             "codeRepository": "https://github.com/sharkdp/pastel",
@@ -2320,12 +2356,13 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "cask",
             "identifier": "d01d2595-ead8-4baa-b57f-5ec9d8fd6866",
             "description": "Cross-platform automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (e.g. JSON, CSV, XML, etc.), REST APIs, and object models. It includes a command-line shell, an associated scripting language, and a framework for processing cmdlets.",
             "codeRepository": "https://github.com/PowerShell/PowerShell",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["cask"],
+            "keywords": [],
             "name": "powershell",
             "operatingSystem": ["mac"],
             "targetProduct": "homebrew"
@@ -2393,6 +2430,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "9ea9a757-c3e8-4221-aca8-84a4f3180592",
             "description": "Tool that recursively searches directories for a regex pattern while respecting your gitignore",
             "codeRepository": "https://github.com/BurntSushi/ripgrep",
@@ -2443,6 +2481,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "7ba8ad1e-a175-4f47-8e3a-8531dc8852fd",
             "description": "ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc.",
             "codeRepository": "https://github.com/phiresky/ripgrep-all",
@@ -2517,6 +2556,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "a392cb58-63cf-47c3-b845-4a3414d80829",
             "description": "Static analysis tool for shell scripts",
             "codeRepository": "https://github.com/koalaman/shellcheck",
@@ -2578,6 +2618,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "53122dac-038d-47cb-8d0f-12daa117f19f",
             "description": "Collaborative cheatsheets for console commands",
             "codeRepository": "https://github.com/tldr-pages/tldr",
@@ -2639,6 +2680,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "36da305b-bc4e-4d6e-a84a-87c318370467",
             "description": "Count your code, quickly",
             "codeRepository": "https://github.com/XAMPPRocky/tokei",
@@ -2712,6 +2754,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "a35f3a5a-57b1-4807-a6b4-ff3b1b937ca2",
             "description": "Portable command-line YAML, JSON, XML, CSV, TOML and properties processor",
             "codeRepository": "https://github.com/mikefarah/yq",
@@ -2785,6 +2828,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "9e4a1063-8e64-4f17-a368-ac577a320ad9",
             "description": "A smarter cd command. Supports all major shells.",
             "codeRepository": "https://github.com/ajeetdsouza/zoxide",
@@ -2858,12 +2902,13 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "cask",
             "identifier": "650391d0-a8ff-4650-a6f3-b1b098537bdd",
             "description": "Cross-platform Text Expander written in Rust",
             "codeRepository": "https://github.com/espanso/espanso",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["cask"],
+            "keywords": [],
             "name": "espanso",
             "operatingSystem": ["mac"],
             "targetProduct": "homebrew"
@@ -2919,12 +2964,13 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "cask",
             "identifier": "65c0a789-f9be-41ba-bd3d-890616210cec",
             "description": "Spaced repetition program",
             "codeRepository": "https://github.com/ankitects/anki",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["cask"],
+            "keywords": [],
             "name": "anki",
             "operatingSystem": ["mac"],
             "targetProduct": "homebrew"
@@ -3005,6 +3051,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "389481d9-c69a-4ada-9c72-0add8017f087",
             "description": "Command-line utility that converts image data, including animated GIFs, into graphics formats or ANSI/Unicode character art suitable for display in a terminal",
             "codeRepository": "https://github.com/hpjansson/chafa",
@@ -3148,13 +3195,14 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "cask",
             "identifier": "98b067f8-905f-448e-af6a-dcd88c2c568f",
             "description": "Visual Studio Code",
             "codeRepository": "https://github.com/microsoft/vscode",
             "developmentStatus": "Active",
             "disambiguatingDescription": "code",
             "isAccessibleForFree": true,
-            "keywords": ["cask", "editor"],
+            "keywords": ["editor"],
             "name": "visual-studio-code",
             "operatingSystem": ["mac"],
             "targetProduct": "homebrew"
@@ -3210,12 +3258,13 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "cask",
             "identifier": "3d55ac2d-fc37-4b3a-8c6c-387cf492c2f9",
             "description": "SQL powered operating system instrumentation, monitoring, and analytics",
             "codeRepository": "https://github.com/osquery/osquery",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["cask"],
+            "keywords": [],
             "name": "osquery",
             "operatingSystem": ["mac"],
             "targetProduct": "homebrew"
@@ -3271,6 +3320,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "b8a9e1ef-67fe-453d-8774-5af9c5cf3a71",
             "description": "Magnificent app which corrects your previous console command",
             "codeRepository": "https://github.com/nvbn/thefuck",
@@ -3339,11 +3389,12 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "cask",
             "identifier": "3e49c72c-6820-4d0d-ac65-5ce01aff0134",
             "description": "Knowledge base that works on top of a local folder of plain text Markdown files",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["cask"],
+            "keywords": [],
             "name": "obsidian",
             "operatingSystem": ["mac"],
             "targetProduct": "homebrew"
@@ -3411,6 +3462,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "6a9aa1cc-6cf8-45ed-bdce-5d4d3adf972b",
             "description": "Swiss-army knife of markup format conversion",
             "codeRepository": "https://github.com/jgm/pandoc",
@@ -3485,6 +3537,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "d7312120-6aaa-4e2a-84a1-3cbaced595a2",
             "description": "Comprehensive TeX system that includes all the major TeX-related programs, macro packages, and fonts that are free software",
             "codeRepository": "https://github.com/TeX-Live/texlive-source",
@@ -3522,13 +3575,14 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "cask",
             "identifier": "76f98147-9de6-4670-88ec-f2e329228af7",
             "description": "Nerd Fonts patched 'Victor Mono' Font family",
             "codeRepository": "https://github.com/ryanoasis/nerd-fonts",
             "developmentStatus": "Active",
             "disambiguatingDescription": "VictorMono-NF",
             "isAccessibleForFree": true,
-            "keywords": ["cask", "font"],
+            "keywords": ["font"],
             "name": "font-victor-mono-nerd-font",
             "operatingSystem": ["mac"],
             "targetProduct": "homebrew"
@@ -3560,13 +3614,14 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "cask",
             "identifier": "12612fef-2162-4530-b61b-d866d9736afb",
             "description": "Nerd Fonts patched 'JetBrains Mono' Font family",
             "codeRepository": "https://github.com/ryanoasis/nerd-fonts",
             "developmentStatus": "Active",
             "disambiguatingDescription": "JetBrainsMono-NF",
             "isAccessibleForFree": true,
-            "keywords": ["cask", "font"],
+            "keywords": ["font"],
             "name": "font-jetbrains-mono-nerd-font",
             "operatingSystem": ["mac"],
             "targetProduct": "homebrew"
@@ -3607,11 +3662,12 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "cask",
             "identifier": "06cfe697-763a-4630-8a2a-4bd3f55ea549",
             "description": "Helps you clean up your Windows computer, optimize performance, and maintain your online privacy",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["cask"],
+            "keywords": [],
             "name": "ccleaner",
             "operatingSystem": ["mac"],
             "targetProduct": "homebrew"
@@ -3712,6 +3768,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "67698cdd-4ca5-456a-95ef-2d7022d1f320",
             "description": "Cryptographic library that implements the SSL and TLS protocols",
             "codeRepository": "https://github.com/openssl/openssl",
@@ -3770,11 +3827,12 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "cask",
             "identifier": "5f7da1ce-7f13-40b7-a6c8-1ed80041824a",
             "description": "Free, easy-to-use tool to help you collect, organize, annotate, cite, and share research",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["cask", "research"],
+            "keywords": ["research"],
             "name": "zotero",
             "operatingSystem": ["mac"],
             "targetProduct": "homebrew"
@@ -3841,6 +3899,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "fbaffe36-b6a7-4b7a-b65b-eca13f6e70d7",
             "description": "Fast disk usage analyzer with console interface written in Go",
             "codeRepository": "https://github.com/dundee/gdu",
@@ -3865,6 +3924,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "6d228377-f411-41cc-ae8c-5fb70703ce0c",
             "description": "In-depth comparison of files, archives, and directories",
             "codeRepository": "https://salsa.debian.org/reproducible-builds/diffoscope",
@@ -3913,6 +3973,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "27ff0508-dbc3-407e-a378-52ff93e41c90",
             "description": "Spell checker designed to eventually replace Ispell",
             "codeRepository": "https://github.com/GNUAspell/aspell",
@@ -3958,11 +4019,12 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "cask",
             "identifier": "5fcc2266-0810-4aa8-bd7a-bcfa26f927bc",
             "description": "Docker desktop and Docker Community Edition (CE)",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["cask"],
+            "keywords": [],
             "name": "docker",
             "operatingSystem": ["mac"],
             "targetProduct": "homebrew"
@@ -4018,6 +4080,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "dc5953f0-138f-4bf6-a785-9c1173bee95d",
             "description": "Vulnerability scanner for container images and filesystems",
             "codeRepository": "https://github.com/anchore/grype",
@@ -4078,6 +4141,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "c168c465-1af4-4a56-995d-ada1925172c1",
             "description": "Simple and Comprehensive Vulnerability Scanner for Containers",
             "codeRepository": "https://github.com/aquasecurity/trivy",
@@ -4126,6 +4190,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "066295dc-8d71-422c-a70d-524427d3fadc",
             "description": "CLI tool and library for generating a Software Bill of Materials from container images and filesystems (works well with grype)",
             "codeRepository": "https://github.com/anchore/syft",
@@ -4175,6 +4240,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "5cbd48c0-cb00-43c1-a372-cc6269b281d5",
             "description": "Tool for managing OCI containers and pods",
             "codeRepository": "https://github.com/containers/podman",
@@ -4251,12 +4317,13 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "cask",
             "identifier": "ee0ed30b-0630-46d1-bacb-49fd9b6a24c6",
             "description": "Developer platform for .NET applications",
             "codeRepository": "https://github.com/dotnet/sdk",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["cask"],
+            "keywords": [],
             "name": "dotnet-sdk",
             "operatingSystem": ["mac"],
             "targetProduct": "homebrew"
@@ -4287,6 +4354,7 @@
         },
         {
             "applicationCategory": "package",
+            "applicationSubCategory": "formula",
             "identifier": "089fdb38-66d2-49be-858f-8ed6b8c3ad89",
             "description": "Tool for managing the installation of multiple software packages in the same run-time directory tree",
             "codeRepository": "https://git.savannah.gnu.org/git/stow.git",
