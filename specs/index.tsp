@@ -109,6 +109,7 @@ enum Keyword {
   bucket_nerd_font: "bucket::nerd-fonts",
   cask,
   cpu,
+  css,
   editor,
   font,
   git,

@@ -4560,6 +4560,76 @@
             "name": "xldenis.whycode",
             "operatingSystem": ["windows", "linux", "mac"],
             "targetProduct": "vscode"
+        },
+        {
+            "applicationCategory": "extension",
+            "applicationSubCategory": "frontend",
+            "identifier": "7573fa42-181f-479b-b1a3-c74a6e8a2729",
+            "description": "Provides quick information css colors",
+            "url": "https://open-vsx.org/extension/bierner/color-info",
+            "developmentStatus": "Active",
+            "disambiguatingDescription": "color-info",
+            "isAccessibleForFree": true,
+            "keywords": ["css"],
+            "name": "bierner.color-info",
+            "operatingSystem": ["windows", "linux", "mac"],
+            "targetProduct": "vscode"
+        },
+        {
+            "applicationCategory": "extension",
+            "applicationSubCategory": "frontend",
+            "identifier": "f8d67a2b-7ec3-465a-ba76-9b8984203726",
+            "description": "ReScript language support",
+            "url": "https://open-vsx.org/extension/chenglou92/rescript-vscode",
+            "developmentStatus": "Active",
+            "disambiguatingDescription": "ReScript language support",
+            "isAccessibleForFree": true,
+            "keywords": ["syntax-highlighting"],
+            "name": "chenglou92.rescript-vscode",
+            "operatingSystem": ["windows", "linux", "mac"],
+            "targetProduct": "vscode"
+        },
+        {
+            "applicationCategory": "extension",
+            "applicationSubCategory": "frontend",
+            "identifier": "451698a3-5d7c-4330-b00f-b6134e966270",
+            "description": "Syntax highlighting for styled-components",
+            "url": "https://open-vsx.org/extension/styled-components/vscode-styled-components",
+            "developmentStatus": "Active",
+            "disambiguatingDescription": "vscode-styled-components",
+            "isAccessibleForFree": true,
+            "keywords": ["syntax-highlighting"],
+            "name": "styled-components.vscode-styled-components",
+            "operatingSystem": ["windows", "linux", "mac"],
+            "targetProduct": "vscode"
+        },
+        {
+            "applicationCategory": "extension",
+            "applicationSubCategory": "frontend",
+            "identifier": "477d69f4-10fc-4319-86b3-309a412137ec",
+            "description": "Language server client for Deno",
+            "url": "https://open-vsx.org/extension/denoland/vscode-deno",
+            "developmentStatus": "Active",
+            "disambiguatingDescription": "vscode-deno",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "denoland.vscode-deno",
+            "operatingSystem": ["windows", "linux", "mac"],
+            "targetProduct": "vscode"
+        },
+        {
+            "applicationCategory": "extension",
+            "applicationSubCategory": "frontend",
+            "identifier": "969de5f4-5ccb-4538-9057-b6c47302391b",
+            "description": "Improving your Elm experience since 2019",
+            "url": "https://open-vsx.org/extension/Elmtooling/elm-ls-vscode",
+            "developmentStatus": "Active",
+            "disambiguatingDescription": "elm-ls-vscode",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "elmtooling.elm-ls-vscode",
+            "operatingSystem": ["windows", "linux", "mac"],
+            "targetProduct": "vscode"
         }
     ]
 }
