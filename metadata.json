@@ -4630,6 +4630,48 @@
             "name": "elmtooling.elm-ls-vscode",
             "operatingSystem": ["windows", "linux", "mac"],
             "targetProduct": "vscode"
+        },
+        {
+            "applicationCategory": "extension",
+            "applicationSubCategory": "language::python",
+            "identifier": "271e0042-85d1-4aa5-87cc-a765772e5a34",
+            "description": "Support for the Ruff linter",
+            "url": "https://open-vsx.org/extension/charliermarsh/ruff",
+            "developmentStatus": "Active",
+            "disambiguatingDescription": "ruff",
+            "isAccessibleForFree": true,
+            "keywords": ["static-analysis"],
+            "name": "charliermarsh.ruff",
+            "operatingSystem": ["windows", "linux", "mac"],
+            "targetProduct": "vscode"
+        },
+        {
+            "applicationCategory": "extension",
+            "applicationSubCategory": "language::python",
+            "identifier": "262e6693-6ce9-46a0-a07e-349cd035b058",
+            "description": "Python language support with extension access points for IntelliSense (Pylance), Debugging (Python Debugger), linting, formatting, refactoring, unit tests, and more",
+            "url": "https://open-vsx.org/extension/ms-python/python",
+            "developmentStatus": "Active",
+            "disambiguatingDescription": "python",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "ms-python.python",
+            "operatingSystem": ["windows", "linux", "mac"],
+            "targetProduct": "vscode"
+        },
+        {
+            "applicationCategory": "extension",
+            "applicationSubCategory": "language::python",
+            "identifier": "ab836f76-bbb7-4498-ac3d-c245177c3908",
+            "description": "Jupyter notebook support, interactive programming and computing that supports Intellisense, debugging and more",
+            "url": "https://open-vsx.org/extension/ms-toolsai/jupyter",
+            "developmentStatus": "Active",
+            "disambiguatingDescription": "jupyter",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "ms-toolsai.jupyter",
+            "operatingSystem": ["windows", "linux", "mac"],
+            "targetProduct": "vscode"
         }
     ]
 }
