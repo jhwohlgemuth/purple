@@ -4672,6 +4672,62 @@
             "name": "ms-toolsai.jupyter",
             "operatingSystem": ["windows", "linux", "mac"],
             "targetProduct": "vscode"
+        },
+        {
+            "applicationCategory": "extension",
+            "applicationSubCategory": "dotnet",
+            "identifier": "cbd3d8f5-48de-4310-ac79-acbb084018ce",
+            "description": "Installs and manages different versions of the .NET SDK and Runtime",
+            "url": "https://open-vsx.org/extension/ms-dotnettools/vscode-dotnet-runtime",
+            "developmentStatus": "Active",
+            "disambiguatingDescription": "vscode-dotnet-runtime",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "ms-dotnettools.vscode-dotnet-runtime",
+            "operatingSystem": ["windows", "linux", "mac"],
+            "targetProduct": "vscode"
+        },
+        {
+            "applicationCategory": "extension",
+            "applicationSubCategory": "dotnet",
+            "identifier": "63460b8d-4bab-4c05-8866-ccc696d7909f",
+            "description": "Develop PowerShell modules, commands and scripts",
+            "url": "https://open-vsx.org/extension/ms-vscode/powershell",
+            "developmentStatus": "Active",
+            "disambiguatingDescription": "powershell",
+            "isAccessibleForFree": true,
+            "keywords": ["syntax-highlighting"],
+            "name": "ms-vscode.powershell",
+            "operatingSystem": ["windows", "linux", "mac"],
+            "targetProduct": "vscode"
+        },
+        {
+            "applicationCategory": "extension",
+            "applicationSubCategory": "dotnet",
+            "identifier": "b578807d-db61-455a-a04e-82bd5093f6f1",
+            "description": "F# Language Support, powered by FsAutoComplete",
+            "url": "https://open-vsx.org/extension/Ionide/Ionide-fsharp",
+            "developmentStatus": "Active",
+            "disambiguatingDescription": "ionide-fsharp",
+            "isAccessibleForFree": true,
+            "keywords": ["language::fsharp"],
+            "name": "ionide.ionide-fsharp",
+            "operatingSystem": ["windows", "linux", "mac"],
+            "targetProduct": "vscode"
+        },
+        {
+            "applicationCategory": "extension",
+            "applicationSubCategory": "dotnet",
+            "identifier": "b578807d-db61-455a-a04e-82bd5093f6f1",
+            "description": "Uno Platform Projects XAML Completion, Hot Reload and Debugging support for VS Code",
+            "url": "https://open-vsx.org/extension/unoplatform/vscode",
+            "developmentStatus": "Active",
+            "disambiguatingDescription": "Uno platform",
+            "isAccessibleForFree": true,
+            "keywords": [],
+            "name": "unoplatform.vscode",
+            "operatingSystem": ["windows", "linux", "mac"],
+            "targetProduct": "vscode"
         }
     ]
 }

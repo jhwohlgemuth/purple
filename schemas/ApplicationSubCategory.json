@@ -5,10 +5,11 @@
     "enum": [
         "cask",
         "correctness",
-        "language::dotnet",
+        "dotnet",
         "language::elixir",
         "formula",
         "latex",
+        "language::powershell",
         "language::python",
         "language::rust",
         "language::scala",

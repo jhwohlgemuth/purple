@@ -1,15 +1,8 @@
 {
     "dotnet": [
-        "icsharpcode.ilspy-vscode",
-        "ionide.ionide-fake",
         "ionide.ionide-fsharp",
-        "ionide.ionide-paket",
-        "ms-dotnettools.csharp",
         "ms-dotnettools.vscode-dotnet-runtime",
-        "ms-vscode.azure-account",
         "ms-vscode.powershell",
-        "pspester.pester-test",
-        "redhat.vscode-xml",
         "unoplatform.vscode"
     ],
     "elixir": [
@@ -45,6 +38,7 @@
         "ms-vscode.atom-keybindings",
         "oderwat.indent-rainbow",
         "shellscape.shellscape-brackets",
+        "redhat.vscode-xml",
         "redhat.vscode-yaml",
         "ryanluker.vscode-coverage-gutters",
         "skellock.just",

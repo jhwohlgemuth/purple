@@ -20,6 +20,7 @@
         "static-analysis",
         "syntax-highlighting",
         "language::coq",
+        "language::fsharp",
         "language::lean",
         "language::rust",
         "language::ocaml",
