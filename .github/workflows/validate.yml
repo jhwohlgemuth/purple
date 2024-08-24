@@ -1,0 +1,32 @@
+name: Validate
+
+permissions:
+  contents: read
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  validation:
+    permissions:
+      packages: write
+    runs-on: mcr.microsoft.com/powershell
+    steps:
+      - name: Harden Runner
+        uses: step-security/harden-runner@5c7944e73c4c2a096b17a9cb74d65b6c2bbafbde # v2.9.1
+        with:
+          egress-policy: audit
+
+      - name: Checkout repository
+        uses: actions/checkout@f43a0e5ff2bd294095638e18286ca9a3d1956744
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+
+      - shell: pwsh
+        run: |
+            npm install
+            npm run validate
