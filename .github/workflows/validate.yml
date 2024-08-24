@@ -8,6 +8,10 @@ on:
   push:
     branches:
       - main
+    paths:
+      - metadata.json
+      - schemas/**
+      - scripts/Invoke-Validate.ps1
 
 jobs:
   validation:
