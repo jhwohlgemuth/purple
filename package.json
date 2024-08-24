@@ -20,6 +20,6 @@
         "precompile": "npm run format",
         "compile": "tsp compile ./specs/index.tsp",
         "prevalidate": "npm run compile",
-        "validate": "pwsh ./scripts/validate.ps1"
+        "validate": "pwsh -Command ./scripts/Invoke-Validate.ps1"
     }
 }

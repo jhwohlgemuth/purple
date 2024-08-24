@@ -29,4 +29,5 @@ jobs:
       - shell: pwsh
         run: |
             npm install
+            pwsh -Command Install-Module -Name Prelude -Scope CurrentUser -Force
             npm run validate
