@@ -19,7 +19,7 @@
         "tecosaur.latex-utilities",
         "james-yu.latex-workshop"
     ],
-    "notebook": [
+    "development": [
         "aaron-bond.better-comments",
         "akamud.vscode-theme-onedark",
         "bbenoist.nix",
