@@ -148,7 +148,7 @@
             "codeRepository": "https://github.com/ClementTsang/bottom",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["monitoring"],
             "name": "bottom",
             "operatingSystem": ["windows"],
             "targetProduct": "scoop"
@@ -160,7 +160,7 @@
             "codeRepository": "https://github.com/ClementTsang/bottom",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["admin"],
+            "keywords": ["admin", "monitoring"],
             "name": "bottom",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -173,7 +173,7 @@
             "developmentStatus": "Active",
             "disambiguatingDescription": "bottom",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["monitoring"],
             "name": "Clement.bottom",
             "operatingSystem": ["windows"],
             "targetProduct": "winget"
@@ -186,7 +186,7 @@
             "codeRepository": "https://github.com/ClementTsang/bottom",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["monitoring"],
             "name": "bottom",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "homebrew"
@@ -198,7 +198,7 @@
             "codeRepository": "https://github.com/ClementTsang/bottom",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["monitoring"],
             "name": "bottom",
             "operatingSystem": ["linux"],
             "targetProduct": "nix"
@@ -260,7 +260,7 @@
             "codeRepository": "https://github.com/aristocratos/btop",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["monitoring"],
             "name": "btop",
             "operatingSystem": ["windows"],
             "targetProduct": "scoop"
@@ -273,7 +273,7 @@
             "developmentStatus": "Active",
             "disambiguatingDescription": "btop",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["monitoring"],
             "name": "aristocratos.btop4win",
             "operatingSystem": ["windows"],
             "targetProduct": "winget"
@@ -286,7 +286,7 @@
             "codeRepository": "https://github.com/aristocratos/btop",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["monitoring"],
             "name": "btop",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "homebrew"
@@ -298,7 +298,7 @@
             "codeRepository": "https://github.com/aristocratos/btop",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["monitoring"],
             "name": "btop",
             "operatingSystem": ["linux"],
             "targetProduct": "nix"
@@ -310,7 +310,7 @@
             "codeRepository": "https://github.com/aristocratos/btop",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["monitoring"],
             "name": "btop",
             "operatingSystem": ["linux"],
             "targetProduct": "spack"
@@ -473,7 +473,7 @@
             "codeRepository": "https://github.com/Dr-Noob/cpufetch",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["cpu", "architecture"],
+            "keywords": ["cpu", "architecture", "monitoring"],
             "name": "cpufetch",
             "operatingSystem": ["windows"],
             "targetProduct": "scoop"
@@ -484,7 +484,7 @@
             "description": "Freeware that gathers information on some of the main devices of your system",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["admin", "cpu", "architecture"],
+            "keywords": ["admin", "cpu", "architecture", "monitoring"],
             "name": "cpu-z",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey",
@@ -498,7 +498,7 @@
             "developmentStatus": "Active",
             "disambiguatingDescription": "cpufetch",
             "isAccessibleForFree": true,
-            "keywords": ["cpu", "architecture"],
+            "keywords": ["cpu", "architecture", "monitoring"],
             "name": "Dr-Noob.cpufetch",
             "operatingSystem": ["windows"],
             "targetProduct": "winget"
@@ -510,7 +510,7 @@
             "codeRepository": "https://github.com/Dr-Noob/cpufetch",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["cpu", "architecture"],
+            "keywords": ["cpu", "architecture", "monitoring"],
             "name": "cpufetch",
             "operatingSystem": ["linux"],
             "targetProduct": "nix"
@@ -523,7 +523,7 @@
             "codeRepository": "https://github.com/Dr-Noob/cpufetch",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["cpu", "architecture"],
+            "keywords": ["cpu", "architecture", "monitoring"],
             "name": "cpufetch",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "homebrew"
@@ -609,7 +609,7 @@
             "codeRepository": "https://github.com/muesli/duf",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["monitoring"],
             "name": "duf",
             "operatingSystem": ["windows"],
             "targetProduct": "scoop"
@@ -621,7 +621,7 @@
             "codeRepository": "https://github.com/muesli/duf",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["admin"],
+            "keywords": ["admin", "monitoring"],
             "name": "duf",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -634,10 +634,10 @@
             "developmentStatus": "Active",
             "disambiguatingDescription": "duf",
             "isAccessibleForFree": true,
-            "keywords": ["admin"],
+            "keywords": ["monitoring"],
             "name": "muesli.duf",
             "operatingSystem": ["windows"],
-            "targetProduct": "chocolatey"
+            "targetProduct": "winget"
         },
         {
             "applicationCategory": "package",
@@ -646,9 +646,9 @@
             "codeRepository": "https://github.com/muesli/duf",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["monitoring"],
             "name": "duf",
-            "operatingSystem": ["windows"],
+            "operatingSystem": ["linux"],
             "targetProduct": "nix"
         },
         {
@@ -659,7 +659,7 @@
             "codeRepository": "https://github.com/muesli/duf",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["monitoring"],
             "name": "duf",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "homebrew"
@@ -671,7 +671,7 @@
             "codeRepository": "https://github.com/bootandy/dust",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["monitoring"],
             "name": "dust",
             "operatingSystem": ["windows"],
             "targetProduct": "scoop"
@@ -683,7 +683,7 @@
             "codeRepository": "https://github.com/bootandy/dust",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["admin"],
+            "keywords": ["admin", "monitoring"],
             "name": "dust",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -696,7 +696,7 @@
             "developmentStatus": "Active",
             "disambiguatingDescription": "dust",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["monitoring"],
             "name": "bootandy.dust",
             "operatingSystem": ["windows"],
             "targetProduct": "winget"
@@ -708,7 +708,7 @@
             "codeRepository": "https://github.com/bootandy/dust",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["monitoring"],
             "name": "dust",
             "operatingSystem": ["linux"],
             "targetProduct": "nix"
@@ -720,7 +720,7 @@
             "codeRepository": "https://github.com/bootandy/dust",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["monitoring"],
             "name": "dust",
             "operatingSystem": ["linux"],
             "targetProduct": "spack"
@@ -733,7 +733,7 @@
             "codeRepository": "https://github.com/bootandy/dust",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["monitoring"],
             "name": "dust",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "homebrew"
@@ -745,7 +745,7 @@
             "codeRepository": "https://github.com/fastfetch-cli/fastfetch",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["architecture"],
+            "keywords": ["architecture", "monitoring"],
             "name": "fastfetch",
             "operatingSystem": ["windows"],
             "targetProduct": "scoop"
@@ -757,7 +757,7 @@
             "codeRepository": "https://github.com/fastfetch-cli/fastfetch",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["admin", "architecture"],
+            "keywords": ["admin", "architecture", "monitoring"],
             "name": "fastfetch",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -770,7 +770,7 @@
             "developmentStatus": "Active",
             "disambiguatingDescription": "fastfetch",
             "isAccessibleForFree": true,
-            "keywords": ["architecture"],
+            "keywords": ["architecture", "monitoring"],
             "name": "Fastfetch-cli.Fastfetch",
             "operatingSystem": ["windows"],
             "targetProduct": "winget"
@@ -782,7 +782,7 @@
             "codeRepository": "https://github.com/fastfetch-cli/fastfetch",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["architecture"],
+            "keywords": ["architecture", "monitoring"],
             "name": "fastfetch",
             "operatingSystem": ["linux"],
             "targetProduct": "nix"
@@ -795,7 +795,7 @@
             "codeRepository": "https://github.com/fastfetch-cli/fastfetch",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["architecture"],
+            "keywords": ["architecture", "monitoring"],
             "name": "fastfetch",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "homebrew"
@@ -2982,7 +2982,7 @@
             "codeRepository": "https://sourceforge.net/projects/windirstat",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["monitoring"],
             "name": "windirstat",
             "operatingSystem": ["windows"],
             "targetProduct": "scoop"
@@ -2994,7 +2994,7 @@
             "codeRepository": "https://sourceforge.net/projects/windirstat",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["admin"],
+            "keywords": ["admin", "monitoring"],
             "name": "windirstat",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -3007,7 +3007,7 @@
             "developmentStatus": "Active",
             "disambiguatingDescription": "windirstat",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["monitoring"],
             "name": "WinDirStat.WinDirStat",
             "operatingSystem": ["windows"],
             "targetProduct": "winget"
@@ -3479,6 +3479,7 @@
             "description": "Scalable TeX distribution - Modern C/C++ implementation of TeX & Friends",
             "codeRepository": "https://github.com/MiKTeX/miktex",
             "developmentStatus": "Active",
+            "disambiguatingDescription": "latex",
             "isAccessibleForFree": true,
             "keywords": [],
             "name": "miktex",
@@ -3491,6 +3492,7 @@
             "description": "Scalable TeX distribution - Modern C/C++ implementation of TeX & Friends",
             "codeRepository": "https://github.com/MiKTeX/miktex",
             "developmentStatus": "Active",
+            "disambiguatingDescription": "latex",
             "isAccessibleForFree": true,
             "keywords": ["admin"],
             "name": "miktex",
@@ -3503,7 +3505,7 @@
             "description": "Scalable TeX distribution - Modern C/C++ implementation of TeX & Friends",
             "codeRepository": "https://github.com/MiKTeX/miktex",
             "developmentStatus": "Active",
-            "disambiguatingDescription": "miktex",
+            "disambiguatingDescription": "latex",
             "isAccessibleForFree": true,
             "keywords": [],
             "name": "MiKTeX.MiKTeX",
@@ -3516,7 +3518,7 @@
             "description": "Comprehensive TeX system that includes all the major TeX-related programs, macro packages, and fonts that are free software",
             "codeRepository": "https://github.com/TeX-Live/texlive-source",
             "developmentStatus": "Active",
-            "disambiguatingDescription": "texlive",
+            "disambiguatingDescription": "latex",
             "isAccessibleForFree": true,
             "keywords": [],
             "name": "texliveFull",
@@ -3529,6 +3531,7 @@
             "description": "Comprehensive TeX system that includes all the major TeX-related programs, macro packages, and fonts that are free software",
             "codeRepository": "https://github.com/TeX-Live/texlive-source",
             "developmentStatus": "Active",
+            "disambiguatingDescription": "latex",
             "isAccessibleForFree": true,
             "keywords": [],
             "name": "texlive",
@@ -3542,6 +3545,7 @@
             "description": "Comprehensive TeX system that includes all the major TeX-related programs, macro packages, and fonts that are free software",
             "codeRepository": "https://github.com/TeX-Live/texlive-source",
             "developmentStatus": "Active",
+            "disambiguatingDescription": "latex",
             "isAccessibleForFree": true,
             "keywords": [],
             "name": "texlive",
@@ -3844,7 +3848,7 @@
             "codeRepository": "https://github.com/dundee/gdu",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["monitoring"],
             "name": "gdu",
             "operatingSystem": ["windows"],
             "targetProduct": "scoop"
@@ -3856,7 +3860,7 @@
             "codeRepository": "https://github.com/dundee/gdu",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": ["admin"],
+            "keywords": ["admin", "monitoring"],
             "name": "gdu",
             "operatingSystem": ["windows"],
             "targetProduct": "chocolatey"
@@ -3869,7 +3873,7 @@
             "developmentStatus": "Active",
             "disambiguatingDescription": "gdu",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["monitoring"],
             "name": "dundee.gdu",
             "operatingSystem": ["windows"],
             "targetProduct": "winget"
@@ -3881,7 +3885,7 @@
             "codeRepository": "https://github.com/dundee/gdu",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["monitoring"],
             "name": "gdu",
             "operatingSystem": ["linux"],
             "targetProduct": "nix"
@@ -3892,7 +3896,7 @@
             "description": "Disk usage analyzer with a text-mode user interface (NCurses Disk Usage)",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["monitoring"],
             "name": "ncdu",
             "operatingSystem": ["linux"],
             "targetProduct": "spack"
@@ -3905,7 +3909,7 @@
             "codeRepository": "https://github.com/dundee/gdu",
             "developmentStatus": "Active",
             "isAccessibleForFree": true,
-            "keywords": [],
+            "keywords": ["monitoring"],
             "name": "gdu",
             "operatingSystem": ["linux", "mac"],
             "targetProduct": "homebrew"
