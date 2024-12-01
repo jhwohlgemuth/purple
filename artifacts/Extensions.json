@@ -35,6 +35,7 @@
         "kisstkondoros.vscode-gutter-preview",
         "mechatroner.rainbow-csv",
         "mkhl.shfmt",
+        "ms-toolsai.jupyter",
         "ms-vscode.atom-keybindings",
         "oderwat.indent-rainbow",
         "shellscape.shellscape-brackets",
@@ -47,8 +48,7 @@
     ],
     "python": [
         "charliermarsh.ruff",
-        "ms-python.python",
-        "ms-toolsai.jupyter"
+        "ms-python.python"
     ],
     "rust": [
         "rust-lang.rust-analyzer"
