@@ -10,7 +10,7 @@
     ],
     "correctness": [
         "leanprover.lean4",
-        "maximedenes.vscoq",
+        "rocq-prover.vsrocq",
         "ocamllabs.ocaml-platform",
         "xldenis.whycode"
     ],
