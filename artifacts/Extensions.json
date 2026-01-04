@@ -55,6 +55,7 @@
         "ms-python.python"
     ],
     "rust": [
+        "rhaiscript.vscode-rhai",
         "rust-lang.rust-analyzer"
     ],
     "scala": [
